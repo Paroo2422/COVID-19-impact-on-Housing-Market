@@ -1,0 +1,4793 @@
+city,state_id,state_name,county_fips,county_name
+Los Angeles,CA,California,6037,Los Angeles
+Dallas,TX,Texas,48113,Dallas
+Houston,TX,Texas,48201,Harris
+Seattle,WA,Washington,53033,King
+San Francisco,CA,California,6075,San Francisco
+San Diego,CA,California,6073,San Diego
+Denver,CO,Colorado,8031,Denver
+Riverside,CA,California,6065,Riverside
+San Antonio,TX,Texas,48029,Bexar
+Sacramento,CA,California,6067,Sacramento
+San Jose,CA,California,6085,Santa Clara
+Austin,TX,Texas,48453,Travis
+Virginia Beach,VA,Virginia,51810,Virginia Beach
+Richmond,VA,Virginia,51760,Richmond
+Fort Worth,TX,Texas,48439,Tarrant
+El Paso,TX,Texas,48141,El Paso
+McAllen,TX,Texas,48215,Hidalgo
+Fresno,CA,California,6019,Fresno
+Concord,CA,California,6013,Contra Costa
+Colorado Springs,CO,Colorado,8041,El Paso
+Mission Viejo,CA,California,6059,Orange
+Bakersfield,CA,California,6029,Kern
+Murrieta,CA,California,6065,Riverside
+Long Beach,CA,California,6037,Los Angeles
+Denton,TX,Texas,48121,Denton
+Oakland,CA,California,6001,Alameda
+Indio,CA,California,6065,Riverside
+Spokane,WA,Washington,53063,Spokane
+Arlington,TX,Texas,48439,Tarrant
+Stockton,CA,California,6077,San Joaquin
+Oxnard,CA,California,6111,Ventura
+Modesto,CA,California,6099,Stanislaus
+Aurora,CO,Colorado,8001,Adams
+Anaheim,CA,California,6059,Orange
+Victorville,CA,California,6071,San Bernardino
+Lancaster,CA,California,6037,Los Angeles
+Corpus Christi,TX,Texas,48355,Nueces
+Santa Ana,CA,California,6059,Orange
+Santa Rosa,CA,California,6097,Sonoma
+Fort Collins,CO,Colorado,8069,Larimer
+Santa Clarita,CA,California,6037,Los Angeles
+Antioch,CA,California,6013,Contra Costa
+Plano,TX,Texas,48085,Collin
+Irvine,CA,California,6059,Orange
+Chula Vista,CA,California,6073,San Diego
+Lubbock,TX,Texas,48303,Lubbock
+Laredo,TX,Texas,48479,Webb
+McKinney,TX,Texas,48085,Collin
+Killeen,TX,Texas,48027,Bell
+Chesapeake,VA,Virginia,51550,Chesapeake
+Norfolk,VA,Virginia,51710,Norfolk
+Fremont,CA,California,6001,Alameda
+Kennewick,WA,Washington,53005,Benton
+Garland,TX,Texas,48113,Dallas
+Irving,TX,Texas,48113,Dallas
+Visalia,CA,California,6107,Tulare
+Arlington,VA,Virginia,51013,Arlington
+Brownsville,TX,Texas,48061,Cameron
+Bremerton,WA,Washington,53035,Kitsap
+Tacoma,WA,Washington,53053,Pierce
+San Bernardino,CA,California,6071,San Bernardino
+College Station,TX,Texas,48041,Brazos
+Thousand Oaks,CA,California,6111,Ventura
+Roanoke,VA,Virginia,51770,Roanoke
+Fontana,CA,California,6071,San Bernardino
+Moreno Valley,CA,California,6065,Riverside
+Amarillo,TX,Texas,48375,Potter
+Santa Barbara,CA,California,6083,Santa Barbara
+Olympia,WA,Washington,53067,Thurston
+Frisco,TX,Texas,48085,Collin
+Glendale,CA,California,6037,Los Angeles
+Huntington Beach,CA,California,6059,Orange
+Grand Prairie,TX,Texas,48113,Dallas
+Waco,TX,Texas,48309,McLennan
+Salinas,CA,California,6053,Monterey
+Ontario,CA,California,6071,San Bernardino
+Vancouver,WA,Washington,53011,Clark
+Newport News,VA,Virginia,51700,Newport News
+Rancho Cucamonga,CA,California,6071,San Bernardino
+Hemet,CA,California,6065,Riverside
+Santa Cruz,CA,California,6087,Santa Cruz
+Oceanside,CA,California,6073,San Diego
+Elk Grove,CA,California,6067,Sacramento
+Vallejo,CA,California,6095,Solano
+Garden Grove,CA,California,6059,Orange
+Marysville,WA,Washington,53061,Snohomish
+Corona,CA,California,6065,Riverside
+Fredericksburg,VA,Virginia,51630,Fredericksburg
+Alexandria,VA,Virginia,51510,Alexandria
+Hayward,CA,California,6001,Alameda
+Lakewood,CO,Colorado,8059,Jefferson
+Odessa,TX,Texas,48135,Ector
+Palmdale,CA,California,6037,Los Angeles
+Midland,TX,Texas,48329,Midland
+Port Arthur,TX,Texas,48245,Jefferson
+Sunnyvale,CA,California,6085,Santa Clara
+Pomona,CA,California,6037,Los Angeles
+Escondido,CA,California,6073,San Diego
+Pasadena,TX,Texas,48201,Harris
+Fairfield,CA,California,6095,Solano
+Bellevue,WA,Washington,53033,King
+Beaumont,TX,Texas,48245,Jefferson
+Merced,CA,California,6047,Merced
+Pueblo,CO,Colorado,8101,Pueblo
+Tyler,TX,Texas,48423,Smith
+Torrance,CA,California,6037,Los Angeles
+Roseville,CA,California,6061,Placer
+Thornton,CO,Colorado,8001,Adams
+Pasadena,CA,California,6037,Los Angeles
+Mesquite,TX,Texas,48113,Dallas
+Santa Maria,CA,California,6083,Santa Barbara
+Carrollton,TX,Texas,48113,Dallas
+Grand Junction,CO,Colorado,8077,Mesa
+Orange,CA,California,6059,Orange
+Fullerton,CA,California,6059,Orange
+Greeley,CO,Colorado,8123,Weld
+Harlingen,TX,Texas,48061,Cameron
+Hampton,VA,Virginia,51650,Hampton
+Round Rock,TX,Texas,48491,Williamson
+Yakima,WA,Washington,53077,Yakima
+Kent,WA,Washington,53033,King
+Bellingham,WA,Washington,53073,Whatcom
+Santa Clara,CA,California,6085,Santa Clara
+Lynchburg,VA,Virginia,51680,Lynchburg
+Simi Valley,CA,California,6111,Ventura
+Boulder,CO,Colorado,8013,Boulder
+Abilene,TX,Texas,48441,Taylor
+Pearland,TX,Texas,48039,Brazoria
+Berkeley,CA,California,6001,Alameda
+Richardson,TX,Texas,48113,Dallas
+Redding,CA,California,6089,Shasta
+Arvada,CO,Colorado,8059,Jefferson
+East Los Angeles,CA,California,6037,Los Angeles
+Yuba City,CA,California,6101,Sutter
+Gilroy,CA,California,6085,Santa Clara
+Sugar Land,TX,Texas,48157,Fort Bend
+Texas City,TX,Texas,48167,Galveston
+Chico,CA,California,6007,Butte
+Seaside,CA,California,6053,Monterey
+El Monte,CA,California,6037,Los Angeles
+Carlsbad,CA,California,6073,San Diego
+Temecula,CA,California,6065,Riverside
+Clovis,CA,California,6019,Fresno
+The Woodlands,TX,Texas,48339,Montgomery
+Westminster,CO,Colorado,8001,Adams
+Costa Mesa,CA,California,6059,Orange
+Everett,WA,Washington,53061,Snohomish
+El Centro,CA,California,6025,Imperial
+Downey,CA,California,6037,Los Angeles
+Centennial,CO,Colorado,8005,Arapahoe
+Richmond,CA,California,6013,Contra Costa
+Jurupa Valley,CA,California,6065,Riverside
+Lewisville,TX,Texas,48121,Denton
+San Buenaventura,CA,California,6111,Ventura
+Inglewood,CA,California,6037,Los Angeles
+League City,TX,Texas,48167,Galveston
+Turlock,CA,California,6099,Stanislaus
+Temple,TX,Texas,48027,Bell
+Daly City,CA,California,6081,San Mateo
+Highlands Ranch,CO,Colorado,8035,Douglas
+Allen,TX,Texas,48085,Collin
+West Covina,CA,California,6037,Los Angeles
+Wichita Falls,TX,Texas,48485,Wichita
+San Mateo,CA,California,6081,San Mateo
+Norwalk,CA,California,6037,Los Angeles
+Rialto,CA,California,6071,San Bernardino
+Manteca,CA,California,6077,San Joaquin
+Arden-Arcade,CA,California,6067,Sacramento
+El Cajon,CA,California,6073,San Diego
+Burbank,CA,California,6037,Los Angeles
+Longmont,CO,Colorado,8013,Boulder
+Renton,WA,Washington,53033,King
+Vista,CA,California,6073,San Diego
+Vacaville,CA,California,6095,Solano
+Edinburg,TX,Texas,48215,Hidalgo
+Spokane Valley,WA,Washington,53063,Spokane
+San Angelo,TX,Texas,48451,Tom Green
+Charlottesville,VA,Virginia,51540,Charlottesville
+Longview,TX,Texas,48183,Gregg
+Tracy,CA,California,6077,San Joaquin
+Lafayette,CO,Colorado,8013,Boulder
+San Marcos,CA,California,6073,San Diego
+Federal Way,WA,Washington,53033,King
+Hesperia,CA,California,6071,San Bernardino
+Compton,CA,California,6037,Los Angeles
+Menifee,CA,California,6065,Riverside
+Portsmouth,VA,Virginia,51740,Portsmouth
+Chino,CA,California,6071,San Bernardino
+Hanford,CA,California,6031,Kings
+South Gate,CA,California,6037,Los Angeles
+Kirkland,WA,Washington,53033,King
+Suffolk,VA,Virginia,51800,Suffolk
+Blacksburg,VA,Virginia,51121,Montgomery
+Carson,CA,California,6037,Los Angeles
+Conroe,TX,Texas,48339,Montgomery
+Livermore,CA,California,6001,Alameda
+Westminster,CA,California,6059,Orange
+Santa Monica,CA,California,6037,Los Angeles
+New Braunfels,TX,Texas,48091,Comal
+San Leandro,CA,California,6001,Alameda
+Citrus Heights,CA,California,6067,Sacramento
+Bryan,TX,Texas,48041,Brazos
+Hawthorne,CA,California,6037,Los Angeles
+Redwood City,CA,California,6081,San Mateo
+Lake Forest,CA,California,6059,Orange
+Napa,CA,California,6055,Napa
+Whittier,CA,California,6037,Los Angeles
+Newport Beach,CA,California,6059,Orange
+Mission,TX,Texas,48215,Hidalgo
+Milpitas,CA,California,6085,Santa Clara
+Madera,CA,California,6039,Madera
+Chino Hills,CA,California,6071,San Bernardino
+Alhambra,CA,California,6037,Los Angeles
+Mountain View,CA,California,6085,Santa Clara
+Buena Park,CA,California,6059,Orange
+Pleasanton,CA,California,6001,Alameda
+Atascocita,TX,Texas,48201,Harris
+Auburn,WA,Washington,53033,King
+Folsom,CA,California,6067,Sacramento
+Williamsburg,VA,Virginia,51830,Williamsburg
+Georgetown,TX,Texas,48491,Williamson
+Cedar Park,TX,Texas,48491,Williamson
+Tustin,CA,California,6059,Orange
+Lakewood,CA,California,6037,Los Angeles
+Perris,CA,California,6065,Riverside
+Flower Mound,TX,Texas,48121,Denton
+Pharr,TX,Texas,48215,Hidalgo
+Loveland,CO,Colorado,8069,Larimer
+Texarkana,TX,Texas,48037,Bowie
+Alameda,CA,California,6001,Alameda
+Watsonville,CA,California,6087,Santa Cruz
+Porterville,CA,California,6107,Tulare
+Baytown,TX,Texas,48201,Harris
+Upland,CA,California,6071,San Bernardino
+Davis,CA,California,6113,Yolo
+Camarillo,CA,California,6111,Ventura
+Bellflower,CA,California,6037,Los Angeles
+San Marcos,TX,Texas,48209,Hays
+San Ramon,CA,California,6013,Contra Costa
+Lake Jackson,TX,Texas,48039,Brazoria
+Missouri City,TX,Texas,48157,Fort Bend
+Pasco,WA,Washington,53021,Franklin
+Baldwin Park,CA,California,6037,Los Angeles
+Rancho Cordova,CA,California,6067,Sacramento
+Lodi,CA,California,6077,San Joaquin
+Winchester,VA,Virginia,51840,Winchester
+Centreville,VA,Virginia,51059,Fairfax
+Union City,CA,California,6001,Alameda
+Apple Valley,CA,California,6071,San Bernardino
+Dale City,VA,Virginia,51153,Prince William
+Pittsburg,CA,California,6013,Contra Costa
+Mansfield,TX,Texas,48439,Tarrant
+Harrisonburg,VA,Virginia,51660,Harrisonburg
+Wenatchee,WA,Washington,53007,Chelan
+Redmond,WA,Washington,53033,King
+Redlands,CA,California,6071,San Bernardino
+Mount Vernon,WA,Washington,53057,Skagit
+Sherman,TX,Texas,48181,Grayson
+North Richland Hills,TX,Texas,48439,Tarrant
+Broomfield,CO,Colorado,8014,Broomfield
+El Paso de Robles,CA,California,6079,San Luis Obispo
+Walnut Creek,CA,California,6013,Contra Costa
+Lynwood,CA,California,6037,Los Angeles
+Lake Elsinore,CA,California,6065,Riverside
+Rocklin,CA,California,6061,Placer
+Castle Rock,CO,Colorado,8035,Douglas
+Victoria,TX,Texas,48469,Victoria
+South San Francisco,CA,California,6081,San Mateo
+Yorba Linda,CA,California,6059,Orange
+Rowlett,TX,Texas,48113,Dallas
+Longview,WA,Washington,53015,Cowlitz
+Petaluma,CA,California,6097,Sonoma
+Redondo Beach,CA,California,6037,Los Angeles
+Laguna Niguel,CA,California,6059,Orange
+Sammamish,WA,Washington,53033,King
+Florence-Graham,CA,California,6037,Los Angeles
+Tulare,CA,California,6107,Tulare
+Pflugerville,TX,Texas,48453,Travis
+Palo Alto,CA,California,6085,Santa Clara
+Dublin,CA,California,6001,Alameda
+San Clemente,CA,California,6059,Orange
+Brentwood,CA,California,6013,Contra Costa
+Carmichael,CA,California,6067,Sacramento
+Eastvale,CA,California,6065,Riverside
+Castro Valley,CA,California,6001,Alameda
+Encinitas,CA,California,6073,San Diego
+Leander,TX,Texas,48491,Williamson
+San Luis Obispo,CA,California,6079,San Luis Obispo
+Pico Rivera,CA,California,6037,Los Angeles
+Montebello,CA,California,6037,Los Angeles
+National City,CA,California,6073,San Diego
+Reston,VA,Virginia,51059,Fairfax
+Lakewood,WA,Washington,53053,Pierce
+Spring,TX,Texas,48201,Harris
+Woodland,CA,California,6113,Yolo
+La Habra,CA,California,6059,Orange
+South Whittier,CA,California,6037,Los Angeles
+Commerce City,CO,Colorado,8001,Adams
+South Hill,WA,Washington,53053,Pierce
+Monterey Park,CA,California,6037,Los Angeles
+Staunton,VA,Virginia,51790,Staunton
+Gardena,CA,California,6037,Los Angeles
+Cupertino,CA,California,6085,Santa Clara
+La Mesa,CA,California,6073,San Diego
+San Rafael,CA,California,6041,Marin
+Richland,WA,Washington,53005,Benton
+Santee,CA,California,6073,San Diego
+Arcadia,CA,California,6037,Los Angeles
+Walla Walla,WA,Washington,53071,Walla Walla
+Parker,CO,Colorado,8035,Douglas
+Huntington Park,CA,California,6037,Los Angeles
+Euless,TX,Texas,48439,Tarrant
+Shoreline,WA,Washington,53033,King
+Diamond Bar,CA,California,6037,Los Angeles
+Eagle Pass,TX,Texas,48323,Maverick
+Novato,CA,California,6041,Marin
+Highland,CA,California,6071,San Bernardino
+Fountain Valley,CA,California,6059,Orange
+Grapevine,TX,Texas,48439,Tarrant
+Hacienda Heights,CA,California,6037,Los Angeles
+Cathedral City,CA,California,6065,Riverside
+Delano,CA,California,6029,Kern
+Colton,CA,California,6071,San Bernardino
+Arroyo Grande,CA,California,6079,San Luis Obispo
+Rosemead,CA,California,6037,Los Angeles
+Paramount,CA,California,6037,Los Angeles
+Yucaipa,CA,California,6071,San Bernardino
+Leesburg,VA,Virginia,51107,Loudoun
+West Sacramento,CA,California,6113,Yolo
+Palm Desert,CA,California,6065,Riverside
+Little Elm,TX,Texas,48121,Denton
+Wylie,TX,Texas,48085,Collin
+DeSoto,TX,Texas,48113,Dallas
+Lacey,WA,Washington,53067,Thurston
+Lompoc,CA,California,6083,Santa Barbara
+Glendora,CA,California,6037,Los Angeles
+Burien,WA,Washington,53033,King
+Placentia,CA,California,6059,Orange
+Beaumont,CA,California,6065,Riverside
+Aliso Viejo,CA,California,6059,Orange
+Galveston,TX,Texas,48167,Galveston
+Rowland Heights,CA,California,6037,Los Angeles
+Forney,TX,Texas,48257,Kaufman
+Azusa,CA,California,6037,Los Angeles
+Cerritos,CA,California,6037,Los Angeles
+Ashburn,VA,Virginia,51107,Loudoun
+Oroville,CA,California,6007,Butte
+Poway,CA,California,6073,San Diego
+San Jacinto,CA,California,6065,Riverside
+Newark,CA,California,6001,Alameda
+Bedford,TX,Texas,48439,Tarrant
+Reedley,CA,California,6019,Fresno
+Cypress,CA,California,6059,Orange
+Hollister,CA,California,6069,San Benito
+Tuckahoe,VA,Virginia,51087,Henrico
+Ceres,CA,California,6099,Stanislaus
+Rio Grande City,TX,Texas,48427,Starr
+Palm Springs,CA,California,6065,Riverside
+Antelope,CA,California,6067,Sacramento
+Kyle,TX,Texas,48209,Hays
+Lincoln,CA,California,6061,Placer
+Burleson,TX,Texas,48251,Johnson
+La Mirada,CA,California,6037,Los Angeles
+Farmers Branch,TX,Texas,48113,Dallas
+Littleton,CO,Colorado,8005,Arapahoe
+Cedar Hill,TX,Texas,48113,Dallas
+Rancho Santa Margarita,CA,California,6059,Orange
+McLean,VA,Virginia,51059,Fairfax
+North Highlands,CA,California,6067,Sacramento
+Florin,CA,California,6067,Sacramento
+Covina,CA,California,6037,Los Angeles
+Bothell,WA,Washington,53033,King
+Keller,TX,Texas,48439,Tarrant
+El Dorado Hills,CA,California,6017,El Dorado
+Weatherford,TX,Texas,48367,Parker
+Morgan Hill,CA,California,6085,Santa Clara
+Danville,VA,Virginia,51590,Danville
+Rockwall,TX,Texas,48397,Rockwall
+Coachella,CA,California,6065,Riverside
+Lufkin,TX,Texas,48005,Angelina
+Altadena,CA,California,6037,Los Angeles
+Lake Ridge,VA,Virginia,51153,Prince William
+Selma,CA,California,6019,Fresno
+Danville,CA,California,6013,Contra Costa
+The Colony,TX,Texas,48121,Denton
+Eureka,CA,California,6023,Humboldt
+Del Rio,TX,Texas,48465,Val Verde
+Desert Hot Springs,CA,California,6065,Riverside
+Haltom City,TX,Texas,48439,Tarrant
+Annandale,VA,Virginia,51059,Fairfax
+Rohnert Park,CA,California,6097,Sonoma
+Brea,CA,California,6059,Orange
+Channelview,TX,Texas,48201,Harris
+Centralia,WA,Washington,53041,Lewis
+San Bruno,CA,California,6081,San Mateo
+Burke,VA,Virginia,51059,Fairfax
+Edmonds,WA,Washington,53061,Snohomish
+Oakley,CA,California,6013,Contra Costa
+Puyallup,WA,Washington,53053,Pierce
+Huntsville,TX,Texas,48471,Walker
+Schertz,TX,Texas,48187,Guadalupe
+Bell Gardens,CA,California,6037,Los Angeles
+Campbell,CA,California,6085,Santa Clara
+La Quinta,CA,California,6065,Riverside
+Weslaco,TX,Texas,48215,Hidalgo
+Brighton,CO,Colorado,8001,Adams
+Rancho Palos Verdes,CA,California,6037,Los Angeles
+Coppell,TX,Texas,48113,Dallas
+Linton Hall,VA,Virginia,51153,Prince William
+Manassas,VA,Virginia,51683,Manassas
+Los Banos,CA,California,6047,Merced
+Friendswood,TX,Texas,48167,Galveston
+Montclair,CA,California,6071,San Bernardino
+San Gabriel,CA,California,6037,Los Angeles
+Calexico,CA,California,6025,Imperial
+La Puente,CA,California,6037,Los Angeles
+Security-Widefield,CO,Colorado,8041,El Paso
+Issaquah,WA,Washington,53033,King
+Lancaster,TX,Texas,48113,Dallas
+Culver City,CA,California,6037,Los Angeles
+Lynnwood,WA,Washington,53061,Snohomish
+Moses Lake,WA,Washington,53025,Grant
+Northglenn,CO,Colorado,8001,Adams
+Duncanville,TX,Texas,48113,Dallas
+Hurst,TX,Texas,48439,Tarrant
+Pacifica,CA,California,6081,San Mateo
+Rosenberg,TX,Texas,48157,Fort Bend
+Martinez,CA,California,6013,Contra Costa
+La Presa,CA,California,6073,San Diego
+Stanton,CA,California,6059,Orange
+Granbury,TX,Texas,48221,Hood
+Waxahachie,TX,Texas,48139,Ellis
+Mission Bend,TX,Texas,48157,Fort Bend
+Mechanicsville,VA,Virginia,51085,Hanover
+Cleburne,TX,Texas,48251,Johnson
+Parkland,WA,Washington,53053,Pierce
+Wildomar,CA,California,6065,Riverside
+San Juan,TX,Texas,48215,Hidalgo
+Oakton,VA,Virginia,51059,Fairfax
+West Hollywood,CA,California,6037,Los Angeles
+Moorpark,CA,California,6111,Ventura
+Monrovia,CA,California,6037,Los Angeles
+Claremont,CA,California,6037,Los Angeles
+French Valley,CA,California,6065,Riverside
+San Juan Capistrano,CA,California,6059,Orange
+Foothill Farms,CA,California,6067,Sacramento
+Temple City,CA,California,6037,Los Angeles
+Bell,CA,California,6037,Los Angeles
+Auburn,CA,California,6061,Placer
+Westmont,CA,California,6037,Los Angeles
+Oak Harbor,WA,Washington,53029,Island
+Manhattan Beach,CA,California,6037,Los Angeles
+La Porte,TX,Texas,48201,Harris
+Englewood,CO,Colorado,8005,Arapahoe
+Pleasant Hill,CA,California,6013,Contra Costa
+Orangevale,CA,California,6067,Sacramento
+Oildale,CA,California,6029,Kern
+Menlo Park,CA,California,6081,San Mateo
+Dakota Ridge,CO,Colorado,8059,Jefferson
+Arcata,CA,California,6023,Humboldt
+Pullman,WA,Washington,53075,Whitman
+Nacogdoches,TX,Texas,48347,Nacogdoches
+Socorro,TX,Texas,48141,El Paso
+Firestone,CO,Colorado,8123,Weld
+Grass Valley,CA,California,6057,Nevada
+Adelanto,CA,California,6071,San Bernardino
+Ken Caryl,CO,Colorado,8059,Jefferson
+University Place,WA,Washington,53053,Pierce
+Lake Stevens,WA,Washington,53061,Snohomish
+Foster City,CA,California,6081,San Mateo
+Sonoma,CA,California,6097,Sonoma
+Beverly Hills,CA,California,6037,Los Angeles
+San Dimas,CA,California,6037,Los Angeles
+Dana Point,CA,California,6059,Orange
+Midlothian,TX,Texas,48139,Ellis
+Fair Oaks,VA,Virginia,51059,Fairfax
+Deer Park,TX,Texas,48201,Harris
+Copperas Cove,TX,Texas,48099,Coryell
+Ridgecrest,CA,California,6029,Kern
+Spanaway,WA,Washington,53053,Pierce
+Harker Heights,TX,Texas,48027,Bell
+Lawndale,CA,California,6037,Los Angeles
+Southlake,TX,Texas,48439,Tarrant
+Des Moines,WA,Washington,53033,King
+Springfield,VA,Virginia,51059,Fairfax
+La Verne,CA,California,6037,Los Angeles
+Placerville,CA,California,6017,El Dorado
+Martinsville,VA,Virginia,51690,Martinsville
+Pueblo West,CO,Colorado,8101,Pueblo
+Fallbrook,CA,California,6073,San Diego
+Spring Valley,CA,California,6073,San Diego
+South Riding,VA,Virginia,51107,Loudoun
+Petersburg,VA,Virginia,51730,Petersburg
+Wheat Ridge,CO,Colorado,8059,Jefferson
+Cibolo,TX,Texas,48187,Guadalupe
+Banning,CA,California,6065,Riverside
+Laguna Hills,CA,California,6059,Orange
+Orcutt,CA,California,6083,Santa Barbara
+Fair Oaks,CA,California,6067,Sacramento
+San Pablo,CA,California,6013,Contra Costa
+Goleta,CA,California,6083,Santa Barbara
+Burlingame,CA,California,6081,San Mateo
+Fountain,CO,Colorado,8041,El Paso
+Kerrville,TX,Texas,48265,Kerr
+Barstow,CA,California,6071,San Bernardino
+Windsor,CO,Colorado,8123,Weld
+Sterling,VA,Virginia,51107,Loudoun
+Santa Paula,CA,California,6111,Ventura
+Los Gatos,CA,California,6085,Santa Clara
+South Lake Tahoe,CA,California,6017,El Dorado
+San Carlos,CA,California,6081,San Mateo
+Saratoga,CA,California,6085,Santa Clara
+Los Altos,CA,California,6085,Santa Clara
+Atascadero,CA,California,6079,San Luis Obispo
+Seguin,TX,Texas,48187,Guadalupe
+Walnut,CA,California,6037,Los Angeles
+Suisun City,CA,California,6095,Solano
+West Falls Church,VA,Virginia,51059,Fairfax
+Aberdeen,WA,Washington,53027,Grays Harbor
+Ukiah,CA,California,6045,Mendocino
+Atwater,CA,California,6047,Merced
+East Palo Alto,CA,California,6081,San Mateo
+SeaTac,WA,Washington,53033,King
+Graham,WA,Washington,53053,Pierce
+Big Spring,TX,Texas,48227,Howard
+Greenville,TX,Texas,48231,Hunt
+Wasco,CA,California,6029,Kern
+Vineyard,CA,California,6067,Sacramento
+Short Pump,VA,Virginia,51087,Henrico
+Benicia,CA,California,6095,Solano
+Monterey,CA,California,6053,Monterey
+Converse,TX,Texas,48029,Bexar
+Sonora,CA,California,6109,Tuolumne
+Galt,CA,California,6067,Sacramento
+Hutto,TX,Texas,48491,Williamson
+Sanger,CA,California,6019,Fresno
+Isla Vista,CA,California,6083,Santa Barbara
+Cañon City,CO,Colorado,8043,Fremont
+Temescal Valley,CA,California,6065,Riverside
+Imperial Beach,CA,California,6073,San Diego
+Ladera Ranch,CA,California,6059,Orange
+Maple Valley,WA,Washington,53033,King
+Windsor,CA,California,6097,Sonoma
+Colleyville,TX,Texas,48439,Tarrant
+Erie,CO,Colorado,8013,Boulder
+Maywood,CA,California,6037,Los Angeles
+Belmont,CA,California,6081,San Mateo
+Lemon Grove,CA,California,6073,San Diego
+Lemoore,CA,California,6031,Kings
+Alvin,TX,Texas,48039,Brazoria
+West Whittier-Los Nietos,CA,California,6037,Los Angeles
+Lafayette,CA,California,6013,Contra Costa
+Norco,CA,California,6065,Riverside
+Brawley,CA,California,6025,Imperial
+Snoqualmie,WA,Washington,53033,King
+Hercules,CA,California,6013,Contra Costa
+Soledad,CA,California,6053,Monterey
+Twentynine Palms,CA,California,6071,San Bernardino
+Sachse,TX,Texas,48113,Dallas
+Paris,TX,Texas,48277,Lamar
+Cave Spring,VA,Virginia,51161,Roanoke
+West Odessa,TX,Texas,48135,Ector
+Mercer Island,WA,Washington,53033,King
+Bay Point,CA,California,6013,Contra Costa
+Cloverleaf,TX,Texas,48201,Harris
+San Lorenzo,CA,California,6001,Alameda
+Denison,TX,Texas,48181,Grayson
+El Cerrito,CA,California,6013,Contra Costa
+Columbine,CO,Colorado,8059,Jefferson
+South Pasadena,CA,California,6037,Los Angeles
+Canyon Lake,TX,Texas,48091,Comal
+Kingsville,TX,Texas,48273,Kleberg
+Salem,VA,Virginia,51775,Salem
+Bainbridge Island,WA,Washington,53035,Kitsap
+Fresno,TX,Texas,48157,Fort Bend
+Yucca Valley,CA,California,6071,San Bernardino
+Balch Springs,TX,Texas,48113,Dallas
+University Park,TX,Texas,48113,Dallas
+Timberwood Park,TX,Texas,48029,Bexar
+Riverbank,CA,California,6099,Stanislaus
+North Tustin,CA,California,6059,Orange
+Herndon,VA,Virginia,51059,Fairfax
+Prosper,TX,Texas,48085,Collin
+Lathrop,CA,California,6077,San Joaquin
+Loma Linda,CA,California,6071,San Bernardino
+Watauga,TX,Texas,48439,Tarrant
+Dinuba,CA,California,6107,Tulare
+Ashland,CA,California,6001,Alameda
+Camas,WA,Washington,53011,Clark
+Ellensburg,WA,Washington,53037,Kittitas
+Chantilly,VA,Virginia,51059,Fairfax
+Woodlawn,VA,Virginia,51059,Fairfax
+Orchards,WA,Washington,53011,Clark
+San Fernando,CA,California,6037,Los Angeles
+Saginaw,TX,Texas,48439,Tarrant
+Port Angeles,WA,Washington,53009,Clallam
+Mill Creek East,WA,Washington,53061,Snohomish
+Tysons,VA,Virginia,51059,Fairfax
+San Benito,TX,Texas,48061,Cameron
+West Springfield,VA,Virginia,51059,Fairfax
+Bailey's Crossroads,VA,Virginia,51059,Fairfax
+Tumwater,WA,Washington,53067,Thurston
+Fairfax,VA,Virginia,51600,Fairfax
+Lincolnia,VA,Virginia,51059,Fairfax
+Corsicana,TX,Texas,48349,Navarro
+Seal Beach,CA,California,6059,Orange
+Calabasas,CA,California,6037,Los Angeles
+Coronado,CA,California,6073,San Diego
+Valinda,CA,California,6037,Los Angeles
+Half Moon Bay,CA,California,6081,San Mateo
+North Lynnwood,WA,Washington,53061,Snohomish
+Rosemont,CA,California,6067,Sacramento
+Oakdale,CA,California,6099,Stanislaus
+Cudahy,CA,California,6037,Los Angeles
+Winter Gardens,CA,California,6073,San Diego
+Fort Hood,TX,Texas,48027,Bell
+Benbrook,TX,Texas,48439,Tarrant
+Montrose,CO,Colorado,8085,Montrose
+Plainview,TX,Texas,48189,Hale
+West Puente Valley,CA,California,6037,Los Angeles
+Granite Bay,CA,California,6061,Placer
+Kenmore,WA,Washington,53033,King
+Frederickson,WA,Washington,53053,Pierce
+Patterson,CA,California,6099,Stanislaus
+West Rancho Dominguez,CA,California,6037,Los Angeles
+Belton,TX,Texas,48027,Bell
+Marshall,TX,Texas,48203,Harrison
+Laguna Beach,CA,California,6059,Orange
+Willowbrook,CA,California,6037,Los Angeles
+Marina,CA,California,6053,Monterey
+Cottage Lake,WA,Washington,53033,King
+Waynesboro,VA,Virginia,51820,Waynesboro
+Corcoran,CA,California,6031,Kings
+Hopewell,VA,Virginia,51670,Hopewell
+Christiansburg,VA,Virginia,51121,Montgomery
+Millbrae,CA,California,6081,San Mateo
+Silver Firs,WA,Washington,53061,Snohomish
+Sequim,WA,Washington,53009,Clallam
+Rose Hill,VA,Virginia,51059,Fairfax
+Arvin,CA,California,6029,Kern
+Corinth,TX,Texas,48121,Denton
+West Carson,CA,California,6037,Los Angeles
+Chester,VA,Virginia,51041,Chesterfield
+Union Hill-Novelty Hill,WA,Washington,53033,King
+Port Hueneme,CA,California,6111,Ventura
+Lakeside,CA,California,6073,San Diego
+Bloomington,CA,California,6071,San Bernardino
+Lennox,CA,California,6037,Los Angeles
+Rancho San Diego,CA,California,6073,San Diego
+Shafter,CA,California,6029,Kern
+Eastmont,WA,Washington,53061,Snohomish
+Katy,TX,Texas,48201,Harris
+Brownwood,TX,Texas,48049,Brown
+Silverdale,WA,Washington,53035,Kitsap
+McNair,VA,Virginia,51059,Fairfax
+Mukilteo,WA,Washington,53061,Snohomish
+Brambleton,VA,Virginia,51107,Loudoun
+Mountlake Terrace,WA,Washington,53061,Snohomish
+Ramona,CA,California,6073,San Diego
+Duarte,CA,California,6037,Los Angeles
+Battle Ground,WA,Washington,53011,Clark
+Stephenville,TX,Texas,48143,Erath
+Evans,CO,Colorado,8123,Weld
+Hazel Dell,WA,Washington,53011,Clark
+Covington,WA,Washington,53033,King
+Bonney Lake,WA,Washington,53053,Pierce
+Dickinson,TX,Texas,48167,Galveston
+Martha Lake,WA,Washington,53061,Snohomish
+Bothell West,WA,Washington,53061,Snohomish
+Johnstown,CO,Colorado,8123,Weld
+Salmon Creek,WA,Washington,53011,Clark
+Mill Creek,WA,Washington,53061,Snohomish
+Universal City,TX,Texas,48029,Bexar
+Montclair,VA,Virginia,51153,Prince William
+Lorton,VA,Virginia,51059,Fairfax
+Rosamond,CA,California,6029,Kern
+Louisville,CO,Colorado,8013,Boulder
+Dixon,CA,California,6095,Solano
+Golden,CO,Colorado,8059,Jefferson
+Clifton,CO,Colorado,8077,Mesa
+South El Monte,CA,California,6037,Los Angeles
+Arlington,WA,Washington,53061,Snohomish
+Alice,TX,Texas,48249,Jim Wells
+Murphy,TX,Texas,48085,Collin
+Culpeper,VA,Virginia,51047,Culpeper
+American Canyon,CA,California,6055,Napa
+Neabsco,VA,Virginia,51153,Prince William
+Ennis,TX,Texas,48139,Ellis
+Tukwila,WA,Washington,53033,King
+Prunedale,CA,California,6053,Monterey
+Lomita,CA,California,6037,Los Angeles
+Shelton,WA,Washington,53045,Mason
+Cherry Hill,VA,Virginia,51153,Prince William
+Linda,CA,California,6115,Yuba
+Agoura Hills,CA,California,6037,Los Angeles
+East Hemet,CA,California,6065,Riverside
+Durango,CO,Colorado,8067,La Plata
+Mead Valley,CA,California,6065,Riverside
+La Cañada Flintridge,CA,California,6037,Los Angeles
+South San Jose Hills,CA,California,6037,Los Angeles
+Fairwood,WA,Washington,53033,King
+Orinda,CA,California,6013,Contra Costa
+Alamo,TX,Texas,48215,Hidalgo
+Meadowbrook,VA,Virginia,51041,Chesterfield
+Casa de Oro-Mount Helix,CA,California,6073,San Diego
+Monroe,WA,Washington,53061,Snohomish
+Rockport,TX,Texas,48007,Aransas
+Franconia,VA,Virginia,51059,Fairfax
+Front Royal,VA,Virginia,51187,Warren
+Albany,CA,California,6001,Alameda
+La Crescenta-Montrose,CA,California,6037,Los Angeles
+Blythe,CA,California,6065,Riverside
+Horizon City,TX,Texas,48141,El Paso
+Anna,TX,Texas,48085,Collin
+Sienna Plantation,TX,Texas,48157,Fort Bend
+Angleton,TX,Texas,48039,Brazoria
+Castaic,CA,California,6037,Los Angeles
+Silverthorne,CO,Colorado,8117,Summit
+Hermosa Beach,CA,California,6037,Los Angeles
+Pinole,CA,California,6013,Contra Costa
+Sherrelwood,CO,Colorado,8001,Adams
+Stevenson Ranch,CA,California,6037,Los Angeles
+Cameron Park,CA,California,6017,El Dorado
+Red Bluff,CA,California,6103,Tehama
+Bellaire,TX,Texas,48201,Harris
+Five Corners,WA,Washington,53011,Clark
+Terrell,TX,Texas,48257,Kaufman
+Grandview,WA,Washington,53077,Yakima
+Cimarron Hills,CO,Colorado,8041,El Paso
+Port Isabel,TX,Texas,48061,Cameron
+Bay City,TX,Texas,48321,Matagorda
+Sudley,VA,Virginia,51153,Prince William
+Anacortes,WA,Washington,53057,Skagit
+Rancho Mirage,CA,California,6065,Riverside
+Lynden,WA,Washington,53073,Whatcom
+Bryn Mawr-Skyway,WA,Washington,53033,King
+Uvalde,TX,Texas,48463,Uvalde
+Brushy Creek,TX,Texas,48491,Williamson
+Sunnyside,WA,Washington,53077,Yakima
+Franklin Farm,VA,Virginia,51059,Fairfax
+Chowchilla,CA,California,6039,Madera
+Merrifield,VA,Virginia,51059,Fairfax
+Idylwood,VA,Virginia,51059,Fairfax
+Kilgore,TX,Texas,48183,Gregg
+Radford,VA,Virginia,51750,Radford
+Palestine,TX,Texas,48001,Anderson
+Boerne,TX,Texas,48259,Kendall
+Imperial,CA,California,6025,Imperial
+Orange,TX,Texas,48361,Orange
+Alton,TX,Texas,48215,Hidalgo
+Beeville,TX,Texas,48025,Bee
+Bon Air,VA,Virginia,51041,Chesterfield
+Mountain House,CA,California,6077,San Joaquin
+Ingleside,TX,Texas,48409,San Patricio
+Burke Centre,VA,Virginia,51059,Fairfax
+Brenham,TX,Texas,48477,Washington
+Woodcrest,CA,California,6065,Riverside
+White Settlement,TX,Texas,48439,Tarrant
+Moraga,CA,California,6013,Contra Costa
+Buckhall,VA,Virginia,51153,Prince William
+Valle Vista,CA,California,6065,Riverside
+Greenfield,CA,California,6053,Monterey
+Santa Fe Springs,CA,California,6037,Los Angeles
+Nipomo,CA,California,6079,San Luis Obispo
+Laurel,VA,Virginia,51087,Henrico
+Kingstowne,VA,Virginia,51059,Fairfax
+Manassas Park,VA,Virginia,51685,Manassas Park
+Lakeport,CA,California,6033,Lake
+South Houston,TX,Texas,48201,Harris
+Taylor,TX,Texas,48491,Williamson
+Pecan Grove,TX,Texas,48157,Fort Bend
+Nederland,TX,Texas,48245,Jefferson
+Colonial Heights,VA,Virginia,51570,Colonial Heights
+Stafford,TX,Texas,48157,Fort Bend
+La Marque,TX,Texas,48167,Galveston
+Gainesville,VA,Virginia,51153,Prince William
+Portland,TX,Texas,48409,San Patricio
+Pampa,TX,Texas,48179,Gray
+McKinleyville,CA,California,6023,Humboldt
+Coalinga,CA,California,6019,Fresno
+Bastrop,TX,Texas,48021,Bastrop
+Yelm,WA,Washington,53067,Thurston
+Hybla Valley,VA,Virginia,51059,Fairfax
+Camano,WA,Washington,53029,Island
+Fort Hunt,VA,Virginia,51059,Fairfax
+Buda,TX,Texas,48209,Hays
+Gainesville,TX,Texas,48097,Cooke
+Seagoville,TX,Texas,48113,Dallas
+Crescent City,CA,California,6015,Del Norte
+Live Oak,CA,California,6087,Santa Cruz
+Rosedale,CA,California,6029,Kern
+Bristol,VA,Virginia,51520,Bristol
+Truckee,CA,California,6057,Nevada
+Lindsay,CA,California,6107,Tulare
+Highland Village,TX,Texas,48121,Denton
+Bull Run,VA,Virginia,51153,Prince William
+El Segundo,CA,California,6037,Los Angeles
+Mercedes,TX,Texas,48215,Hidalgo
+Bostonia,CA,California,6073,San Diego
+Artesia,CA,California,6037,Los Angeles
+Solvang,CA,California,6083,Santa Barbara
+Los Osos,CA,California,6079,San Luis Obispo
+Groveton,VA,Virginia,51059,Fairfax
+Live Oak,TX,Texas,48029,Bexar
+Vienna,VA,Virginia,51059,Fairfax
+Crowley,TX,Texas,48439,Tarrant
+Highland Springs,VA,Virginia,51087,Henrico
+Cinco Ranch,TX,Texas,48157,Fort Bend
+Wolf Trap,VA,Virginia,51059,Fairfax
+Mount Pleasant,TX,Texas,48449,Titus
+Ripon,CA,California,6077,San Joaquin
+Rio Linda,CA,California,6067,Sacramento
+Donna,TX,Texas,48215,Hidalgo
+Stanford,CA,California,6085,Santa Clara
+Celina,TX,Texas,48085,Collin
+Gun Barrel City,TX,Texas,48213,Henderson
+Addison,TX,Texas,48113,Dallas
+East San Gabriel,CA,California,6037,Los Angeles
+Sulphur Springs,TX,Texas,48223,Hopkins
+Vincent,CA,California,6037,Los Angeles
+Discovery Bay,CA,California,6013,Contra Costa
+Canyon,TX,Texas,48381,Randall
+Washougal,WA,Washington,53011,Clark
+Cherryland,CA,California,6001,Alameda
+Welby,CO,Colorado,8001,Adams
+Phelan,CA,California,6071,San Bernardino
+Lakeway,TX,Texas,48453,Travis
+Clearlake,CA,California,6033,Lake
+Fillmore,CA,California,6111,Ventura
+Walnut Park,CA,California,6037,Los Angeles
+King City,CA,California,6053,Monterey
+Laguna Woods,CA,California,6059,Orange
+White Center,WA,Washington,53033,King
+Humble,TX,Texas,48201,Harris
+Parkway,CA,California,6067,Sacramento
+East Rancho Dominguez,CA,California,6037,Los Angeles
+Sterling,CO,Colorado,8075,Logan
+Purcellville,VA,Virginia,51107,Loudoun
+Greenwood Village,CO,Colorado,8005,Arapahoe
+Andrews,TX,Texas,48003,Andrews
+McFarland,CA,California,6029,Kern
+Parlier,CA,California,6019,Fresno
+Fate,TX,Texas,48397,Rockwall
+West University Place,TX,Texas,48201,Harris
+East Highland Park,VA,Virginia,51087,Henrico
+Glen Allen,VA,Virginia,51087,Henrico
+Groves,TX,Texas,48245,Jefferson
+La Palma,CA,California,6059,Orange
+Avocado Heights,CA,California,6037,Los Angeles
+Pacific Grove,CA,California,6053,Monterey
+Pulaski,VA,Virginia,51155,Pulaski
+Aldine,TX,Texas,48201,Harris
+Kerman,CA,California,6019,Fresno
+Mineral Wells,TX,Texas,48363,Palo Pinto
+Elk Plain,WA,Washington,53053,Pierce
+Hereford,TX,Texas,48117,Deaf Smith
+Pleasanton,TX,Texas,48013,Atascosa
+West Richland,WA,Washington,53005,Benton
+Coto de Caza,CA,California,6059,Orange
+Susanville,CA,California,6035,Lassen
+Fort Carson,CO,Colorado,8041,El Paso
+Hewitt,TX,Texas,48309,McLennan
+Tehachapi,CA,California,6029,Kern
+Alamo,CA,California,6013,Contra Costa
+Taft,CA,California,6029,Kern
+Ferndale,WA,Washington,53073,Whatcom
+Livingston,CA,California,6047,Merced
+Alpine,CA,California,6073,San Diego
+Great Falls,VA,Virginia,51059,Fairfax
+Jacksonville,TX,Texas,48073,Cherokee
+Lamont,CA,California,6029,Kern
+Lemon Hill,CA,California,6067,Sacramento
+Royse City,TX,Texas,48397,Rockwall
+Manor,TX,Texas,48453,Travis
+Falls Church,VA,Virginia,51610,Falls Church
+Port Orchard,WA,Washington,53035,Kitsap
+Henderson,TX,Texas,48401,Rusk
+North Fair Oaks,CA,California,6081,San Mateo
+Hollins,VA,Virginia,51161,Roanoke
+Toppenish,WA,Washington,53077,Yakima
+North Auburn,CA,California,6061,Placer
+Mill Valley,CA,California,6041,Marin
+Salida,CA,California,6099,Stanislaus
+Kings Park West,VA,Virginia,51059,Fairfax
+Stone Ridge,VA,Virginia,51107,Loudoun
+East Wenatchee,WA,Washington,53017,Douglas
+California City,CA,California,6029,Kern
+Hidalgo,TX,Texas,48215,Hidalgo
+Hawaiian Gardens,CA,California,6037,Los Angeles
+Seabrook,TX,Texas,48201,Harris
+Lockhart,TX,Texas,48055,Caldwell
+Steamboat Springs,CO,Colorado,8107,Routt
+Black Forest,CO,Colorado,8041,El Paso
+Pecos,TX,Texas,48389,Reeves
+Dayton,TX,Texas,48291,Liberty
+Dumas,TX,Texas,48341,Moore
+Raymondville,TX,Texas,48489,Willacy
+Frederick,CO,Colorado,8123,Weld
+Fulshear,TX,Texas,48157,Fort Bend
+Princeton,TX,Texas,48085,Collin
+El Sobrante,CA,California,6065,Riverside
+Oak Park,CA,California,6111,Ventura
+Brandermill,VA,Virginia,51041,Chesterfield
+Sun Village,CA,California,6037,Los Angeles
+Levelland,TX,Texas,48219,Hockley
+Broadlands,VA,Virginia,51107,Loudoun
+Lake Forest Park,WA,Washington,53033,King
+Avenal,CA,California,6031,Kings
+Fruita,CO,Colorado,8077,Mesa
+Red Oak,TX,Texas,48139,Ellis
+Olivehurst,CA,California,6115,Yuba
+Big Bear City,CA,California,6071,San Bernardino
+Grover Beach,CA,California,6079,San Luis Obispo
+Fortuna,CA,California,6023,Humboldt
+Santa Fe,TX,Texas,48167,Galveston
+Lindale,TX,Texas,48423,Smith
+Lakeland South,WA,Washington,53033,King
+Carpinteria,CA,California,6083,Santa Barbara
+Glenn Heights,TX,Texas,48113,Dallas
+Artondale,WA,Washington,53053,Pierce
+Azle,TX,Texas,48439,Tarrant
+Fort Morgan,CO,Colorado,8087,Morgan
+Huntington,VA,Virginia,51059,Fairfax
+Solana Beach,CA,California,6073,San Diego
+Palos Verdes Estates,CA,California,6037,Los Angeles
+Woodinville,WA,Washington,53033,King
+Timberlake,VA,Virginia,51031,Campbell
+Newington,VA,Virginia,51059,Fairfax
+Rendon,TX,Texas,48439,Tarrant
+Mount Vernon,VA,Virginia,51059,Fairfax
+Superior,CO,Colorado,8013,Boulder
+Lone Tree,CO,Colorado,8035,Douglas
+Lumberton,TX,Texas,48199,Hardin
+Fort Lewis,WA,Washington,53053,Pierce
+Edgewood,WA,Washington,53053,Pierce
+San Marino,CA,California,6037,Los Angeles
+Lakeland Village,CA,California,6065,Riverside
+Forest Hill,TX,Texas,48439,Tarrant
+Sugarland Run,VA,Virginia,51107,Loudoun
+Lakeland North,WA,Washington,53033,King
+Lake Tapps,WA,Washington,53053,Pierce
+Federal Heights,CO,Colorado,8001,Adams
+Othello,WA,Washington,53001,Adams
+Athens,TX,Texas,48213,Henderson
+Elgin,TX,Texas,48021,Bastrop
+La Homa,TX,Texas,48215,Hidalgo
+Borger,TX,Texas,48233,Hutchinson
+Bonita,CA,California,6073,San Diego
+Manvel,TX,Texas,48039,Brazoria
+Commerce,CA,California,6037,Los Angeles
+Port Neches,TX,Texas,48245,Jefferson
+Grand Terrace,CA,California,6071,San Bernardino
+Richmond,TX,Texas,48157,Fort Bend
+Fredericksburg,TX,Texas,48171,Gillespie
+Muscoy,CA,California,6071,San Bernardino
+Cheney,WA,Washington,53063,Spokane
+Cherry Creek,CO,Colorado,8005,Arapahoe
+San Anselmo,CA,California,6041,Marin
+Marysville,CA,California,6115,Yuba
+Trophy Club,TX,Texas,48121,Denton
+Kelso,WA,Washington,53015,Cowlitz
+Gatesville,TX,Texas,48099,Coryell
+Lakeside,VA,Virginia,51087,Henrico
+Newington Forest,VA,Virginia,51059,Fairfax
+Lansdowne,VA,Virginia,51107,Loudoun
+Minnehaha,WA,Washington,53011,Clark
+Leon Valley,TX,Texas,48029,Bexar
+Delhi,CA,California,6047,Merced
+Newcastle,WA,Washington,53033,King
+Poquoson,VA,Virginia,51735,Poquoson
+Clayton,CA,California,6013,Contra Costa
+Larkspur,CA,California,6041,Marin
+Enumclaw,WA,Washington,53033,King
+Wells Branch,TX,Texas,48453,Travis
+Home Gardens,CA,California,6065,Riverside
+Freeport,TX,Texas,48039,Brazoria
+Melissa,TX,Texas,48085,Collin
+Kingsburg,CA,California,6019,Fresno
+Emeryville,CA,California,6001,Alameda
+Sedro-Woolley,WA,Washington,53057,Skagit
+Fairfax Station,VA,Virginia,51059,Fairfax
+Prairie Ridge,WA,Washington,53053,Pierce
+Maltby,WA,Washington,53061,Snohomish
+Glenwood Springs,CO,Colorado,8045,Garfield
+Camp Pendleton South,CA,California,6073,San Diego
+Robinson,TX,Texas,48309,McLennan
+Berkley,CO,Colorado,8001,Adams
+Port Lavaca,TX,Texas,48057,Calhoun
+Healdsburg,CA,California,6097,Sonoma
+East Renton Highlands,WA,Washington,53033,King
+Malibu,CA,California,6037,Los Angeles
+Newman,CA,California,6099,Stanislaus
+Tomball,TX,Texas,48201,Harris
+Scotts Valley,CA,California,6087,Santa Cruz
+View Park-Windsor Hills,CA,California,6037,Los Angeles
+Robstown,TX,Texas,48355,Nueces
+Lake Los Angeles,CA,California,6037,Los Angeles
+Diamond Springs,CA,California,6017,El Dorado
+Mendota,CA,California,6019,Fresno
+Clute,TX,Texas,48039,Brazoria
+Tamalpais-Homestead Valley,CA,California,6041,Marin
+Madison Heights,VA,Virginia,51009,Amherst
+Bothell East,WA,Washington,53061,Snohomish
+Dranesville,VA,Virginia,51059,Fairfax
+El Campo,TX,Texas,48481,Wharton
+Wakefield,VA,Virginia,51059,Fairfax
+Alum Rock,CA,California,6085,Santa Clara
+Woodland Park,CO,Colorado,8119,Teller
+Roma,TX,Texas,48427,Starr
+Magalia,CA,California,6007,Butte
+Webster,TX,Texas,48201,Harris
+Fort Bliss,TX,Texas,48141,El Paso
+Signal Hill,CA,California,6037,Los Angeles
+Los Alamitos,CA,California,6059,Orange
+Cascades,VA,Virginia,51107,Loudoun
+Hillsborough,CA,California,6081,San Mateo
+Snyder,TX,Texas,48415,Scurry
+Winton,CA,California,6047,Merced
+Canyon Lake,CA,California,6065,Riverside
+Burkburnett,TX,Texas,48485,Wichita
+Lamesa,TX,Texas,48115,Dawson
+Poulsbo,WA,Washington,53035,Kitsap
+Piedmont,CA,California,6001,Alameda
+Selma,TX,Texas,48029,Bexar
+Rossmoor,CA,California,6059,Orange
+Rifle,CO,Colorado,8045,Garfield
+Valley Center,CA,California,6073,San Diego
+Orange Cove,CA,California,6019,Fresno
+Four Corners,TX,Texas,48157,Fort Bend
+Lake Morton-Berrydale,WA,Washington,53033,King
+Pearsall,TX,Texas,48163,Frio
+Liberty Lake,WA,Washington,53063,Spokane
+Manchester,VA,Virginia,51041,Chesterfield
+Soquel,CA,California,6087,Santa Cruz
+Lake Monticello,VA,Virginia,51065,Fluvanna
+Lowes Island,VA,Virginia,51107,Loudoun
+Bacliff,TX,Texas,48167,Galveston
+La Riviera,CA,California,6067,Sacramento
+Forest,VA,Virginia,51019,Bedford
+The Pinery,CO,Colorado,8035,Douglas
+Sierra Madre,CA,California,6037,Los Angeles
+Castle Pines,CO,Colorado,8035,Douglas
+Galena Park,TX,Texas,48201,Harris
+Bellmead,TX,Texas,48309,McLennan
+Gig Harbor,WA,Washington,53053,Pierce
+Farmersville,CA,California,6107,Tulare
+Smithfield,VA,Virginia,51093,Isle of Wight
+Cleveland,TX,Texas,48291,Liberty
+Alamosa,CO,Colorado,8003,Alamosa
+Anderson,CA,California,6089,Shasta
+Wyndham,VA,Virginia,51087,Henrico
+Norton,VA,Virginia,51720,Norton
+Morro Bay,CA,California,6079,San Luis Obispo
+Fairview,CA,California,6001,Alameda
+San Diego Country Estates,CA,California,6073,San Diego
+Exeter,CA,California,6107,Tulare
+Sweetwater,TX,Texas,48353,Nolan
+Jacinto City,TX,Texas,48201,Harris
+Oak Hills,CA,California,6071,San Bernardino
+New Baltimore,VA,Virginia,51061,Fauquier
+Wellington,CO,Colorado,8069,Larimer
+Sumner,WA,Washington,53053,Pierce
+Shasta Lake,CA,California,6089,Shasta
+Rodeo,CA,California,6013,Contra Costa
+Vidor,TX,Texas,48361,Orange
+Bonham,TX,Texas,48147,Fannin
+Fort Bragg,CA,California,6045,Mendocino
+East Whittier,CA,California,6037,Los Angeles
+Vernon,TX,Texas,48487,Wilbarger
+Vashon,WA,Washington,53033,King
+Lake Stickney,WA,Washington,53061,Snohomish
+Fort Lupton,CO,Colorado,8123,Weld
+Gunbarrel,CO,Colorado,8013,Boulder
+Fife,WA,Washington,53053,Pierce
+Snohomish,WA,Washington,53061,Snohomish
+Citrus,CA,California,6037,Los Angeles
+Charter Oak,CA,California,6037,Los Angeles
+Fair Oaks Ranch,TX,Texas,48029,Bexar
+Warrenton,VA,Virginia,51061,Fauquier
+Capitola,CA,California,6087,Santa Cruz
+Midland,WA,Washington,53053,Pierce
+Quartz Hill,CA,California,6037,Los Angeles
+Del Aire,CA,California,6037,Los Angeles
+Country Club,CA,California,6077,San Joaquin
+Garden Acres,CA,California,6077,San Joaquin
+Orland,CA,California,6021,Glenn
+Helotes,TX,Texas,48029,Bexar
+Fort Irwin,CA,California,6071,San Bernardino
+Madera Acres,CA,California,6039,Madera
+Gloucester Point,VA,Virginia,51073,Gloucester
+Marina del Rey,CA,California,6037,Los Angeles
+Stonegate,CO,Colorado,8035,Douglas
+Port Townsend,WA,Washington,53031,Jefferson
+Lake Barcroft,VA,Virginia,51059,Fairfax
+Mentone,CA,California,6071,San Bernardino
+George Mason,VA,Virginia,51059,Fairfax
+Corte Madera,CA,California,6041,Marin
+Cuero,TX,Texas,48123,DeWitt
+Rio Vista,CA,California,6095,Solano
+Eidson Road,TX,Texas,48323,Maverick
+West Athens,CA,California,6037,Los Angeles
+Countryside,VA,Virginia,51107,Loudoun
+Commerce,TX,Texas,48231,Hunt
+West Tawakoni,TX,Texas,48231,Hunt
+Rio del Mar,CA,California,6087,Santa Cruz
+Waterford,CA,California,6099,Stanislaus
+Yorkshire,VA,Virginia,51153,Prince William
+Blackhawk,CA,California,6013,Contra Costa
+Bishop,CA,California,6027,Inyo
+Alderwood Manor,WA,Washington,53061,Snohomish
+Craig,CO,Colorado,8081,Moffat
+Mount Vista,WA,Washington,53011,Clark
+Silsbee,TX,Texas,48199,Hardin
+Roxborough Park,CO,Colorado,8035,Douglas
+DuPont,WA,Washington,53053,Pierce
+Fort Stockton,TX,Texas,48371,Pecos
+Airway Heights,WA,Washington,53063,Spokane
+Lantana,TX,Texas,48121,Denton
+Hondo,TX,Texas,48325,Medina
+Roanoke,TX,Texas,48121,Denton
+Navasota,TX,Texas,48185,Grimes
+Brownfield,TX,Texas,48445,Terry
+Stuarts Draft,VA,Virginia,51015,Augusta
+Golden Hills,CA,California,6029,Kern
+Edwards,CO,Colorado,8037,Eagle
+Woodmoor,CO,Colorado,8041,El Paso
+Heath,TX,Texas,48397,Rockwall
+Birch Bay,WA,Washington,53073,Whatcom
+College Place,WA,Washington,53071,Walla Walla
+Liberty,TX,Texas,48291,Liberty
+Lexington,VA,Virginia,51678,Lexington
+Sultan,WA,Washington,53061,Snohomish
+Gridley,CA,California,6007,Butte
+Burlington,WA,Washington,53057,Skagit
+Cloverdale,CA,California,6097,Sonoma
+Independent Hill,VA,Virginia,51153,Prince William
+Good Hope,CA,California,6065,Riverside
+Basalt,CO,Colorado,8037,Eagle
+Calimesa,CA,California,6065,Riverside
+Dunn Loring,VA,Virginia,51059,Fairfax
+Ridgefield,WA,Washington,53011,Clark
+Fairview,TX,Texas,48085,Collin
+Woodburn,VA,Virginia,51059,Fairfax
+Berthoud,CO,Colorado,8069,Larimer
+San Elizario,TX,Texas,48141,El Paso
+Tiburon,CA,California,6041,Marin
+Highland Park,TX,Texas,48113,Dallas
+Picnic Point,WA,Washington,53061,Snohomish
+Woodway,TX,Texas,48309,McLennan
+Delta,CO,Colorado,8029,Delta
+Triangle,VA,Virginia,51153,Prince William
+Derby,CO,Colorado,8001,Adams
+Felida,WA,Washington,53011,Clark
+Summit,WA,Washington,53053,Pierce
+Lake Arrowhead,CA,California,6071,San Bernardino
+Aledo,TX,Texas,48367,Parker
+Whitehouse,TX,Texas,48423,Smith
+Innsbrook,VA,Virginia,51087,Henrico
+Evergreen,CO,Colorado,8059,Jefferson
+Wharton,TX,Texas,48481,Wharton
+Redlands,CO,Colorado,8077,Mesa
+Graham,TX,Texas,48503,Young
+Needles,CA,California,6071,San Bernardino
+Cortez,CO,Colorado,8083,Montezuma
+Sanger,TX,Texas,48121,Denton
+Seven Corners,VA,Virginia,51059,Fairfax
+Kirby,TX,Texas,48029,Bexar
+Dumbarton,VA,Virginia,51087,Henrico
+Crestline,CA,California,6071,San Bernardino
+Greenbriar,VA,Virginia,51059,Fairfax
+Montesano,WA,Washington,53027,Grays Harbor
+Earlimart,CA,California,6107,Tulare
+Hoquiam,WA,Washington,53027,Grays Harbor
+Fishersville,VA,Virginia,51015,Augusta
+Kennedale,TX,Texas,48439,Tarrant
+Monahans,TX,Texas,48475,Ward
+Richlands,VA,Virginia,51185,Tazewell
+Alamo Heights,TX,Texas,48029,Bexar
+Orting,WA,Washington,53053,Pierce
+Fairmount,CO,Colorado,8059,Jefferson
+Corning,CA,California,6103,Tehama
+Farmville,VA,Virginia,51147,Prince Edward
+Aspen,CO,Colorado,8097,Pitkin
+Ione,CA,California,6005,Amador
+Lucas,TX,Texas,48085,Collin
+Franklin,VA,Virginia,51620,Franklin
+Perryton,TX,Texas,48357,Ochiltree
+Terrace Heights,WA,Washington,53077,Yakima
+Hillsboro,TX,Texas,48217,Hill
+Summit View,WA,Washington,53053,Pierce
+University of Virginia,VA,Virginia,51003,Albemarle
+Onalaska,TX,Texas,48373,Polk
+Los Altos Hills,CA,California,6085,Santa Clara
+Lake of the Woods,VA,Virginia,51137,Orange
+August,CA,California,6077,San Joaquin
+Spring Valley Lake,CA,California,6071,San Bernardino
+Fair Lakes,VA,Virginia,51059,Fairfax
+Aransas Pass,TX,Texas,48409,San Patricio
+Long Branch,VA,Virginia,51059,Fairfax
+Hempstead,TX,Texas,48473,Waller
+West Livingston,TX,Texas,48373,Polk
+Midway City,CA,California,6059,Orange
+Quincy,WA,Washington,53025,Grant
+Larkfield-Wikiup,CA,California,6097,Sonoma
+Dalhart,TX,Texas,48111,Dallam
+Gonzales,CA,California,6053,Monterey
+Orosi,CA,California,6107,Tulare
+Milton,WA,Washington,53053,Pierce
+Firebaugh,CA,California,6019,Fresno
+Floris,VA,Virginia,51059,Fairfax
+Trinidad,CO,Colorado,8071,Las Animas
+Alondra Park,CA,California,6037,Los Angeles
+Montecito,CA,California,6083,Santa Barbara
+Mammoth Lakes,CA,California,6051,Mono
+Westlake Village,CA,California,6037,Los Angeles
+Twin Lakes,CO,Colorado,8001,Adams
+Pismo Beach,CA,California,6079,San Luis Obispo
+Milliken,CO,Colorado,8123,Weld
+South San Gabriel,CA,California,6037,Los Angeles
+Ephrata,WA,Washington,53025,Grant
+Rockwood,VA,Virginia,51041,Chesterfield
+Cherry Valley,CA,California,6065,Riverside
+Omak,WA,Washington,53047,Okanogan
+Vandenberg Village,CA,California,6083,Santa Barbara
+Duvall,WA,Washington,53033,King
+Vinton,VA,Virginia,51161,Roanoke
+Joshua,TX,Texas,48251,Johnson
+Monument,CO,Colorado,8041,El Paso
+Selah,WA,Washington,53077,Yakima
+Applewood,CO,Colorado,8059,Jefferson
+Sudden Valley,WA,Washington,53073,Whatcom
+Hollymead,VA,Virginia,51003,Albemarle
+Lake Dallas,TX,Texas,48121,Denton
+Rolling Hills Estates,CA,California,6037,Los Angeles
+Willits,CA,California,6045,Mendocino
+Floresville,TX,Texas,48493,Wilson
+Loudoun Valley Estates,VA,Virginia,51107,Loudoun
+Laurel Hill,VA,Virginia,51059,Fairfax
+Paloma Creek South,TX,Texas,48121,Denton
+Lampasas,TX,Texas,48281,Lampasas
+Fort Belvoir,VA,Virginia,51059,Fairfax
+La Junta,CO,Colorado,8089,Otero
+Richland Hills,TX,Texas,48439,Tarrant
+Wytheville,VA,Virginia,51197,Wythe
+Hitchcock,TX,Texas,48167,Galveston
+Topanga,CA,California,6037,Los Angeles
+Jersey Village,TX,Texas,48201,Harris
+Ashland,VA,Virginia,51085,Hanover
+Fruitvale,CO,Colorado,8077,Mesa
+Seminole,TX,Texas,48165,Gaines
+Abingdon,VA,Virginia,51191,Washington
+Bridge City,TX,Texas,48361,Orange
+Woodlake,CA,California,6107,Tulare
+Templeton,CA,California,6079,San Luis Obispo
+Los Fresnos,TX,Texas,48061,Cameron
+Covington,VA,Virginia,51580,Covington
+Winters,CA,California,6113,Yolo
+Breckenridge,CO,Colorado,8117,Summit
+Interlaken,CA,California,6087,Santa Cruz
+Aubrey,TX,Texas,48121,Denton
+Rio Bravo,TX,Texas,48479,Webb
+Kaufman,TX,Texas,48257,Kaufman
+Guadalupe,CA,California,6083,Santa Barbara
+Oroville East,CA,California,6007,Butte
+Estes Park,CO,Colorado,8069,Larimer
+Jasper,TX,Texas,48241,Jasper
+Salida,CO,Colorado,8015,Chaffee
+South Boston,VA,Virginia,51083,Halifax
+Boyes Hot Springs,CA,California,6097,Sonoma
+Highlands,TX,Texas,48201,Harris
+Granite Falls,WA,Washington,53061,Snohomish
+Hornsby Bend,TX,Texas,48453,Travis
+Carbondale,CO,Colorado,8045,Garfield
+Sebastopol,CA,California,6097,Sonoma
+Collinsville,VA,Virginia,51089,Henry
+Holtville,CA,California,6025,Imperial
+Piñon Hills,CA,California,6071,San Bernardino
+Lamar,CO,Colorado,8099,Prowers
+Chehalis,WA,Washington,53041,Lewis
+Waller,WA,Washington,53053,Pierce
+River Oaks,TX,Texas,48439,Tarrant
+Wapato,WA,Washington,53077,Yakima
+Escalon,CA,California,6077,San Joaquin
+Lake Shore,WA,Washington,53011,Clark
+Joshua Tree,CA,California,6071,San Bernardino
+Plumas Lake,CA,California,6115,Yuba
+Hughson,CA,California,6099,Stanislaus
+Lago Vista,TX,Texas,48453,Travis
+Jackson,CA,California,6005,Amador
+Montrose,VA,Virginia,51087,Henrico
+Gold River,CA,California,6067,Sacramento
+Big Stone Gap,VA,Virginia,51195,Wise
+Gonzales,TX,Texas,48177,Gonzales
+Fairfax,CA,California,6041,Marin
+Yreka,CA,California,6093,Siskiyou
+Dos Palos,CA,California,6047,Merced
+Oceano,CA,California,6079,San Luis Obispo
+Mount Shasta,CA,California,6093,Siskiyou
+Ojai,CA,California,6111,Ventura
+Florence,CO,Colorado,8043,Fremont
+North Bend,WA,Washington,53033,King
+Marion,VA,Virginia,51173,Smyth
+Cotati,CA,California,6097,Sonoma
+Providence Village,TX,Texas,48121,Denton
+Gypsum,CO,Colorado,8037,Eagle
+Clarkston,WA,Washington,53003,Asotin
+Camp Pendleton North,CA,California,6073,San Diego
+Stanwood,WA,Washington,53061,Snohomish
+Mexia,TX,Texas,48293,Limestone
+Mantua,VA,Virginia,51059,Fairfax
+Strasburg,VA,Virginia,51171,Shenandoah
+University of California-Davis,CA,California,6113,Yolo
+Lochbuie,CO,Colorado,8123,Weld
+North Springfield,VA,Virginia,51059,Fairfax
+Huron,CA,California,6019,Fresno
+Alta Sierra,CA,California,6057,Nevada
+Tanglewilde,WA,Washington,53067,Thurston
+Murillo,TX,Texas,48215,Hidalgo
+Hobart,WA,Washington,53033,King
+Crystal City,TX,Texas,48507,Zavala
+Bedford,VA,Virginia,51019,Bedford
+Woodstock,VA,Virginia,51171,Shenandoah
+Willows,CA,California,6021,Glenn
+Acton,CA,California,6037,Los Angeles
+La Feria,TX,Texas,48061,Cameron
+Gunnison,CO,Colorado,8051,Gunnison
+Sandston,VA,Virginia,51087,Henrico
+Nuevo,CA,California,6065,Riverside
+Pacific,WA,Washington,53033,King
+Elsa,TX,Texas,48215,Hidalgo
+Crozet,VA,Virginia,51003,Albemarle
+Pollock Pines,CA,California,6017,El Dorado
+Atherton,CA,California,6081,San Mateo
+Kingsland,TX,Texas,48299,Llano
+Calipatria,CA,California,6025,Imperial
+Mead,WA,Washington,53063,Spokane
+Parkwood,WA,Washington,53035,Kitsap
+Marble Falls,TX,Texas,48053,Burnet
+Decatur,TX,Texas,48497,Wise
+Homestead Meadows South,TX,Texas,48141,El Paso
+Homeland,CA,California,6065,Riverside
+Sausalito,CA,California,6041,Marin
+Woodlake,VA,Virginia,51041,Chesterfield
+St. Helena,CA,California,6055,Napa
+Willis,TX,Texas,48339,Montgomery
+Rancho Calaveras,CA,California,6009,Calaveras
+Kentfield,CA,California,6041,Marin
+Eagle,CO,Colorado,8037,Eagle
+Barberton,WA,Washington,53011,Clark
+Brier,WA,Washington,53061,Snohomish
+Prairie View,TX,Texas,48473,Waller
+Franklin,CA,California,6047,Merced
+Woodland,WA,Washington,53015,Cowlitz
+Thermalito,CA,California,6007,Butte
+Colusa,CA,California,6011,Colusa
+Ben Lomond,CA,California,6087,Santa Cruz
+Gleneagle,CO,Colorado,8041,El Paso
+Loomis,CA,California,6061,Placer
+Lemoore Station,CA,California,6031,Kings
+Sunnyvale,TX,Texas,48113,Dallas
+Bee Cave,TX,Texas,48453,Travis
+Fircrest,WA,Washington,53053,Pierce
+San Martin,CA,California,6085,Santa Clara
+Thousand Palms,CA,California,6065,Riverside
+Lake Mathews,CA,California,6065,Riverside
+Fowler,CA,California,6019,Fresno
+Desert Palms,CA,California,6065,Riverside
+Clover Creek,WA,Washington,53053,Pierce
+Bellwood,VA,Virginia,51041,Chesterfield
+Lacy-Lakeview,TX,Texas,48309,McLennan
+Orchard Mesa,CO,Colorado,8077,Mesa
+Broadway,VA,Virginia,51165,Rockingham
+Bermuda Dunes,CA,California,6065,Riverside
+Lucas Valley-Marinwood,CA,California,6041,Marin
+Potomac Mills,VA,Virginia,51153,Prince William
+Bridgeport,TX,Texas,48497,Wise
+Cherry Hills Village,CO,Colorado,8005,Arapahoe
+Belle Haven,VA,Virginia,51059,Fairfax
+Mecca,CA,California,6065,Riverside
+Mira Monte,CA,California,6111,Ventura
+Belmont,VA,Virginia,51107,Loudoun
+Ladera Heights,CA,California,6037,Los Angeles
+Kermit,TX,Texas,48495,Winkler
+Normandy Park,WA,Washington,53033,King
+Mont Belvieu,TX,Texas,48071,Chambers
+South Monrovia Island,CA,California,6037,Los Angeles
+Keene,TX,Texas,48251,Johnson
+Contra Costa Centre,CA,California,6013,Contra Costa
+Keyes,CA,California,6099,Stanislaus
+Castroville,CA,California,6053,Monterey
+Air Force Academy,CO,Colorado,8041,El Paso
+Avon,CO,Colorado,8037,Eagle
+Bangor Base,WA,Washington,53035,Kitsap
+Severance,CO,Colorado,8123,Weld
+Ocean Shores,WA,Washington,53027,Grays Harbor
+La Habra Heights,CA,California,6037,Los Angeles
+Stratmoor,CO,Colorado,8041,El Paso
+Buena Vista,VA,Virginia,51530,Buena Vista
+Scenic Oaks,TX,Texas,48029,Bexar
+Otis Orchards-East Farms,WA,Washington,53063,Spokane
+Sealy,TX,Texas,48015,Austin
+Emporia,VA,Virginia,51595,Emporia
+Carrollton,VA,Virginia,51093,Isle of Wight
+Devine,TX,Texas,48325,Medina
+Carthage,TX,Texas,48365,Panola
+Burnet,TX,Texas,48053,Burnet
+Steilacoom,WA,Washington,53053,Pierce
+Rhome,TX,Texas,48497,Wise
+Aptos,CA,California,6087,Santa Cruz
+Crockett,TX,Texas,48225,Houston
+Prosser,WA,Washington,53005,Benton
+Wollochet,WA,Washington,53053,Pierce
+North Fort Lewis,WA,Washington,53053,Pierce
+Clarkston Heights-Vineland,WA,Washington,53003,Asotin
+Galax,VA,Virginia,51640,Galax
+Gladewater,TX,Texas,48183,Gregg
+Iowa Park,TX,Texas,48485,Wichita
+White Oak,TX,Texas,48183,Gregg
+El Rio,CA,California,6111,Ventura
+East Porterville,CA,California,6107,Tulare
+New Castle,CO,Colorado,8045,Garfield
+Salton City,CA,California,6025,Imperial
+Camp Swift,TX,Texas,48021,Bastrop
+South Run,VA,Virginia,51059,Fairfax
+Pecan Plantation,TX,Texas,48221,Hood
+Cameron Park,TX,Texas,48061,Cameron
+East Foothills,CA,California,6085,Santa Clara
+Saranap,CA,California,6013,Contra Costa
+Kenedy,TX,Texas,48255,Karnes
+Pimmit Hills,VA,Virginia,51059,Fairfax
+Chelan,WA,Washington,53007,Chelan
+Everman,TX,Texas,48439,Tarrant
+Union Gap,WA,Washington,53077,Yakima
+Sheridan,CO,Colorado,8005,Arapahoe
+Bridgewater,VA,Virginia,51165,Rockingham
+East Pasadena,CA,California,6037,Los Angeles
+Eucalyptus Hills,CA,California,6073,San Diego
+Country Homes,WA,Washington,53063,Spokane
+Fruitridge Pocket,CA,California,6067,Sacramento
+Aquia Harbour,VA,Virginia,51179,Stafford
+El Granada,CA,California,6081,San Mateo
+Bensley,VA,Virginia,51041,Chesterfield
+Alpine,TX,Texas,48043,Brewster
+Pleasure Point,CA,California,6087,Santa Cruz
+Childress,TX,Texas,48075,Childress
+Carrizo Springs,TX,Texas,48127,Dimmit
+Dacono,CO,Colorado,8123,Weld
+Pinehurst,TX,Texas,48339,Montgomery
+Finley,WA,Washington,53005,Benton
+Durham,CA,California,6007,Butte
+Vail,CO,Colorado,8037,Eagle
+Lucerne Valley,CA,California,6071,San Bernardino
+Rocky Mount,VA,Virginia,51067,Franklin
+Savannah,TX,Texas,48121,Denton
+Mila Doce,TX,Texas,48215,Hidalgo
+Progreso,TX,Texas,48215,Hidalgo
+Yoakum,TX,Texas,48123,DeWitt
+Sullivan City,TX,Texas,48215,Hidalgo
+Paradise,CA,California,6007,Butte
+Pagosa Springs,CO,Colorado,8007,Archuleta
+Woodcreek,TX,Texas,48209,Hays
+Dumfries,VA,Virginia,51153,Prince William
+Mineola,TX,Texas,48499,Wood
+Greenacres,CA,California,6029,Kern
+Slaton,TX,Texas,48303,Lubbock
+Chamberlayne,VA,Virginia,51087,Henrico
+Massanetta Springs,VA,Virginia,51165,Rockingham
+Gustine,CA,California,6047,Merced
+Nolanville,TX,Texas,48027,Bell
+Windcrest,TX,Texas,48029,Bexar
+Mayflower Village,CA,California,6037,Los Angeles
+Luling,TX,Texas,48055,Caldwell
+Hutchins,TX,Texas,48113,Dallas
+Las Flores,CA,California,6059,Orange
+Old Fig Garden,CA,California,6019,Fresno
+Silver Lakes,CA,California,6071,San Bernardino
+Littlefield,TX,Texas,48279,Lamb
+Willow Park,TX,Texas,48367,Parker
+West Clarkston-Highland,WA,Washington,53003,Asotin
+Brookshire,TX,Texas,48473,Waller
+Villa Park,CA,California,6059,Orange
+Highgrove,CA,California,6065,Riverside
+Edna,TX,Texas,48239,Jackson
+Granite Shoals,TX,Texas,48053,Burnet
+Palmview,TX,Texas,48215,Hidalgo
+Eaton,CO,Colorado,8123,Weld
+Brush,CO,Colorado,8087,Morgan
+Fort Lee,VA,Virginia,51149,Prince George
+Oak Point,TX,Texas,48121,Denton
+West Modesto,CA,California,6099,Stanislaus
+Hilmar-Irwin,CA,California,6047,Merced
+Sansom Park,TX,Texas,48439,Tarrant
+Rancho Murieta,CA,California,6067,Sacramento
+Sinton,TX,Texas,48409,San Patricio
+Fabens,TX,Texas,48141,El Paso
+Crosspointe,VA,Virginia,51059,Fairfax
+Zapata,TX,Texas,48505,Zapata
+Dripping Springs,TX,Texas,48209,Hays
+Woods Creek,WA,Washington,53061,Snohomish
+Manchester,WA,Washington,53035,Kitsap
+Dove Valley,CO,Colorado,8005,Arapahoe
+Wilton,CA,California,6067,Sacramento
+Mathis,TX,Texas,48409,San Patricio
+Cambria,CA,California,6079,San Luis Obispo
+Lakehills,TX,Texas,48019,Bandera
+Olivarez,TX,Texas,48215,Hidalgo
+Blaine,WA,Washington,53073,Whatcom
+Lackland AFB,TX,Texas,48029,Bexar
+Elverta,CA,California,6067,Sacramento
+Rusk,TX,Texas,48073,Cherokee
+Palmview South,TX,Texas,48215,Hidalgo
+Marlin,TX,Texas,48145,Falls
+Tracyton,WA,Washington,53035,Kitsap
+Leadville,CO,Colorado,8065,Lake
+Connell,WA,Washington,53021,Franklin
+Hidden Valley Lake,CA,California,6033,Lake
+Colorado City,TX,Texas,48335,Mitchell
+Shaw Heights,CO,Colorado,8001,Adams
+Strawberry,CA,California,6041,Marin
+Atlanta,TX,Texas,48067,Cass
+Yosemite Lakes,CA,California,6039,Madera
+Rockdale,TX,Texas,48331,Milam
+Wolfforth,TX,Texas,48303,Lubbock
+Breckenridge,TX,Texas,48429,Stephens
+Dulles Town Center,VA,Virginia,51107,Loudoun
+Indian Wells,CA,California,6065,Riverside
+Williams,CA,California,6011,Colusa
+Cameron,TX,Texas,48331,Milam
+Woodside,CA,California,6081,San Mateo
+Terrell Hills,TX,Texas,48029,Bexar
+Jamul,CA,California,6073,San Diego
+Denver City,TX,Texas,48501,Yoakum
+East Port Orchard,WA,Washington,53035,Kitsap
+Palermo,CA,California,6007,Butte
+Manitou Springs,CO,Colorado,8041,El Paso
+La Grange,TX,Texas,48149,Fayette
+Cavalero,WA,Washington,53061,Snohomish
+Hockinson,WA,Washington,53011,Clark
+Anthony,TX,Texas,48141,El Paso
+Mattawa,WA,Washington,53025,Grant
+San Leon,TX,Texas,48167,Galveston
+Edgewater,CO,Colorado,8059,Jefferson
+McGregor,TX,Texas,48309,McLennan
+Kensington,CA,California,6013,Contra Costa
+Wake Village,TX,Texas,48037,Bowie
+Brady,TX,Texas,48307,McCulloch
+Bulverde,TX,Texas,48091,Comal
+Bear Valley Springs,CA,California,6029,Kern
+Orange,VA,Virginia,51137,Orange
+Garnet,CA,California,6065,Riverside
+Big Bear Lake,CA,California,6071,San Bernardino
+Pecan Acres,TX,Texas,48439,Tarrant
+Giddings,TX,Texas,48287,Lee
+Venus,TX,Texas,48251,Johnson
+Calistoga,CA,California,6055,Napa
+Livingston,TX,Texas,48373,Polk
+Briar,TX,Texas,48367,Parker
+Lake Wildwood,CA,California,6057,Nevada
+Myrtletown,CA,California,6023,Humboldt
+Gilmer,TX,Texas,48459,Upshur
+Center,TX,Texas,48419,Shelby
+Cutler,CA,California,6107,Tulare
+Diboll,TX,Texas,48005,Angelina
+Ettrick,VA,Virginia,51041,Chesterfield
+Twin Lakes,CA,California,6087,Santa Cruz
+Boulder Creek,CA,California,6087,Santa Cruz
+Parker,TX,Texas,48085,Collin
+Doffing,TX,Texas,48215,Hidalgo
+West Pleasant View,CO,Colorado,8059,Jefferson
+Broadmoor,CA,California,6081,San Mateo
+Bret Harte,CA,California,6099,Stanislaus
+Glendale,CO,Colorado,8005,Arapahoe
+Colville,WA,Washington,53065,Stevens
+Primera,TX,Texas,48061,Cameron
+Homestead Meadows North,TX,Texas,48141,El Paso
+Canutillo,TX,Texas,48141,El Paso
+Tara Hills,CA,California,6013,Contra Costa
+Battlement Mesa,CO,Colorado,8045,Garfield
+Post,TX,Texas,48169,Garza
+Bowie,TX,Texas,48337,Montague
+Kings Park,VA,Virginia,51059,Fairfax
+Quantico Base,VA,Virginia,51153,Prince William
+Buellton,CA,California,6083,Santa Barbara
+Denair,CA,California,6099,Stanislaus
+Town and Country,WA,Washington,53063,Spokane
+Rio Hondo,TX,Texas,48061,Cameron
+Maplewood,WA,Washington,53053,Pierce
+Buckley,WA,Washington,53053,Pierce
+Krum,TX,Texas,48121,Denton
+Muleshoe,TX,Texas,48017,Bailey
+Guerneville,CA,California,6097,Sonoma
+Hudson,TX,Texas,48005,Angelina
+Timnath,CO,Colorado,8069,Larimer
+Pittsburg,TX,Texas,48063,Camp
+Medical Lake,WA,Washington,53063,Spokane
+Everson,WA,Washington,53073,Whatcom
+Mayfair,CA,California,6019,Fresno
+Alvarado,TX,Texas,48251,Johnson
+Buena Vista,CO,Colorado,8015,Chaffee
+King George,VA,Virginia,51099,King George
+Lake Worth,TX,Texas,48439,Tarrant
+Cashmere,WA,Washington,53007,Chelan
+West Columbia,TX,Texas,48039,Brazoria
+Bealeton,VA,Virginia,51061,Fauquier
+Hunters Creek Village,TX,Texas,48201,Harris
+Lincoln Village,CA,California,6077,San Joaquin
+Luray,VA,Virginia,51139,Page
+Bluefield,VA,Virginia,51185,Tazewell
+Falfurrias,TX,Texas,48047,Brooks
+Magnolia,TX,Texas,48339,Montgomery
+Hickory Creek,TX,Texas,48121,Denton
+Midway North,TX,Texas,48215,Hidalgo
+Black Diamond,WA,Washington,53033,King
+Clifton Forge,VA,Virginia,51005,Alleghany
+Wilmer,TX,Texas,48113,Dallas
+New Boston,TX,Texas,48037,Bowie
+Benton City,WA,Washington,53005,Benton
+Ford City,CA,California,6029,Kern
+Madisonville,TX,Texas,48313,Madison
+Mead,CO,Colorado,8123,Weld
+Medina,TX,Texas,48505,Zapata
+El Jebel,CO,Colorado,8037,Eagle
+Chula Vista,TX,Texas,48323,Maverick
+Camino Tassajara,CA,California,6013,Contra Costa
+Emerald Lake Hills,CA,California,6081,San Mateo
+Weston Lakes,TX,Texas,48157,Fort Bend
+Penitas,TX,Texas,48215,Hidalgo
+Lake San Marcos,CA,California,6073,San Diego
+Castroville,TX,Texas,48325,Medina
+Falmouth,VA,Virginia,51179,Stafford
+Morgan's Point Resort,TX,Texas,48027,Bell
+Brisbane,CA,California,6081,San Mateo
+Sandy Oaks,TX,Texas,48029,Bexar
+Tulia,TX,Texas,48437,Swisher
+Hebbronville,TX,Texas,48247,Jim Hogg
+Daingerfield,TX,Texas,48343,Morris
+Spotsylvania Courthouse,VA,Virginia,51177,Spotsylvania
+Altavista,VA,Virginia,51031,Campbell
+Oak View,CA,California,6111,Ventura
+Meadows Place,TX,Texas,48157,Fort Bend
+Portola Valley,CA,California,6081,San Mateo
+Belfair,WA,Washington,53045,Mason
+Perezville,TX,Texas,48215,Hidalgo
+Castle Pines Village,CO,Colorado,8035,Douglas
+Santa Ynez,CA,California,6083,Santa Barbara
+Dilley,TX,Texas,48163,Frio
+Palacios,TX,Texas,48321,Matagorda
+Laureles,TX,Texas,48061,Cameron
+Moses Lake North,WA,Washington,53025,Grant
+Pilot Point,TX,Texas,48121,Denton
+Chain Lake,WA,Washington,53061,Snohomish
+South Hill,VA,Virginia,51117,Mecklenburg
+Smithville,TX,Texas,48021,Bastrop
+Phoenix Lake,CA,California,6109,Tuolumne
+San Diego,TX,Texas,48131,Duval
+Santa Venetia,CA,California,6041,Marin
+Shady Hollow,TX,Texas,48453,Travis
+Rosedale,WA,Washington,53053,Pierce
+Castle Hills,TX,Texas,48029,Bexar
+Woodville,TX,Texas,48457,Tyler
+Berryville,VA,Virginia,51043,Clarke
+Sunnyside,CA,California,6019,Fresno
+Bonsall,CA,California,6073,San Diego
+Mountain View Acres,CA,California,6071,San Bernardino
+Tazewell,VA,Virginia,51185,Tazewell
+Enon,VA,Virginia,51041,Chesterfield
+Planada,CA,California,6047,Merced
+Armona,CA,California,6031,Kings
+Jourdanton,TX,Texas,48013,Atascosa
+McSwain,CA,California,6047,Merced
+Suquamish,WA,Washington,53035,Kitsap
+Hallsville,TX,Texas,48203,Harrison
+Jacksboro,TX,Texas,48237,Jack
+Argyle,TX,Texas,48121,Denton
+Van Alstyne,TX,Texas,48181,Grayson
+Fetters Hot Springs-Agua Caliente,CA,California,6097,Sonoma
+Caldwell,TX,Texas,48051,Burleson
+Woodbridge,VA,Virginia,51153,Prince William
+Grottoes,VA,Virginia,51165,Rockingham
+Todd Creek,CO,Colorado,8001,Adams
+Deer Park,WA,Washington,53063,Spokane
+Pacheco,CA,California,6013,Contra Costa
+Copperopolis,CA,California,6009,Calaveras
+Hearne,TX,Texas,48395,Robertson
+Forks,WA,Washington,53009,Clallam
+Spring Valley Village,TX,Texas,48201,Harris
+Del Mar,CA,California,6073,San Diego
+Humboldt Hill,CA,California,6023,Humboldt
+Bethel Manor,VA,Virginia,51199,York
+Whitesboro,TX,Texas,48181,Grayson
+Wauna,WA,Washington,53053,Pierce
+La Joya,TX,Texas,48215,Hidalgo
+Crane,TX,Texas,48103,Crane
+Hayfield,VA,Virginia,51059,Fairfax
+Justin,TX,Texas,48121,Denton
+Lytle,TX,Texas,48013,Atascosa
+Coleman,TX,Texas,48083,Coleman
+Mather,CA,California,6067,Sacramento
+Port Aransas,TX,Texas,48355,Nueces
+Travis Ranch,TX,Texas,48257,Kaufman
+Groesbeck,TX,Texas,48293,Limestone
+Stafford Courthouse,VA,Virginia,51179,Stafford
+Cotulla,TX,Texas,48283,La Salle
+Raymond,WA,Washington,53049,Pacific
+Verona,VA,Virginia,51015,Augusta
+Venersborg,WA,Washington,53011,Clark
+Bellville,TX,Texas,48015,Austin
+Ivanhoe,CA,California,6107,Tulare
+Central Gardens,TX,Texas,48245,Jefferson
+Esperance,WA,Washington,53061,Snohomish
+Comanche,TX,Texas,48093,Comanche
+Prairie Heights,WA,Washington,53053,Pierce
+Monte Vista,CO,Colorado,8105,Rio Grande
+Ovilla,TX,Texas,48139,Ellis
+Columbus,TX,Texas,48089,Colorado
+West Menlo Park,CA,California,6081,San Mateo
+Harbison Canyon,CA,California,6073,San Diego
+Cockrell Hill,TX,Texas,48113,Dallas
+Carmel Valley Village,CA,California,6053,Monterey
+Taft,TX,Texas,48409,San Patricio
+Garden Ridge,TX,Texas,48091,Comal
+Peaceful Valley,WA,Washington,53073,Whatcom
+Lenwood,CA,California,6071,San Bernardino
+Del Monte Forest,CA,California,6053,Monterey
+Sparks,TX,Texas,48141,El Paso
+Moxee,WA,Washington,53077,Yakima
+Dimmitt,TX,Texas,48069,Castro
+Presidio,TX,Texas,48377,Presidio
+Marietta-Alderwood,WA,Washington,53073,Whatcom
+North Richmond,CA,California,6013,Contra Costa
+Running Springs,CA,California,6071,San Bernardino
+Narrows,VA,Virginia,51071,Giles
+La Paloma,TX,Texas,48061,Cameron
+Rio Dell,CA,California,6023,Humboldt
+Empire,CA,California,6099,Stanislaus
+County Center,VA,Virginia,51153,Prince William
+Loch Lomond,VA,Virginia,51153,Prince William
+Redwood,TX,Texas,48187,Guadalupe
+Lake Land'Or,VA,Virginia,51033,Caroline
+Horseshoe Bay,TX,Texas,48299,Llano
+San Joaquin,CA,California,6019,Fresno
+San Carlos,TX,Texas,48215,Hidalgo
+Crandall,TX,Texas,48257,Kaufman
+Rocky Ford,CO,Colorado,8089,Otero
+University Center,VA,Virginia,51107,Loudoun
+Mabank,TX,Texas,48257,Kaufman
+Richwood,TX,Texas,48039,Brazoria
+Wrightwood,CA,California,6071,San Bernardino
+Shavano Park,TX,Texas,48029,Bexar
+Longbranch,WA,Washington,53053,Pierce
+Nassau Bay,TX,Texas,48201,Harris
+Burney,CA,California,6089,Shasta
+Angels,CA,California,6009,Calaveras
+Brazoria,TX,Texas,48039,Brazoria
+Crewe,VA,Virginia,51135,Nottoway
+Kalama,WA,Washington,53015,Cowlitz
+Mount Hermon,VA,Virginia,51143,Pittsylvania
+Bunk Foss,WA,Washington,53061,Snohomish
+Bunker Hill Village,TX,Texas,48201,Harris
+North El Monte,CA,California,6037,Los Angeles
+Clearlake Riviera,CA,California,6033,Lake
+Fox Island,WA,Washington,53053,Pierce
+Genesee,CO,Colorado,8059,Jefferson
+Elkton,VA,Virginia,51165,Rockingham
+Vine Hill,CA,California,6013,Contra Costa
+Clyde,TX,Texas,48059,Callahan
+Wheatland,CA,California,6115,Yuba
+Niwot,CO,Colorado,8013,Boulder
+Canton,TX,Texas,48467,Van Zandt
+Mojave,CA,California,6029,Kern
+Cle Elum,WA,Washington,53037,Kittitas
+Bethel,WA,Washington,53035,Kitsap
+Larch Way,WA,Washington,53061,Snohomish
+Eastland,TX,Texas,48133,Eastland
+Shingle Springs,CA,California,6017,El Dorado
+Mission Hills,CA,California,6083,Santa Barbara
+French Camp,CA,California,6077,San Joaquin
+Granger,WA,Washington,53077,Yakima
+Nash,TX,Texas,48037,Bowie
+Carmel-by-the-Sea,CA,California,6053,Monterey
+Arbuckle,CA,California,6011,Colusa
+Friona,TX,Texas,48369,Parmer
+Barrett,TX,Texas,48201,Harris
+Key Center,WA,Washington,53053,Pierce
+Longview Heights,WA,Washington,53015,Cowlitz
+Brooktrails,CA,California,6045,Mendocino
+Cisco,TX,Texas,48133,Eastland
+Mirrormont,WA,Washington,53033,King
+Eagle Lake,TX,Texas,48089,Colorado
+Freedom,CA,California,6087,Santa Cruz
+Lake Goodwin,WA,Washington,53061,Snohomish
+Colonial Beach,VA,Virginia,51193,Westmoreland
+Forestville,CA,California,6097,Sonoma
+Bystrom,CA,California,6099,Stanislaus
+Agua Dulce,CA,California,6037,Los Angeles
+Bullard,TX,Texas,48423,Smith
+North Alamo,TX,Texas,48215,Hidalgo
+Lavon,TX,Texas,48085,Collin
+Comfort,TX,Texas,48259,Kendall
+Boulevard Park,WA,Washington,53033,King
+Sweeny,TX,Texas,48039,Brazoria
+Sunnyslope,WA,Washington,53007,Chelan
+Avalon,CA,California,6037,Los Angeles
+Meadow Vista,CA,California,6061,Placer
+Potosi,TX,Texas,48441,Taylor
+Auburn Lake Trails,CA,California,6017,El Dorado
+Fritch,TX,Texas,48233,Hutchinson
+Wills Point,TX,Texas,48467,Van Zandt
+Squaw Valley,CA,California,6019,Fresno
+Old River-Winfree,TX,Texas,48071,Chambers
+Shenandoah Farms,VA,Virginia,51187,Warren
+Ballinger,TX,Texas,48399,Runnels
+Maple Heights-Lake Desire,WA,Washington,53033,King
+Meridian,CO,Colorado,8035,Douglas
+Ponderosa Park,CO,Colorado,8039,Elbert
+Westway,TX,Texas,48141,El Paso
+Felton,CA,California,6087,Santa Cruz
+Clearview,WA,Washington,53061,Snohomish
+Farmersville,TX,Texas,48085,Collin
+Las Animas,CO,Colorado,8011,Bent
+Pajaro,CA,California,6053,Monterey
+Cedaredge,CO,Colorado,8029,Delta
+Tarpey Village,CA,California,6019,Fresno
+Heber,CA,California,6025,Imperial
+Moss Beach,CA,California,6081,San Mateo
+Lake Cassidy,WA,Washington,53061,Snohomish
+Lake of the Pines,CA,California,6057,Nevada
+Scissors,TX,Texas,48215,Hidalgo
+Elm Creek,TX,Texas,48323,Maverick
+Woodbridge,CA,California,6077,San Joaquin
+Stallion Springs,CA,California,6029,Kern
+Taylor Lake Village,TX,Texas,48201,Harris
+Meiners Oaks,CA,California,6111,Ventura
+Kelseyville,CA,California,6033,Lake
+Dublin,TX,Texas,48143,Erath
+Indianola,WA,Washington,53035,Kitsap
+Lockeford,CA,California,6077,San Joaquin
+Reliez Valley,CA,California,6013,Contra Costa
+Southern Gateway,VA,Virginia,51179,Stafford
+Teague,TX,Texas,48161,Freestone
+La Conner,WA,Washington,53057,Skagit
+Poteet,TX,Texas,48013,Atascosa
+Goldendale,WA,Washington,53039,Klickitat
+Valley Springs,CA,California,6009,Calaveras
+Granite Hills,CA,California,6073,San Diego
+Llano,TX,Texas,48299,Llano
+Lake Isabella,CA,California,6029,Kern
+Waller,TX,Texas,48473,Waller
+Three Lakes,WA,Washington,53061,Snohomish
+Yuma,CO,Colorado,8125,Yuma
+Cienegas Terrace,TX,Texas,48465,Val Verde
+Hidden Meadows,CA,California,6073,San Diego
+McLendon-Chisholm,TX,Texas,48397,Rockwall
+Cross Mountain,TX,Texas,48029,Bexar
+Doolittle,TX,Texas,48215,Hidalgo
+Rollingwood,CA,California,6013,Contra Costa
+Oakhurst,CA,California,6039,Madera
+Clifton,TX,Texas,48035,Bosque
+Mono Vista,CA,California,6109,Tuolumne
+Piney Point Village,TX,Texas,48201,Harris
+Canyon Creek,WA,Washington,53061,Snohomish
+Riverdale,CA,California,6019,Fresno
+San Miguel,CA,California,6013,Contra Costa
+Monte Sereno,CA,California,6085,Santa Clara
+Meadowbrook,CA,California,6065,Riverside
+Hansville,WA,Washington,53035,Kitsap
+Campo,CA,California,6073,San Diego
+La Center,WA,Washington,53011,Clark
+Trinity,TX,Texas,48455,Trinity
+Leavenworth,WA,Washington,53007,Chelan
+Pantops,VA,Virginia,51003,Albemarle
+Vandenberg AFB,CA,California,6083,Santa Barbara
+Clyde Hill,WA,Washington,53033,King
+Karnes City,TX,Texas,48255,Karnes
+Coronita,CA,California,6065,Riverside
+McChord AFB,WA,Washington,53053,Pierce
+Pine Hills,CA,California,6023,Humboldt
+Grand Mound,WA,Washington,53067,Thurston
+Casa Conejo,CA,California,6111,Ventura
+Loyola,CA,California,6085,Santa Clara
+Big Lake,TX,Texas,48383,Reagan
+North Yelm,WA,Washington,53067,Thurston
+Cactus,TX,Texas,48341,Moore
+Burbank,WA,Washington,53071,Walla Walla
+Kennedy,CA,California,6077,San Joaquin
+Ahtanum,WA,Washington,53077,Yakima
+Elma,WA,Washington,53027,Grays Harbor
+North Lakeport,CA,California,6033,Lake
+Northlake,TX,Texas,48121,Denton
+Pixley,CA,California,6107,Tulare
+Howe,TX,Texas,48181,Grayson
+Reno,TX,Texas,48277,Lamar
+Shallowater,TX,Texas,48303,Lubbock
+Hollywood Park,TX,Texas,48029,Bexar
+Fairchild AFB,WA,Washington,53063,Spokane
+Lake Holm,WA,Washington,53033,King
+Blackstone,VA,Virginia,51135,Nottoway
+Lake California,CA,California,6103,Tehama
+Winchester,CA,California,6065,Riverside
+Desert Edge,CA,California,6065,Riverside
+Edcouch,TX,Texas,48215,Hidalgo
+Goshen,CA,California,6107,Tulare
+Winnsboro,TX,Texas,48499,Wood
+Paloma Creek,TX,Texas,48121,Denton
+Balcones Heights,TX,Texas,48029,Bexar
+El Verano,CA,California,6097,Sonoma
+Cloverdale,VA,Virginia,51023,Botetourt
+Citrus City,TX,Texas,48215,Hidalgo
+Medina,WA,Washington,53033,King
+Blue Ridge,VA,Virginia,51023,Botetourt
+West Lake Hills,TX,Texas,48453,Travis
+Seacliff,CA,California,6087,Santa Cruz
+Lincoln Park,CO,Colorado,8043,Fremont
+Sonterra,TX,Texas,48491,Williamson
+Grand Saline,TX,Texas,48467,Van Zandt
+Esparto,CA,California,6113,Yolo
+Jones Creek,TX,Texas,48039,Brazoria
+Agua Dulce,TX,Texas,48141,El Paso
+Mauriceville,TX,Texas,48361,Orange
+Crockett,CA,California,6013,Contra Costa
+Cambrian Park,CA,California,6085,Santa Clara
+West Point,VA,Virginia,51101,King William
+Spearman,TX,Texas,48195,Hansford
+North Shore,VA,Virginia,51067,Franklin
+Annetta,TX,Texas,48367,Parker
+Cottonwood,CA,California,6089,Shasta
+Tipton,CA,California,6107,Tulare
+Iowa Colony,TX,Texas,48039,Brazoria
+Wimberley,TX,Texas,48209,Hays
+Port Angeles East,WA,Washington,53009,Clallam
+Silt,CO,Colorado,8045,Garfield
+West Orange,TX,Texas,48361,Orange
+Port Hadlock-Irondale,WA,Washington,53031,Jefferson
+Canterwood,WA,Washington,53053,Pierce
+Fairfield,TX,Texas,48161,Freestone
+Orchard City,CO,Colorado,8029,Delta
+Algona,WA,Washington,53033,King
+Colfax,CA,California,6061,Placer
+Central Park,WA,Washington,53027,Grays Harbor
+Hoopa,CA,California,6023,Humboldt
+San Antonio Heights,CA,California,6071,San Bernardino
+Springtown,TX,Texas,48367,Parker
+Terra Bella,CA,California,6107,Tulare
+Chandler,TX,Texas,48213,Henderson
+Laguna Vista,TX,Texas,48061,Cameron
+Angwin,CA,California,6055,Napa
+Loma Rica,CA,California,6115,Yuba
+Frisco,CO,Colorado,8117,Summit
+Hideaway,TX,Texas,48423,Smith
+San Saba,TX,Texas,48411,San Saba
+Morada,CA,California,6077,San Joaquin
+Amesti,CA,California,6087,Santa Cruz
+East Richmond Heights,CA,California,6013,Contra Costa
+Oak Ridge North,TX,Texas,48339,Montgomery
+El Cenizo,TX,Texas,48479,Webb
+Early,TX,Texas,48049,Brown
+Weaverville,CA,California,6105,Trinity
+Haskell,TX,Texas,48207,Haskell
+Meadowdale,WA,Washington,53061,Snohomish
+High Bridge,WA,Washington,53061,Snohomish
+Nevada City,CA,California,6057,Nevada
+Lebanon,VA,Virginia,51167,Russell
+Zillah,WA,Washington,53077,Yakima
+Burlington,CO,Colorado,8063,Kit Carson
+Marin City,CA,California,6041,Marin
+Rochester,WA,Washington,53067,Thurston
+Needville,TX,Texas,48157,Fort Bend
+San Andreas,CA,California,6009,Calaveras
+Henrietta,TX,Texas,48077,Clay
+Jamestown,CA,California,6109,Tuolumne
+Oak Trail Shores,TX,Texas,48221,Hood
+Acres Green,CO,Colorado,8035,Douglas
+Olney,TX,Texas,48503,Young
+Bonny Doon,CA,California,6087,Santa Cruz
+Dahlgren,VA,Virginia,51099,King George
+Morongo Valley,CA,California,6071,San Bernardino
+Sonora,TX,Texas,48435,Sutton
+Anza,CA,California,6065,Riverside
+Eatonville,WA,Washington,53053,Pierce
+Clarksville,TX,Texas,48387,Red River
+Double Oak,TX,Texas,48121,Denton
+Navy Yard City,WA,Washington,53035,Kitsap
+Bishop,TX,Texas,48355,Nueces
+Kings Beach,CA,California,6061,Placer
+DeCordova,TX,Texas,48221,Hood
+Penrose,CO,Colorado,8043,Fremont
+Day Valley,CA,California,6087,Santa Cruz
+Strathmore,CA,California,6107,Tulare
+Walsenburg,CO,Colorado,8055,Huerfano
+Edgecliff Village,TX,Texas,48439,Tarrant
+Santa Rosa Valley,CA,California,6111,Ventura
+Strasburg,CO,Colorado,8005,Arapahoe
+Hamilton,TX,Texas,48193,Hamilton
+Sutter,CA,California,6101,Sutter
+Nocona,TX,Texas,48337,Montague
+Indian Hills,TX,Texas,48215,Hidalgo
+Stanton,TX,Texas,48317,Martin
+Palmer Lake,CO,Colorado,8041,El Paso
+Shenandoah,TX,Texas,48339,Montgomery
+West,TX,Texas,48309,McLennan
+Fobes Hill,WA,Washington,53061,Snohomish
+Combes,TX,Texas,48061,Cameron
+Lake Nacimiento,CA,California,6079,San Luis Obispo
+Ferris,TX,Texas,48139,Ellis
+Lochsloy,WA,Washington,53061,Snohomish
+Bayfield,CO,Colorado,8067,La Plata
+Yountville,CA,California,6055,Napa
+Hartley,CA,California,6095,Solano
+Lopezville,TX,Texas,48215,Hidalgo
+South Alamo,TX,Texas,48215,Hidalgo
+Lake Cherokee,TX,Texas,48401,Rusk
+Stamford,TX,Texas,48253,Jones
+Malakoff,TX,Texas,48213,Henderson
+Seagraves,TX,Texas,48165,Gaines
+Liberty Hill,TX,Texas,48491,Williamson
+Ozona,TX,Texas,48105,Crockett
+Barton Creek,TX,Texas,48453,Travis
+Las Lomas,CA,California,6053,Monterey
+Cutten,CA,California,6023,Humboldt
+Hooks,TX,Texas,48037,Bowie
+Castle Rock,WA,Washington,53015,Cowlitz
+Schulenburg,TX,Texas,48149,Fayette
+South Oroville,CA,California,6007,Butte
+Wise,VA,Virginia,51195,Wise
+Channel Islands Beach,CA,California,6111,Ventura
+Grape Creek,TX,Texas,48451,Tom Green
+Lucerne,CA,California,6033,Lake
+Alderton,WA,Washington,53053,Pierce
+Chincoteague,VA,Virginia,51001,Accomack
+Bartlett,TX,Texas,48491,Williamson
+Colfax,WA,Washington,53075,Whitman
+Ridgemark,CA,California,6069,San Benito
+Lake Wilderness,VA,Virginia,51177,Spotsylvania
+La Villa,TX,Texas,48215,Hidalgo
+Shady Shores,TX,Texas,48121,Denton
+Homestead Valley,CA,California,6071,San Bernardino
+Brackettville,TX,Texas,48271,Kinney
+Lawrenceville,VA,Virginia,51025,Brunswick
+Meadow Glade,WA,Washington,53011,Clark
+Oasis,CA,California,6065,Riverside
+Montalvin Manor,CA,California,6013,Contra Costa
+Kelly Ridge,CA,California,6007,Butte
+Chico,WA,Washington,53035,Kitsap
+East Oakdale,CA,California,6099,Stanislaus
+Holly Hills,CO,Colorado,8005,Arapahoe
+Canadian,TX,Texas,48211,Hemphill
+Carson,WA,Washington,53059,Skamania
+Port Ludlow,WA,Washington,53031,Jefferson
+Warden,WA,Washington,53025,Grant
+Bayview,CA,California,6023,Humboldt
+Gleed,WA,Washington,53077,Yakima
+Penngrove,CA,California,6097,Sonoma
+Daleville,VA,Virginia,51023,Botetourt
+Oak Grove,VA,Virginia,51107,Loudoun
+Fraser,CO,Colorado,8049,Grand
+Bennett,CO,Colorado,8001,Adams
+Rosita,TX,Texas,48323,Maverick
+Beach City,TX,Texas,48071,Chambers
+Circle D-KC Estates,TX,Texas,48021,Bastrop
+Winnie,TX,Texas,48071,Chambers
+South Padre Island,TX,Texas,48061,Cameron
+Pine Mountain Lake,CA,California,6109,Tuolumne
+Rose Hills,CA,California,6037,Los Angeles
+Hudson,CO,Colorado,8123,Weld
+Crest,CA,California,6073,San Diego
+Talty,TX,Texas,48257,Kaufman
+Platteville,CO,Colorado,8123,Weld
+Windsor,VA,Virginia,51093,Isle of Wight
+Westworth Village,TX,Texas,48439,Tarrant
+North Shore,CA,California,6065,Riverside
+Sisco Heights,WA,Washington,53061,Snohomish
+Refugio,TX,Texas,48391,Refugio
+Van,TX,Texas,48467,Van Zandt
+Odem,TX,Texas,48409,San Patricio
+Coeburn,VA,Virginia,51195,Wise
+Vista Santa Rosa,CA,California,6065,Riverside
+Mount Vernon,TX,Texas,48159,Franklin
+Palisade,CO,Colorado,8077,Mesa
+Val Verde,CA,California,6037,Los Angeles
+West Bishop,CA,California,6027,Inyo
+Palmhurst,TX,Texas,48215,Hidalgo
+Snowmass Village,CO,Colorado,8097,Pitkin
+Val Verde Park,TX,Texas,48465,Val Verde
+Electra,TX,Texas,48485,Wichita
+Pearisburg,VA,Virginia,51071,Giles
+Weed,CA,California,6093,Siskiyou
+Santa Rosa,TX,Texas,48061,Cameron
+Desert Aire,WA,Washington,53025,Grant
+Hayfork,CA,California,6105,Trinity
+Newport,WA,Washington,53051,Pend Oreille
+Abernathy,TX,Texas,48303,Lubbock
+Inez,TX,Texas,48469,Victoria
+Glen Rose,TX,Texas,48425,Somervell
+Collierville,CA,California,6077,San Joaquin
+White Salmon,WA,Washington,53039,Klickitat
+Timberville,VA,Virginia,51165,Rockingham
+Lexington Hills,CA,California,6085,Santa Clara
+La Selva Beach,CA,California,6087,Santa Cruz
+Floydada,TX,Texas,48153,Floyd
+Chewelah,WA,Washington,53065,Stevens
+Desert View Highlands,CA,California,6037,Los Angeles
+Las Lomas,TX,Texas,48427,Starr
+Freer,TX,Texas,48131,Duval
+Dixon Lane-Meadow Creek,CA,California,6027,Inyo
+Arcola,TX,Texas,48157,Fort Bend
+El Lago,TX,Texas,48201,Harris
+Fords Prairie,WA,Washington,53041,Lewis
+Hillsville,VA,Virginia,51035,Carroll
+Merrimac,VA,Virginia,51121,Montgomery
+Tahoka,TX,Texas,48305,Lynn
+Crosby,TX,Texas,48201,Harris
+Dogtown,CA,California,6077,San Joaquin
+Lakeview,CA,California,6065,Riverside
+Alturas,CA,California,6049,Modoc
+Hallettsville,TX,Texas,48285,Lavaca
+Brush Prairie,WA,Washington,53011,Clark
+South Creek,WA,Washington,53053,Pierce
+Hedwig Village,TX,Texas,48201,Harris
+Stansberry Lake,WA,Washington,53053,Pierce
+Cayucos,CA,California,6079,San Luis Obispo
+Sutter Creek,CA,California,6005,Amador
+Merkel,TX,Texas,48441,Taylor
+Bridgeport,WA,Washington,53017,Douglas
+Warm Beach,WA,Washington,53061,Snohomish
+Massanutten,VA,Virginia,51165,Rockingham
+Dayton,WA,Washington,53013,Columbia
+Okanogan,WA,Washington,53047,Okanogan
+Cabazon,CA,California,6065,Riverside
+Frazier Park,CA,California,6029,Kern
+Lake Kiowa,TX,Texas,48097,Cooke
+Dublin,VA,Virginia,51155,Pulaski
+Georgetown,CA,California,6017,El Dorado
+Escobares,TX,Texas,48427,Starr
+George West,TX,Texas,48297,Live Oak
+Riverbend,WA,Washington,53033,King
+Friday Harbor,WA,Washington,53055,San Juan
+Tappahannock,VA,Virginia,51057,Essex
+Quitman,TX,Texas,48499,Wood
+Caruthers,CA,California,6019,Fresno
+Seymour,TX,Texas,48023,Baylor
+Bolivar Peninsula,TX,Texas,48167,Galveston
+Edwards AFB,CA,California,6029,Kern
+Premont,TX,Texas,48249,Jim Wells
+Nixon,TX,Texas,48177,Gonzales
+Lyford,TX,Texas,48489,Willacy
+Holly Lake Ranch,TX,Texas,48499,Wood
+Nice,CA,California,6033,Lake
+Pantego,TX,Texas,48439,Tarrant
+Mabton,WA,Washington,53077,Yakima
+Ahwahnee,CA,California,6039,Madera
+Chase City,VA,Virginia,51117,Mecklenburg
+Idyllwild-Pine Cove,CA,California,6065,Riverside
+Rancho Santa Fe,CA,California,6073,San Diego
+Mission Canyon,CA,California,6083,Santa Barbara
+Montara,CA,California,6081,San Mateo
+Overton,TX,Texas,48401,Rusk
+Matoaca,VA,Virginia,51041,Chesterfield
+Pottsboro,TX,Texas,48181,Grayson
+St. Hedwig,TX,Texas,48029,Bexar
+Quanah,TX,Texas,48197,Hardeman
+The Hills,TX,Texas,48453,Travis
+Cumings,TX,Texas,48157,Fort Bend
+Hudson Oaks,TX,Texas,48367,Parker
+Telluride,CO,Colorado,8113,San Miguel
+Aromas,CA,California,6069,San Benito
+Ranger,TX,Texas,48133,Eastland
+Gloucester Courthouse,VA,Virginia,51073,Gloucester
+Olmos Park,TX,Texas,48029,Bexar
+Rancho Viejo,TX,Texas,48061,Cameron
+Geneva,WA,Washington,53073,Whatcom
+Ross,CA,California,6041,Marin
+Parksdale,CA,California,6039,Madera
+Winters,TX,Texas,48399,Runnels
+Blue Mound,TX,Texas,48439,Tarrant
+Combine,TX,Texas,48257,Kaufman
+Shadow Lake,WA,Washington,53033,King
+Wyldwood,TX,Texas,48021,Bastrop
+Bella Vista,CA,California,6089,Shasta
+Cathcart,WA,Washington,53061,Snohomish
+Fall City,WA,Washington,53033,King
+Panorama Village,TX,Texas,48339,Montgomery
+Three Rivers,CA,California,6107,Tulare
+Midway South,TX,Texas,48215,Hidalgo
+Allyn,WA,Washington,53045,Mason
+Laporte,CO,Colorado,8069,Larimer
+Shepherd,TX,Texas,48407,San Jacinto
+Arlington Heights,WA,Washington,53061,Snohomish
+Junction,TX,Texas,48267,Kimble
+Buckhorn,CA,California,6005,Amador
+Whidbey Island Station,WA,Washington,53029,Island
+Dalworthington Gardens,TX,Texas,48439,Tarrant
+Salado,TX,Texas,48027,Bell
+Newton,TX,Texas,48351,Newton
+Pine Canyon,CA,California,6053,Monterey
+Ponder,TX,Texas,48121,Denton
+Fife Heights,WA,Washington,53053,Pierce
+Rainbow,CA,California,6073,San Diego
+Brewster,WA,Washington,53047,Okanogan
+Llano Grande,TX,Texas,48215,Hidalgo
+Gold Bar,WA,Washington,53061,Snohomish
+Wray,CO,Colorado,8125,Yuma
+Colorado City,CO,Colorado,8101,Pueblo
+La Salle,CO,Colorado,8123,Weld
+East Bernard,TX,Texas,48481,Wharton
+Anahuac,TX,Texas,48071,Chambers
+West Sharyland,TX,Texas,48215,Hidalgo
+Wofford Heights,CA,California,6029,Kern
+Shenandoah,VA,Virginia,51139,Page
+McQueeney,TX,Texas,48187,Guadalupe
+Abram,TX,Texas,48215,Hidalgo
+Fairlawn,VA,Virginia,51155,Pulaski
+Weldon,CA,California,6029,Kern
+Richgrove,CA,California,6107,Tulare
+La Blanca,TX,Texas,48215,Hidalgo
+Liberty City,TX,Texas,48183,Gregg
+Portola,CA,California,6063,Plumas
+Coal Creek,CO,Colorado,8059,Jefferson
+Panhandle,TX,Texas,48065,Carson
+Twain Harte,CA,California,6109,Tuolumne
+Ferrum,VA,Virginia,51067,Franklin
+Idalou,TX,Texas,48303,Lubbock
+Mason,TX,Texas,48319,Mason
+Burley,WA,Washington,53035,Kitsap
+Tool,TX,Texas,48213,Henderson
+Anson,TX,Texas,48253,Jones
+Romoland,CA,California,6065,Riverside
+Arnold,CA,California,6009,Calaveras
+Weedpatch,CA,California,6029,Kern
+Rainier,WA,Washington,53067,Thurston
+Poth,TX,Texas,48493,Wilson
+Carnation,WA,Washington,53033,King
+East Sonora,CA,California,6109,Tuolumne
+Sleepy Hollow,CA,California,6041,Marin
+Clearlake Oaks,CA,California,6033,Lake
+Center,CO,Colorado,8109,Saguache
+Rangely,CO,Colorado,8103,Rio Blanco
+Poplar-Cotton Center,CA,California,6107,Tulare
+Splendora,TX,Texas,48339,Montgomery
+Westmorland,CA,California,6025,Imperial
+New Market,VA,Virginia,51171,Shenandoah
+Meeker,CO,Colorado,8103,Rio Blanco
+Aptos Hills-Larkin Valley,CA,California,6087,Santa Cruz
+Shingletown,CA,California,6089,Shasta
+Laughlin AFB,TX,Texas,48465,Val Verde
+Leadville North,CO,Colorado,8065,Lake
+Garfield,TX,Texas,48453,Travis
+Royal City,WA,Washington,53025,Grant
+Sky Valley,CA,California,6065,Riverside
+Weimar,TX,Texas,48089,Colorado
+Columbia,CA,California,6109,Tuolumne
+Southworth,WA,Washington,53035,Kitsap
+Boron,CA,California,6029,Kern
+Soulsbyville,CA,California,6109,Tuolumne
+East Quincy,CA,California,6063,Plumas
+Holyoke,CO,Colorado,8095,Phillips
+Hudson Bend,TX,Texas,48453,Travis
+Crimora,VA,Virginia,51015,Augusta
+Lovettsville,VA,Virginia,51107,Loudoun
+De Leon,TX,Texas,48093,Comanche
+Kingston,WA,Washington,53035,Kitsap
+Waskom,TX,Texas,48203,Harrison
+Lyons,CO,Colorado,8013,Boulder
+Ravensworth,VA,Virginia,51059,Fairfax
+Murphys,CA,California,6009,Calaveras
+Parkwood,CA,California,6039,Madera
+Amherst,VA,Virginia,51009,Amherst
+Shiner,TX,Texas,48285,Lavaca
+Whitney,TX,Texas,48217,Hill
+Bethel Island,CA,California,6013,Contra Costa
+Corralitos,CA,California,6087,Santa Cruz
+Patton Village,TX,Texas,48339,Montgomery
+Freeland,WA,Washington,53029,Island
+Elmendorf,TX,Texas,48029,Bexar
+Laymantown,VA,Virginia,51023,Botetourt
+Chester,CA,California,6063,Plumas
+Borrego Springs,CA,California,6073,San Diego
+Fannett,TX,Texas,48245,Jefferson
+Granby,CO,Colorado,8049,Grand
+China Lake Acres,CA,California,6029,Kern
+Santa Nella,CA,California,6047,Merced
+Johnson City,TX,Texas,48031,Blanco
+Palmer,TX,Texas,48139,Ellis
+Mount Jackson,VA,Virginia,51171,Shenandoah
+Hamilton City,CA,California,6021,Glenn
+Huntington,TX,Texas,48005,Angelina
+Bell Canyon,CA,California,6111,Ventura
+Kountze,TX,Texas,48199,Hardin
+Jonestown,TX,Texas,48453,Travis
+Belvedere,CA,California,6041,Marin
+San Juan Bautista,CA,California,6069,San Benito
+Westport,WA,Washington,53027,Grays Harbor
+Josephine,TX,Texas,48085,Collin
+Laguna Heights,TX,Texas,48061,Cameron
+Calwa,CA,California,6019,Fresno
+Patterson Tract,CA,California,6107,Tulare
+Fairbanks Ranch,CA,California,6073,San Diego
+Lake Holiday,VA,Virginia,51069,Frederick
+Horse Pasture,VA,Virginia,51089,Henry
+Fifth Street,TX,Texas,48157,Fort Bend
+Blanco,TX,Texas,48031,Blanco
+Kirbyville,TX,Texas,48241,Jasper
+Wellington,TX,Texas,48087,Collingsworth
+Porter Heights,TX,Texas,48339,Montgomery
+Shadybrook,TX,Texas,48073,Cherokee
+Stephens City,VA,Virginia,51069,Frederick
+Marshall,VA,Virginia,51061,Fauquier
+McCamey,TX,Texas,48461,Upton
+Olton,TX,Texas,48279,Lamb
+Stratford,TX,Texas,48421,Sherman
+Ganado,TX,Texas,48239,Jackson
+Leonard,TX,Texas,48147,Fannin
+Hale Center,TX,Texas,48189,Hale
+Yorktown,TX,Texas,48123,DeWitt
+Raven,VA,Virginia,51185,Tazewell
+Troup,TX,Texas,48423,Smith
+Little River-Academy,TX,Texas,48027,Bell
+Rouse,CA,California,6099,Stanislaus
+Bodfish,CA,California,6029,Kern
+Woodlands,CA,California,6079,San Luis Obispo
+Vinton,TX,Texas,48141,El Paso
+Hamlin,TX,Texas,48253,Jones
+Kemah,TX,Texas,48167,Galveston
+Easton,CA,California,6019,Fresno
+Troy,TX,Texas,48027,Bell
+Walla Walla East,WA,Washington,53071,Walla Walla
+Memphis,TX,Texas,48191,Hall
+Seeley,CA,California,6025,Imperial
+Auberry,CA,California,6019,Fresno
+Roman Forest,TX,Texas,48339,Montgomery
+Pelican Bay,TX,Texas,48439,Tarrant
+Goliad,TX,Texas,48175,Goliad
+Napavine,WA,Washington,53041,Lewis
+Laton,CA,California,6019,Fresno
+Taft Heights,CA,California,6029,Kern
+Cooper,TX,Texas,48119,Delta
+Preston,TX,Texas,48181,Grayson
+Bertsch-Oceanview,CA,California,6015,Del Norte
+Beverly Hills,TX,Texas,48309,McLennan
+Mason Neck,VA,Virginia,51059,Fairfax
+Hayden,CO,Colorado,8107,Routt
+Moorefield Station,VA,Virginia,51107,Loudoun
+Lofall,WA,Washington,53035,Kitsap
+Coupeville,WA,Washington,53029,Island
+Perry Park,CO,Colorado,8035,Douglas
+San Pasqual,CA,California,6037,Los Angeles
+Monte Alto,TX,Texas,48215,Hidalgo
+Somerset,TX,Texas,48029,Bexar
+Mart,TX,Texas,48309,McLennan
+Quail Creek,TX,Texas,48469,Victoria
+Collinsville,TX,Texas,48181,Grayson
+Fern Prairie,WA,Washington,53011,Clark
+Waverly,VA,Virginia,51183,Sussex
+Quincy,CA,California,6063,Plumas
+Limon,CO,Colorado,8073,Lincoln
+Weyers Cave,VA,Virginia,51015,Augusta
+Three Rivers,TX,Texas,48297,Live Oak
+Brookdale,CA,California,6087,Santa Cruz
+Albany,TX,Texas,48417,Shackelford
+Patrick Springs,VA,Virginia,51141,Patrick
+North Puyallup,WA,Washington,53053,Pierce
+Sour Lake,TX,Texas,48199,Hardin
+Italy,TX,Texas,48139,Ellis
+Haslet,TX,Texas,48439,Tarrant
+Enetai,WA,Washington,53035,Kitsap
+Sheldon,TX,Texas,48201,Harris
+Linden,TX,Texas,48067,Cass
+Jefferson,TX,Texas,48315,Marion
+Wild Peach Village,TX,Texas,48039,Brazoria
+Camino,CA,California,6017,El Dorado
+Buffalo,TX,Texas,48289,Leon
+Saltville,VA,Virginia,51173,Smyth
+Lake Dunlap,TX,Texas,48187,Guadalupe
+Charlotte,TX,Texas,48013,Atascosa
+Hidden Hills,CA,California,6037,Los Angeles
+Graton,CA,California,6097,Sonoma
+San Augustine,TX,Texas,48405,San Augustine
+Gregory,TX,Texas,48409,San Patricio
+Southside Place,TX,Texas,48201,Harris
+Biggs,CA,California,6007,Butte
+Prince George,VA,Virginia,51149,Prince George
+Amboy,WA,Washington,53011,Clark
+Warm Springs,CA,California,6065,Riverside
+Ault,CO,Colorado,8123,Weld
+Van Horn,TX,Texas,48109,Culberson
+Gate City,VA,Virginia,51169,Scott
+Tenino,WA,Washington,53067,Thurston
+Foresthill,CA,California,6061,Placer
+Rivanna,VA,Virginia,51003,Albemarle
+Ingram,TX,Texas,48265,Kerr
+Rolling Hills,CA,California,6037,Los Angeles
+Milam,TX,Texas,48403,Sabine
+Olathe,CO,Colorado,8085,Montrose
+Krugerville,TX,Texas,48121,Denton
+Goldthwaite,TX,Texas,48333,Mills
+Jarrell,TX,Texas,48491,Williamson
+Fort Hancock,TX,Texas,48229,Hudspeth
+Seth Ward,TX,Texas,48189,Hale
+South Wenatchee,WA,Washington,53007,Chelan
+Cana,VA,Virginia,51035,Carroll
+Lyndhurst,VA,Virginia,51015,Augusta
+Briarcliff,TX,Texas,48453,Travis
+Gardendale,TX,Texas,48135,Ector
+Bryant,WA,Washington,53061,Snohomish
+Morton,TX,Texas,48079,Cochran
+Sunray,TX,Texas,48341,Moore
+Lone Pine,CA,California,6027,Inyo
+Ralls,TX,Texas,48107,Crosby
+Piru,CA,California,6111,Ventura
+Millwood,WA,Washington,53063,Spokane
+Grandview,TX,Texas,48251,Johnson
+Yacolt,WA,Washington,53011,Clark
+Appomattox,VA,Virginia,51011,Appomattox
+Red Corral,CA,California,6005,Amador
+Idaho Springs,CO,Colorado,8019,Clear Creek
+Bartonville,TX,Texas,48121,Denton
+Castlewood,VA,Virginia,51167,Russell
+Las Palmas II,TX,Texas,48061,Cameron
+Evadale,TX,Texas,48241,Jasper
+Bloomington,TX,Texas,48469,Victoria
+Clarendon,TX,Texas,48129,Donley
+Bovina,TX,Texas,48369,Parmer
+Big Lake,WA,Washington,53057,Skagit
+Ravensdale,WA,Washington,53033,King
+Lagunitas-Forest Knolls,CA,California,6041,Marin
+Stinnett,TX,Texas,48233,Hutchinson
+South Taft,CA,California,6029,Kern
+McCleary,WA,Washington,53027,Grays Harbor
+Shamrock,TX,Texas,48483,Wheeler
+Woodville,CA,California,6107,Tulare
+Boronda,CA,California,6053,Monterey
+Pine Grove,CA,California,6005,Amador
+Danbury,TX,Texas,48039,Brazoria
+South Dos Palos,CA,California,6047,Merced
+Lorena,TX,Texas,48309,McLennan
+Pine Mountain Club,CA,California,6029,Kern
+Los Molinos,CA,California,6103,Tehama
+Ocean Park,WA,Washington,53049,Pacific
+Davenport,WA,Washington,53043,Lincoln
+Elizabeth Lake,CA,California,6037,Los Angeles
+Le Grand,CA,California,6047,Merced
+Monroe North,WA,Washington,53061,Snohomish
+Honey Grove,TX,Texas,48147,Fannin
+Buna,TX,Texas,48241,Jasper
+Itasca,TX,Texas,48217,Hill
+Louisa,VA,Virginia,51109,Louisa
+West Pasco,WA,Washington,53021,Franklin
+Hampden-Sydney,VA,Virginia,51147,Prince Edward
+Toro Canyon,CA,California,6083,Santa Barbara
+Lowry Crossing,TX,Texas,48085,Collin
+Lost Hills,CA,California,6029,Kern
+Crested Butte,CO,Colorado,8051,Gunnison
+Akron,CO,Colorado,8121,Washington
+Pennington Gap,VA,Virginia,51105,Lee
+Whitewright,TX,Texas,48181,Grayson
+Lewisville,WA,Washington,53011,Clark
+Redwood Valley,CA,California,6045,Mendocino
+Westlake,TX,Texas,48439,Tarrant
+Hughes Springs,TX,Texas,48067,Cass
+Biola,CA,California,6019,Fresno
+Kayak Point,WA,Washington,53061,Snohomish
+Meadowlakes,TX,Texas,48053,Burnet
+Chilhowie,VA,Virginia,51173,Smyth
+Archer City,TX,Texas,48009,Archer
+La Grulla,TX,Texas,48427,Starr
+Caddo Mills,TX,Texas,48231,Hunt
+South Bend,WA,Washington,53049,Pacific
+Bruceville-Eddy,TX,Texas,48309,McLennan
+London,CA,California,6107,Tulare
+Searles Valley,CA,California,6071,San Bernardino
+Shawneeland,VA,Virginia,51069,Frederick
+East Lexington,VA,Virginia,51163,Rockbridge
+Westwood Shores,TX,Texas,48455,Trinity
+Rancho Tehama Reserve,CA,California,6103,Tehama
+Kersey,CO,Colorado,8123,Weld
+South Point,TX,Texas,48061,Cameron
+Lake Sherwood,CA,California,6111,Ventura
+Haymarket,VA,Virginia,51153,Prince William
+Gunter,TX,Texas,48181,Grayson
+Oroville,WA,Washington,53047,Okanogan
+Pleak,TX,Texas,48157,Fort Bend
+Sabinal,TX,Texas,48463,Uvalde
+Cascade Valley,WA,Washington,53025,Grant
+Stanley,VA,Virginia,51139,Page
+Holliday,TX,Texas,48009,Archer
+Uvalde Estates,TX,Texas,48463,Uvalde
+Cosmopolis,WA,Washington,53027,Grays Harbor
+Plains,TX,Texas,48501,Yoakum
+Ritzville,WA,Washington,53001,Adams
+Del Rey Oaks,CA,California,6053,Monterey
+Juarez,TX,Texas,48061,Cameron
+Stockdale,TX,Texas,48493,Wilson
+Muenster,TX,Texas,48097,Cooke
+Franklin,TX,Texas,48395,Robertson
+Westwood,CA,California,6035,Lassen
+Los Ranchos,CA,California,6079,San Luis Obispo
+Dayton,VA,Virginia,51165,Rockingham
+Kettle Falls,WA,Washington,53065,Stevens
+Los Alamos,CA,California,6083,Santa Barbara
+Bayou Vista,TX,Texas,48167,Galveston
+Wilderness Rim,WA,Washington,53033,King
+Nooksack,WA,Washington,53073,Whatcom
+Lockney,TX,Texas,48153,Floyd
+Pinewood Estates,TX,Texas,48199,Hardin
+Victoria,VA,Virginia,51111,Lunenburg
+Marfa,TX,Texas,48377,Presidio
+Gordonsville,VA,Virginia,51137,Orange
+Black Point-Green Point,CA,California,6041,Marin
+Temelec,CA,California,6097,Sonoma
+Siesta Acres,TX,Texas,48323,Maverick
+Crosbyton,TX,Texas,48107,Crosby
+Corrigan,TX,Texas,48373,Polk
+Lake Bryan,TX,Texas,48041,Brazos
+Ladera,CA,California,6081,San Mateo
+Soap Lake,WA,Washington,53025,Grant
+Stevenson,WA,Washington,53059,Skamania
+Rocky Point,WA,Washington,53035,Kitsap
+Lakeside,TX,Texas,48439,Tarrant
+Shoreacres,TX,Texas,48201,Harris
+De Kalb,TX,Texas,48037,Bowie
+Del Rio,CA,California,6099,Stanislaus
+Natalia,TX,Texas,48325,Medina
+Coarsegold,CA,California,6039,Madera
+Rollingwood,TX,Texas,48453,Travis
+Tuolumne City,CA,California,6109,Tuolumne
+Eldorado,TX,Texas,48413,Schleicher
+Brookside Village,TX,Texas,48039,Brazoria
+Runaway Bay,TX,Texas,48497,Wise
+Central Garage,VA,Virginia,51101,King William
+Alvord,TX,Texas,48497,Wise
+Adwolf,VA,Virginia,51173,Smyth
+Shasta,CA,California,6089,Shasta
+Leona Valley,CA,California,6037,Los Angeles
+Blossom,TX,Texas,48277,Lamar
+Del Norte,CO,Colorado,8105,Rio Grande
+Descanso,CA,California,6073,San Diego
+Inverness,CO,Colorado,8005,Arapahoe
+Elizabeth,CO,Colorado,8039,Elbert
+Dunsmuir,CA,California,6093,Siskiyou
+Ames Lake,WA,Washington,53033,King
+McMillin,WA,Washington,53053,Pierce
+Shawsville,VA,Virginia,51121,Montgomery
+Linden,CA,California,6077,San Joaquin
+New Fairview,TX,Texas,48497,Wise
+Chatmoss,VA,Virginia,51089,Henry
+Sumas,WA,Washington,53073,Whatcom
+Appalachia,VA,Virginia,51195,Wise
+Nederland,CO,Colorado,8013,Boulder
+Passapatanzy,VA,Virginia,51099,King George
+Bangs,TX,Texas,48049,Brown
+Edgewood,TX,Texas,48467,Van Zandt
+Big Pine,CA,California,6027,Inyo
+Kremmling,CO,Colorado,8049,Grand
+Quinlan,TX,Texas,48231,Hunt
+Lake Caroline,VA,Virginia,51033,Caroline
+Kerens,TX,Texas,48349,Navarro
+Seven Points,TX,Texas,48213,Henderson
+Home Garden,CA,California,6031,Kings
+Plum Creek,VA,Virginia,51121,Montgomery
+Boyd,TX,Texas,48497,Wise
+Laguna Park,TX,Texas,48035,Bosque
+Cross Roads,TX,Texas,48121,Denton
+Meridian,TX,Texas,48035,Bosque
+Dallesport,WA,Washington,53039,Klickitat
+Bells,TX,Texas,48181,Grayson
+Sebastian,TX,Texas,48489,Willacy
+Willow Creek,CA,California,6023,Humboldt
+Aurora,TX,Texas,48497,Wise
+Chualar,CA,California,6053,Monterey
+Granger,TX,Texas,48491,Williamson
+Columbine Valley,CO,Colorado,8005,Arapahoe
+Kittitas,WA,Washington,53037,Kittitas
+Long Beach,WA,Washington,53049,Pacific
+Booker,TX,Texas,48295,Lipscomb
+Copper Canyon,TX,Texas,48121,Denton
+Seadrift,TX,Texas,48057,Calhoun
+Colma,CA,California,6081,San Mateo
+Fulton,TX,Texas,48007,Aransas
+Baird,TX,Texas,48059,Callahan
+Warsaw,VA,Virginia,51159,Richmond
+Oak Leaf,TX,Texas,48139,Ellis
+Lone Star,TX,Texas,48343,Morris
+Wolfe City,TX,Texas,48231,Hunt
+Airport,CA,California,6099,Stanislaus
+Pine Valley,CA,California,6073,San Diego
+Wheeler,TX,Texas,48483,Wheeler
+Home,WA,Washington,53053,Pierce
+Bertram,TX,Texas,48053,Burnet
+Green Valley,CA,California,6095,Solano
+Lebec,CA,California,6029,Kern
+Paonia,CO,Colorado,8029,Delta
+Monument Hills,CA,California,6113,Yolo
+La Pryor,TX,Texas,48507,Zavala
+Somerville,TX,Texas,48051,Burleson
+Dunnigan,CA,California,6113,Yolo
+China Spring,TX,Texas,48309,McLennan
+Batesville,TX,Texas,48507,Zavala
+Rural Retreat,VA,Virginia,51197,Wythe
+Irwindale,CA,California,6037,Los Angeles
+Grapeland,TX,Texas,48225,Houston
+Buttonwillow,CA,California,6029,Kern
+Woodbranch,TX,Texas,48339,Montgomery
+Purdy,WA,Washington,53053,Pierce
+Cut and Shoot,TX,Texas,48339,Montgomery
+Rotan,TX,Texas,48151,Fisher
+Ivanhoe,TX,Texas,48457,Tyler
+Queen City,TX,Texas,48067,Cass
+Flatonia,TX,Texas,48149,Fayette
+Mancos,CO,Colorado,8083,Montezuma
+Winlock,WA,Washington,53041,Lewis
+La Vernia,TX,Texas,48493,Wilson
+Chatham,VA,Virginia,51143,Pittsylvania
+Midpines,CA,California,6043,Mariposa
+Castle Hill,CA,California,6013,Contra Costa
+Mountain Village,CO,Colorado,8113,San Miguel
+Sundown,TX,Texas,48219,Hockley
+Greenville,VA,Virginia,51015,Augusta
+Eldridge,CA,California,6097,Sonoma
+Darrington,WA,Washington,53061,Snohomish
+Moody,TX,Texas,48309,McLennan
+Rustburg,VA,Virginia,51031,Campbell
+Aristocrat Ranchettes,CO,Colorado,8123,Weld
+Olmito,TX,Texas,48061,Cameron
+Hico,TX,Texas,48193,Hamilton
+Big Sandy,TX,Texas,48459,Upshur
+Woodsboro,TX,Texas,48391,Refugio
+Lake Brownwood,TX,Texas,48049,Brown
+Janesville,CA,California,6035,Lassen
+Glade Spring,VA,Virginia,51191,Washington
+Benavides,TX,Texas,48131,Duval
+Hubbard,TX,Texas,48217,Hill
+Serenada,TX,Texas,48491,Williamson
+Menard,TX,Texas,48327,Menard
+Aetna Estates,CO,Colorado,8005,Arapahoe
+Montague,CA,California,6093,Siskiyou
+Indian Hills,CO,Colorado,8059,Jefferson
+Mountain Mesa,CA,California,6029,Kern
+Middletown,VA,Virginia,51069,Frederick
+Pomeroy,WA,Washington,53023,Garfield
+Kilmarnock,VA,Virginia,51103,Lancaster
+Woodway,WA,Washington,53061,Snohomish
+Elmo,TX,Texas,48257,Kaufman
+Allendale,CA,California,6095,Solano
+Pioneer,CA,California,6005,Amador
+Tatum,TX,Texas,48401,Rusk
+Lewiston,CA,California,6105,Trinity
+Wildwood,TX,Texas,48199,Hardin
+Stanleytown,VA,Virginia,51089,Henry
+Springfield,CO,Colorado,8009,Baca
+Buchanan Dam,TX,Texas,48299,Llano
+Godley,TX,Texas,48251,Johnson
+Exmore,VA,Virginia,51131,Northampton
+Apple Mountain Lake,VA,Virginia,51187,Warren
+Heidelberg,TX,Texas,48215,Hidalgo
+Walnut Grove,CA,California,6067,Sacramento
+Grayson,CA,California,6099,Stanislaus
+Skidmore,TX,Texas,48025,Bee
+Lake Marcel-Stillwater,WA,Washington,53033,King
+Montgomery,TX,Texas,48339,Montgomery
+Redway,CA,California,6023,Humboldt
+Piney Mountain,VA,Virginia,51003,Albemarle
+Sheridan,CA,California,6061,Placer
+Lower Lake,CA,California,6033,Lake
+Lake Riverside,CA,California,6065,Riverside
+Emory,TX,Texas,48379,Rains
+Ferndale,CA,California,6023,Humboldt
+Rosebud,TX,Texas,48145,Falls
+Byers,CO,Colorado,8005,Arapahoe
+Shell Ridge,CA,California,6013,Contra Costa
+Claypool Hill,VA,Virginia,51185,Tazewell
+Penn Valley,CA,California,6057,Nevada
+Cresson,TX,Texas,48221,Hood
+Manson,WA,Washington,53007,Chelan
+Ruckersville,VA,Virginia,51079,Greene
+Tye,TX,Texas,48441,Taylor
+Thermal,CA,California,6065,Riverside
+Nokesville,VA,Virginia,51153,Prince William
+Forest Meadows,CA,California,6009,Calaveras
+Hawkins,TX,Texas,48499,Wood
+China Grove,TX,Texas,48029,Bexar
+Honaker,VA,Virginia,51167,Russell
+Duluth,WA,Washington,53011,Clark
+Bull Run Mountain Estates,VA,Virginia,51153,Prince William
+Naples,TX,Texas,48343,Morris
+Berry Creek,CA,California,6007,Butte
+Avila Beach,CA,California,6079,San Luis Obispo
+Tieton,WA,Washington,53077,Yakima
+Ranchitos del Norte,TX,Texas,48427,Starr
+Nellysford,VA,Virginia,51125,Nelson
+Byron,CA,California,6013,Contra Costa
+Wallis,TX,Texas,48015,Austin
+Orange Grove,TX,Texas,48249,Jim Wells
+Thorndale,TX,Texas,48331,Milam
+Springville,VA,Virginia,51185,Tazewell
+Elkhart,TX,Texas,48001,Anderson
+Fairchilds,TX,Texas,48157,Fort Bend
+Swede Heaven,WA,Washington,53061,Snohomish
+Alamosa East,CO,Colorado,8003,Alamosa
+Herlong,CA,California,6035,Lassen
+Eden,TX,Texas,48095,Concho
+Uhland,TX,Texas,48055,Caldwell
+Encantada-Ranchito-El Calaboz,TX,Texas,48061,Cameron
+Henry Fork,VA,Virginia,51067,Franklin
+Farwell,TX,Texas,48369,Parmer
+Asotin,WA,Washington,53003,Asotin
+Von Ormy,TX,Texas,48029,Bexar
+Roscoe,TX,Texas,48353,Nolan
+Clintwood,VA,Virginia,51051,Dickenson
+Entiat,WA,Washington,53007,Chelan
+Garrett,WA,Washington,53071,Walla Walla
+Brownsboro,TX,Texas,48213,Henderson
+Munday,TX,Texas,48275,Knox
+Florence,TX,Texas,48491,Williamson
+Stowell,TX,Texas,48071,Chambers
+Twin Lakes,VA,Virginia,51079,Greene
+Stuart,VA,Virginia,51141,Patrick
+Markham,TX,Texas,48321,Matagorda
+Lake Medina Shores,TX,Texas,48019,Bandera
+Del Rey,CA,California,6019,Fresno
+Mount Hermon,CA,California,6087,Santa Cruz
+Cripple Creek,CO,Colorado,8119,Teller
+Nevada,TX,Texas,48085,Collin
+Fort Clark Springs,TX,Texas,48271,Kinney
+Emerald Bay,TX,Texas,48423,Smith
+Manchaca,TX,Texas,48453,Travis
+Rogers,TX,Texas,48027,Bell
+Holiday Lakes,TX,Texas,48039,Brazoria
+LaCoste,TX,Texas,48325,Medina
+Blue Lake,CA,California,6023,Humboldt
+Hemphill,TX,Texas,48403,Sabine
+Saticoy,CA,California,6111,Ventura
+Marion,TX,Texas,48187,Guadalupe
+Alto,TX,Texas,48073,Cherokee
+Palm Valley,TX,Texas,48061,Cameron
+Keenesburg,CO,Colorado,8123,Weld
+Kemp,TX,Texas,48257,Kaufman
+Cascade-Chipita Park,CO,Colorado,8041,El Paso
+Newark,TX,Texas,48497,Wise
+Canyon Creek,TX,Texas,48221,Hood
+Waitsburg,WA,Washington,53071,Walla Walla
+Martindale,TX,Texas,48055,Caldwell
+Ore City,TX,Texas,48459,Upshur
+Cottonwood Shores,TX,Texas,48053,Burnet
+Belmont Estates,VA,Virginia,51165,Rockingham
+Bevil Oaks,TX,Texas,48245,Jefferson
+Hurt,VA,Virginia,51143,Pittsylvania
+Van Vleck,TX,Texas,48321,Matagorda
+Rancho Alegre,TX,Texas,48249,Jim Wells
+Redland,TX,Texas,48005,Angelina
+Iraan,TX,Texas,48371,Pecos
+Lexington,TX,Texas,48287,Lee
+Jewett,TX,Texas,48289,Leon
+Harper,TX,Texas,48171,Gillespie
+Arcola,VA,Virginia,51107,Loudoun
+Callender,CA,California,6079,San Luis Obispo
+Clear Lake Shores,TX,Texas,48167,Galveston
+Courtland,VA,Virginia,51175,Southampton
+Waterville,WA,Washington,53017,Douglas
+Las Quintas Fronterizas,TX,Texas,48323,Maverick
+Onancock,VA,Virginia,51001,Accomack
+Weber City,VA,Virginia,51169,Scott
+Claude,TX,Texas,48011,Armstrong
+Halifax,VA,Virginia,51083,Halifax
+Basin City,WA,Washington,53021,Franklin
+Newcastle,CA,California,6061,Placer
+China,TX,Texas,48245,Jefferson
+Pasatiempo,CA,California,6087,Santa Cruz
+Ames,TX,Texas,48291,Liberty
+César Chávez,TX,Texas,48215,Hidalgo
+Spur,TX,Texas,48125,Dickens
+Morton,WA,Washington,53041,Lewis
+Laytonville,CA,California,6045,Mendocino
+Kenbridge,VA,Virginia,51111,Lunenburg
+Crocker,WA,Washington,53053,Pierce
+Brightwood,VA,Virginia,51113,Madison
+Grizzly Flats,CA,California,6017,El Dorado
+Harriston,VA,Virginia,51015,Augusta
+Oyster Creek,TX,Texas,48039,Brazoria
+Maricopa,CA,California,6029,Kern
+Gretna,VA,Virginia,51143,Pittsylvania
+Muniz,TX,Texas,48215,Hidalgo
+Clay,CA,California,6067,Sacramento
+Malaga,CA,California,6019,Fresno
+Mariposa,CA,California,6043,Mariposa
+Anderson Island,WA,Washington,53053,Pierce
+Valley Mills,TX,Texas,48035,Bosque
+Chico,TX,Texas,48497,Wise
+Knightsen,CA,California,6013,Contra Costa
+Bowling Green,VA,Virginia,51033,Caroline
+Buchanan,VA,Virginia,51023,Botetourt
+Dryden,VA,Virginia,51105,Lee
+Woodacre,CA,California,6041,Marin
+Holland,TX,Texas,48027,Bell
+Frankston,TX,Texas,48001,Anderson
+New Summerfield,TX,Texas,48073,Cherokee
+Yosemite Valley,CA,California,6043,Mariposa
+Clarksville,VA,Virginia,51117,Mecklenburg
+Sunnyside-Tahoe City,CA,California,6061,Placer
+Wiggins,CO,Colorado,8087,Morgan
+Boling,TX,Texas,48481,Wharton
+Pine Island,TX,Texas,48473,Waller
+Tahoe Vista,CA,California,6061,Placer
+Emory,VA,Virginia,51191,Washington
+Lamar,TX,Texas,48007,Aransas
+Towaoc,CO,Colorado,8083,Montezuma
+Elkhorn,CA,California,6053,Monterey
+Ranchos Penitas West,TX,Texas,48479,Webb
+Julesburg,CO,Colorado,8115,Sedgwick
+Lindsay,TX,Texas,48097,Cooke
+Yarrow Point,WA,Washington,53033,King
+Big River,CA,California,6071,San Bernardino
+Tenaha,TX,Texas,48419,Shelby
+Chester Gap,VA,Virginia,51157,Rappahannock
+Minturn,CO,Colorado,8037,Eagle
+Alpaugh,CA,California,6107,Tulare
+Hasley Canyon,CA,California,6037,Los Angeles
+Palo Cedro,CA,California,6089,Shasta
+McKinney Acres,TX,Texas,48003,Andrews
+Skyland Estates,VA,Virginia,51187,Warren
+Fowler,CO,Colorado,8089,Otero
+Mountain Ranch,CA,California,6009,Calaveras
+Langley,WA,Washington,53029,Island
+Gerber,CA,California,6103,Tehama
+Covelo,CA,California,6045,Mendocino
+Kempner,TX,Texas,48281,Lampasas
+Camanche North Shore,CA,California,6005,Amador
+Runge,TX,Texas,48255,Karnes
+Lorenzo,TX,Texas,48107,Crosby
+Southmayd,TX,Texas,48181,Grayson
+Matheny,CA,California,6107,Tulare
+Kettleman City,CA,California,6031,Kings
+Rocksprings,TX,Texas,48137,Edwards
+Gruver,TX,Texas,48195,Hansford
+Sea Ranch,CA,California,6097,Sonoma
+Timpson,TX,Texas,48419,Shelby
+Acalanes Ridge,CA,California,6013,Contra Costa
+Waelder,TX,Texas,48177,Gonzales
+Pierce,CO,Colorado,8123,Weld
+Johnstonville,CA,California,6035,Lassen
+Petersburg,TX,Texas,48189,Hale
+Calvert,TX,Texas,48395,Robertson
+Clear Lake,WA,Washington,53053,Pierce
+Rock Island,WA,Washington,53017,Douglas
+Ransom Canyon,TX,Texas,48303,Lubbock
+Daisetta,TX,Texas,48291,Liberty
+Randolph AFB,TX,Texas,48029,Bexar
+Santa Margarita,CA,California,6079,San Luis Obispo
+Tonasket,WA,Washington,53047,Okanogan
+Knox City,TX,Texas,48275,Knox
+Puget Island,WA,Washington,53069,Wahkiakum
+Gholson,TX,Texas,48309,McLennan
+Point Roberts,WA,Washington,53073,Whatcom
+Parachute,CO,Colorado,8045,Garfield
+Rosharon,TX,Texas,48039,Brazoria
+Siesta Shores,TX,Texas,48505,Zapata
+Hill Country Village,TX,Texas,48029,Bexar
+Georgetown,CO,Colorado,8019,Clear Creek
+Clint,TX,Texas,48141,El Paso
+Westhaven-Moonstone,CA,California,6023,Humboldt
+Gilcrest,CO,Colorado,8123,Weld
+Tornillo,TX,Texas,48141,El Paso
+Fairmead,CA,California,6039,Madera
+Dash Point,WA,Washington,53053,Pierce
+Union Hall,VA,Virginia,51067,Franklin
+Dooms,VA,Virginia,51015,Augusta
+Taft Mosswood,CA,California,6077,San Joaquin
+Browns Point,WA,Washington,53053,Pierce
+Glasgow,VA,Virginia,51163,Rockbridge
+Floyd Hill,CO,Colorado,8019,Clear Creek
+Redwater,TX,Texas,48037,Bowie
+Gratton,VA,Virginia,51185,Tazewell
+Lost Creek,TX,Texas,48453,Travis
+Fort Davis,TX,Texas,48243,Jeff Davis
+Brookneal,VA,Virginia,51031,Campbell
+Fort Dick,CA,California,6015,Del Norte
+Inverness,CA,California,6041,Marin
+Anton,TX,Texas,48219,Hockley
+Paducah,TX,Texas,48101,Cottle
+Winter Park,CO,Colorado,8049,Grand
+Coyote Acres,TX,Texas,48249,Jim Wells
+Glenvar,VA,Virginia,51161,Roanoke
+Occoquan,VA,Virginia,51153,Prince William
+Shandon,CA,California,6079,San Luis Obispo
+Buena,WA,Washington,53077,Yakima
+Pembroke,VA,Virginia,51071,Giles
+Tom Bean,TX,Texas,48181,Grayson
+Coulee Dam,WA,Washington,53047,Okanogan
+Jamaica Beach,TX,Texas,48167,Galveston
+Crowley Lake,CA,California,6051,Mono
+Hackberry,TX,Texas,48121,Denton
+Captains Cove,VA,Virginia,51001,Accomack
+Plymouth,CA,California,6005,Amador
+Maxwell,CA,California,6011,Colusa
+Rio Vista,TX,Texas,48251,Johnson
+Palouse,WA,Washington,53075,Whitman
+Bolinas,CA,California,6041,Marin
+Belview,VA,Virginia,51121,Montgomery
+New Waverly,TX,Texas,48471,Walker
+West Park,CA,California,6019,Fresno
+Edinburg,VA,Virginia,51171,Shenandoah
+Bradbury,CA,California,6037,Los Angeles
+Republic,WA,Washington,53019,Ferry
+Bracey,VA,Virginia,51117,Mecklenburg
+Bassett,VA,Virginia,51089,Henry
+Tiki Island,TX,Texas,48167,Galveston
+Berryville,TX,Texas,48213,Henderson
+Amelia Court House,VA,Virginia,51007,Amelia
+Powderly,TX,Texas,48277,Lamar
+Hydesville,CA,California,6023,Humboldt
+Bogata,TX,Texas,48387,Red River
+Elliston,VA,Virginia,51121,Montgomery
+Los Indios,TX,Texas,48061,Cameron
+Warren,TX,Texas,48457,Tyler
+Meadow View,VA,Virginia,51191,Washington
+Riner,VA,Virginia,51121,Montgomery
+Ordway,CO,Colorado,8025,Crowley
+Penhook,VA,Virginia,51067,Franklin
+St. Paul,TX,Texas,48085,Collin
+Tioga,TX,Texas,48181,Grayson
+Deltaville,VA,Virginia,51119,Middlesex
+Neah Bay,WA,Washington,53009,Clallam
+Robert Lee,TX,Texas,48081,Coke
+Grand Coulee,WA,Washington,53025,Grant
+McClellan Park,CA,California,6067,Sacramento
+Lakeview,WA,Washington,53025,Grant
+Maud,TX,Texas,48037,Bowie
+Parklawn,CA,California,6099,Stanislaus
+Ridgway,CO,Colorado,8091,Ouray
+Asherton,TX,Texas,48127,Dimmit
+Riesel,TX,Texas,48309,McLennan
+Knights Landing,CA,California,6113,Yolo
+Lompico,CA,California,6087,Santa Cruz
+Gorman,TX,Texas,48133,Eastland
+Ouray,CO,Colorado,8091,Ouray
+Point Venture,TX,Texas,48453,Travis
+Riverdale Park,CA,California,6099,Stanislaus
+Thornton,CA,California,6077,San Joaquin
+Maypearl,TX,Texas,48139,Ellis
+Arp,TX,Texas,48423,Smith
+St. Jo,TX,Texas,48337,Montague
+Wink,TX,Texas,48495,Winkler
+Callender Lake,TX,Texas,48467,Van Zandt
+Groveton,TX,Texas,48455,Trinity
+Hart,TX,Texas,48069,Castro
+Beale AFB,CA,California,6115,Yuba
+McCloud,CA,California,6093,Siskiyou
+Cape Charles,VA,Virginia,51131,Northampton
+Julian,CA,California,6073,San Diego
+Silverado Resort,CA,California,6055,Napa
+Cedar Ridge,CA,California,6109,Tuolumne
+New London,TX,Texas,48401,Rusk
+Cobb,CA,California,6033,Lake
+Red Lick,TX,Texas,48037,Bowie
+North Bonneville,WA,Washington,53059,Skamania
+Santa Anna,TX,Texas,48083,Coleman
+Eustace,TX,Texas,48213,Henderson
+Pala,CA,California,6073,San Diego
+Rushmere,VA,Virginia,51093,Isle of Wight
+Chalfant,CA,California,6051,Mono
+Tolar,TX,Texas,48221,Hood
+Talmage,CA,California,6045,Mendocino
+Tuttletown,CA,California,6109,Tuolumne
+Sultana,CA,California,6107,Tulare
+Electric City,WA,Washington,53025,Grant
+Cedar Bluff,VA,Virginia,51185,Tazewell
+Manassa,CO,Colorado,8021,Conejos
+Bronte,TX,Texas,48081,Coke
+Wattsville,VA,Virginia,51001,Accomack
+Sterling City,TX,Texas,48431,Sterling
+Wortham,TX,Texas,48161,Freestone
+Pastoria,VA,Virginia,51001,Accomack
+Lakeport,TX,Texas,48183,Gregg
+Aspen Park,CO,Colorado,8059,Jefferson
+Ilwaco,WA,Washington,53049,Pacific
+March ARB,CA,California,6065,Riverside
+Cross Plains,TX,Texas,48059,Callahan
+East Tawakoni,TX,Texas,48379,Rains
+Taft Southwest,TX,Texas,48409,San Patricio
+Squirrel Mountain Valley,CA,California,6029,Kern
+Mustang Ridge,TX,Texas,48453,Travis
+Machias,WA,Washington,53061,Snohomish
+Westlake Corner,VA,Virginia,51067,Franklin
+Omaha,TX,Texas,48343,Morris
+Lazy Acres,CO,Colorado,8013,Boulder
+Tulelake,CA,California,6093,Siskiyou
+Monte Rio,CA,California,6097,Sonoma
+Thrall,TX,Texas,48491,Williamson
+Rice,TX,Texas,48349,Navarro
+Tahoma,CA,California,6061,Placer
+Earth,TX,Texas,48279,Lamb
+Cleone,CA,California,6045,Mendocino
+Westley,CA,California,6099,Stanislaus
+Herald,CA,California,6067,Sacramento
+Dillon,CO,Colorado,8117,Summit
+Bremond,TX,Texas,48395,Robertson
+Springville,CA,California,6107,Tulare
+Kittredge,CO,Colorado,8059,Jefferson
+Lakewood Village,TX,Texas,48121,Denton
+Louise,TX,Texas,48481,Wharton
+Hargill,TX,Texas,48215,Hidalgo
+Twisp,WA,Washington,53047,Okanogan
+Coahoma,TX,Texas,48227,Howard
+Fruitdale,CA,California,6085,Santa Clara
+Fort Chiswell,VA,Virginia,51197,Wythe
+La Honda,CA,California,6081,San Mateo
+Oak Creek,CO,Colorado,8107,Routt
+Roslyn,WA,Washington,53037,Kittitas
+Butte Creek Canyon,CA,California,6007,Butte
+Minkler,CA,California,6019,Fresno
+Lakeside City,TX,Texas,48009,Archer
+Westminster,TX,Texas,48085,Collin
+Poncha Springs,CO,Colorado,8015,Chaffee
+White Deer,TX,Texas,48065,Carson
+Dolores,CO,Colorado,8083,Montezuma
+Maurertown,VA,Virginia,51171,Shenandoah
+Ellicott,CO,Colorado,8041,El Paso
+Basye,VA,Virginia,51171,Shenandoah
+Coolidge,TX,Texas,48293,Limestone
+Mountain Gate,CA,California,6089,Shasta
+Sam Rayburn,TX,Texas,48241,Jasper
+Boonville,CA,California,6045,Mendocino
+Shenandoah Shores,VA,Virginia,51187,Warren
+Buchanan Lake Village,TX,Texas,48299,Llano
+Wallace,CA,California,6009,Calaveras
+Bow Mar,CO,Colorado,8005,Arapahoe
+Loma,CO,Colorado,8077,Mesa
+Camptown,VA,Virginia,51093,Isle of Wight
+Hardin,TX,Texas,48291,Liberty
+Santa Susana,CA,California,6111,Ventura
+Lake Bosworth,WA,Washington,53061,Snohomish
+Clarksville City,TX,Texas,48183,Gregg
+Coldspring,TX,Texas,48407,San Jacinto
+Lake of the Woods,CA,California,6029,Kern
+Craigsville,VA,Virginia,51015,Augusta
+Linnell Camp,CA,California,6107,Tulare
+Jonesville,VA,Virginia,51105,Lee
+Boston,VA,Virginia,51001,Accomack
+Hotchkiss,CO,Colorado,8029,Delta
+Jolivue,VA,Virginia,51015,Augusta
+Point,TX,Texas,48379,Rains
+Blue Ridge,TX,Texas,48085,Collin
+Upper Bear Creek,CO,Colorado,8019,Clear Creek
+Pine Brook Hill,CO,Colorado,8013,Boulder
+Vega,TX,Texas,48359,Oldham
+Blue River,CO,Colorado,8117,Summit
+Hopland,CA,California,6045,Mendocino
+Pound,VA,Virginia,51195,Wise
+Prices Fork,VA,Virginia,51121,Montgomery
+Port Gamble Tribal Community,WA,Washington,53035,Kitsap
+Garberville,CA,California,6023,Humboldt
+Mesa Verde,CA,California,6065,Riverside
+Sherwood Shores,TX,Texas,48181,Grayson
+Keystone,CO,Colorado,8117,Summit
+Ignacio,CO,Colorado,8067,La Plata
+Fieldale,VA,Virginia,51089,Henry
+Centerville,TX,Texas,48289,Leon
+Celeste,TX,Texas,48231,Hunt
+Howard,CO,Colorado,8043,Fremont
+Arrington,VA,Virginia,51125,Nelson
+Haxtun,CO,Colorado,8095,Phillips
+Camanche Village,CA,California,6005,Amador
+Brady,WA,Washington,53027,Grays Harbor
+Lake Don Pedro,CA,California,6043,Mariposa
+Stratford,CA,California,6031,Kings
+Bandera,TX,Texas,48019,Bandera
+Glidden,TX,Texas,48089,Colorado
+Sandia,TX,Texas,48249,Jim Wells
+Moulton,TX,Texas,48285,Lavaca
+Grundy,VA,Virginia,51027,Buchanan
+Sugar Grove,VA,Virginia,51173,Smyth
+Dotsero,CO,Colorado,8037,Eagle
+Goochland,VA,Virginia,51075,Goochland
+Norris Canyon,CA,California,6013,Contra Costa
+Dorris,CA,California,6093,Siskiyou
+Mikes,TX,Texas,48427,Starr
+Upper Lake,CA,California,6033,Lake
+Sudan,TX,Texas,48279,Lamb
+Odessa,WA,Washington,53043,Lincoln
+Independence,VA,Virginia,51077,Grayson
+Bodega,CA,California,6097,Sonoma
+Garrett,TX,Texas,48139,Ellis
+McKenna,WA,Washington,53053,Pierce
+Clinton,WA,Washington,53029,Island
+Whitewater,CA,California,6065,Riverside
+Diablo Grande,CA,California,6099,Stanislaus
+Lake Ketchum,WA,Washington,53061,Snohomish
+Sanford,CO,Colorado,8021,Conejos
+Plainview,CA,California,6107,Tulare
+Lake Tanglewood,TX,Texas,48381,Randall
+Seabeck,WA,Washington,53035,Kitsap
+Fuller Acres,CA,California,6029,Kern
+Simonton,TX,Texas,48157,Fort Bend
+Port O'Connor,TX,Texas,48057,Calhoun
+Teviston,CA,California,6107,Tulare
+Fieldbrook,CA,California,6023,Humboldt
+North Edwards,CA,California,6029,Kern
+Mi-Wuk Village,CA,California,6109,Tuolumne
+Blende,CO,Colorado,8101,Pueblo
+Soda Bay,CA,California,6033,Lake
+Mount Crested Butte,CO,Colorado,8051,Gunnison
+Reid Hope King,TX,Texas,48061,Cameron
+Garrison,TX,Texas,48347,Nacogdoches
+Miles,TX,Texas,48399,Runnels
+Savoy,TX,Texas,48147,Fannin
+Trinidad,TX,Texas,48213,Henderson
+Deer Park,CA,California,6055,Napa
+Walnut Springs,TX,Texas,48035,Bosque
+Lometa,TX,Texas,48281,Lampasas
+East Mountain,TX,Texas,48459,Upshur
+Wilbur,WA,Washington,53043,Lincoln
+Walker,CA,California,6051,Mono
+Mendocino,CA,California,6045,Mendocino
+Indian Lake,TX,Texas,48061,Cameron
+East Tulare Villa,CA,California,6107,Tulare
+Lasara,TX,Texas,48489,Willacy
+White Swan,WA,Washington,53077,Yakima
+Rankin,TX,Texas,48461,Upton
+St. Paul,VA,Virginia,51195,Wise
+Blacklake,CA,California,6079,San Luis Obispo
+Indian Springs,TX,Texas,48373,Polk
+Sunol,CA,California,6001,Alameda
+Log Lane Village,CO,Colorado,8087,Morgan
+Naches,WA,Washington,53077,Yakima
+Valley View,TX,Texas,48097,Cooke
+Ruston,WA,Washington,53053,Pierce
+Summerland,CA,California,6083,Santa Barbara
+Isleton,CA,California,6067,Sacramento
+Happy Camp,CA,California,6093,Siskiyou
+Laurel Park,VA,Virginia,51089,Henry
+Potrero,CA,California,6073,San Diego
+Malott,WA,Washington,53047,Okanogan
+O'Donnell,TX,Texas,48305,Lynn
+Blooming Grove,TX,Texas,48349,Navarro
+Aspermont,TX,Texas,48433,Stonewall
+Middleburg,VA,Virginia,51107,Loudoun
+Calhan,CO,Colorado,8041,El Paso
+Marrowstone,WA,Washington,53031,Jefferson
+Chula Vista,TX,Texas,48507,Zavala
+Fabrica,TX,Texas,48323,Maverick
+Cheyenne Wells,CO,Colorado,8017,Cheyenne
+Esmont,VA,Virginia,51003,Albemarle
+Crawford,TX,Texas,48309,McLennan
+Sand Springs,TX,Texas,48227,Howard
+New Deal,TX,Texas,48303,Lubbock
+San Felipe,TX,Texas,48015,Austin
+Occidental,CA,California,6097,Sonoma
+Beckville,TX,Texas,48365,Panola
+Roy,WA,Washington,53053,Pierce
+Rising Star,TX,Texas,48133,Eastland
+Cowiche,WA,Washington,53077,Yakima
+Mossyrock,WA,Washington,53041,Lewis
+Penryn,CA,California,6061,Placer
+La Jara,CO,Colorado,8021,Conejos
+Greenville,CA,California,6063,Plumas
+Crowell,TX,Texas,48155,Foard
+La Veta,CO,Colorado,8055,Huerfano
+Mountain City,TX,Texas,48209,Hays
+Tranquillity,CA,California,6019,Fresno
+Hilshire Village,TX,Texas,48201,Harris
+Parksley,VA,Virginia,51001,Accomack
+Joaquin,TX,Texas,48419,Shelby
+Aguanga,CA,California,6065,Riverside
+Dollar Point,CA,California,6061,Placer
+Paragon Estates,CO,Colorado,8013,Boulder
+Dawson,TX,Texas,48349,Navarro
+Deer Trail,CO,Colorado,8005,Arapahoe
+Pineland,TX,Texas,48403,Sabine
+Tekoa,WA,Washington,53075,Whitman
+Cumby,TX,Texas,48223,Hopkins
+East Orosi,CA,California,6107,Tulare
+Sunrise Beach Village,TX,Texas,48299,Llano
+Cedar Point,TX,Texas,48373,Polk
+Zayante,CA,California,6087,Santa Cruz
+Manila,CA,California,6023,Humboldt
+Wells,TX,Texas,48073,Cherokee
+Clyde,CA,California,6013,Contra Costa
+Los Olivos,CA,California,6083,Santa Barbara
+Hilltop Lakes,TX,Texas,48289,Leon
+Fairplay,CO,Colorado,8093,Park
+Littlerock,CA,California,6037,Los Angeles
+Brinnon,WA,Washington,53031,Jefferson
+Grapeview,WA,Washington,53045,Mason
+Knippa,TX,Texas,48463,Uvalde
+Alhambra Valley,CA,California,6013,Contra Costa
+Mountain Road,VA,Virginia,51083,Halifax
+Foxfield,CO,Colorado,8005,Arapahoe
+Indio Hills,CA,California,6065,Riverside
+Scurry,TX,Texas,48257,Kaufman
+Keysville,VA,Virginia,51037,Charlotte
+Beulah Valley,CO,Colorado,8101,Pueblo
+Loon Lake,WA,Washington,53065,Stevens
+Hugo,CO,Colorado,8073,Lincoln
+Damascus,VA,Virginia,51191,Washington
+Holly,CO,Colorado,8099,Prowers
+Sanderson,TX,Texas,48443,Terrell
+Atlantic,VA,Virginia,51001,Accomack
+Bailey's Prairie,TX,Texas,48039,Brazoria
+Log Cabin,TX,Texas,48213,Henderson
+Forest Ranch,CA,California,6007,Butte
+Blue Ridge Shores,VA,Virginia,51109,Louisa
+Toledo,WA,Washington,53041,Lewis
+Valle Vista,TX,Texas,48427,Starr
+Central City,CO,Colorado,8047,Gilpin
+Payne Springs,TX,Texas,48213,Henderson
+May Creek,WA,Washington,53061,Snohomish
+Geyserville,CA,California,6097,Sonoma
+Cluster Springs,VA,Virginia,51083,Halifax
+Sierra Blanca,TX,Texas,48229,Hudspeth
+Garza-Salinas II,TX,Texas,48427,Starr
+Kiowa,CO,Colorado,8039,Elbert
+Throckmorton,TX,Texas,48447,Throckmorton
+Bixby,TX,Texas,48061,Cameron
+Riverdale,VA,Virginia,51083,Halifax
+Traver,CA,California,6107,Tulare
+Point Blank,TX,Texas,48407,San Jacinto
+Santa Clara,TX,Texas,48187,Guadalupe
+East Alto Bonito,TX,Texas,48427,Starr
+Atkins,VA,Virginia,51173,Smyth
+Greeley Hill,CA,California,6043,Mariposa
+Milford,TX,Texas,48139,Ellis
+Antonito,CO,Colorado,8021,Conejos
+Driscoll,TX,Texas,48355,Nueces
+Concord,VA,Virginia,51031,Campbell
+Carlsborg,WA,Washington,53009,Clallam
+McLean,TX,Texas,48179,Gray
+Mertzon,TX,Texas,48235,Irion
+Bootjack,CA,California,6043,Mariposa
+Bingen,WA,Washington,53039,Klickitat
+Oak Ridge,TX,Texas,48257,Kaufman
+Lott,TX,Texas,48145,Falls
+Lakeshore Gardens-Hidden Acres,TX,Texas,48409,San Patricio
+Rich Creek,VA,Virginia,51071,Giles
+Middletown,CA,California,6033,Lake
+Tuscola,TX,Texas,48441,Taylor
+Indianola,CA,California,6023,Humboldt
+Concrete,WA,Washington,53057,Skagit
+Cherry Grove,WA,Washington,53011,Clark
+Grand View Estates,CO,Colorado,8035,Douglas
+Falcon Lake Estates,TX,Texas,48505,Zapata
+Pueblo Nuevo,TX,Texas,48479,Webb
+Ector,TX,Texas,48147,Fannin
+Butte Valley,CA,California,6007,Butte
+Carbonado,WA,Washington,53053,Pierce
+Chilton,TX,Texas,48145,Falls
+Glen Ellen,CA,California,6097,Sonoma
+D'Hanis,TX,Texas,48325,Medina
+Hot Sulphur Springs,CO,Colorado,8049,Grand
+Camp Wood,TX,Texas,48385,Real
+Burke,TX,Texas,48005,Angelina
+Como,TX,Texas,48223,Hopkins
+Plum Grove,TX,Texas,48291,Liberty
+Rancho Chico,TX,Texas,48409,San Patricio
+Green Mountain Falls,CO,Colorado,8119,Teller
+Grayland,WA,Washington,53027,Grays Harbor
+Noonday,TX,Texas,48423,Smith
+Challenge-Brownsville,CA,California,6115,Yuba
+Etna,CA,California,6093,Siskiyou
+Kenwood,CA,California,6097,Sonoma
+Delft Colony,CA,California,6107,Tulare
+Pine Harbor,TX,Texas,48315,Marion
+Pateros,WA,Washington,53047,Okanogan
+Nucla,CO,Colorado,8085,Montrose
+Williamsburg,CO,Colorado,8043,Fremont
+Hickman,CA,California,6099,Stanislaus
+Hillcrest,TX,Texas,48039,Brazoria
+Riverview,VA,Virginia,51195,Wise
+Zavalla,TX,Texas,48005,Angelina
+Avondale,CO,Colorado,8101,Pueblo
+Normangee,TX,Texas,48289,Leon
+Big Thicket Lake Estates,TX,Texas,48291,Liberty
+New River,VA,Virginia,51155,Pulaski
+Big Wells,TX,Texas,48127,Dimmit
+Loyalton,CA,California,6091,Sierra
+Tangier,VA,Virginia,51001,Accomack
+Motley,VA,Virginia,51143,Pittsylvania
+Holiday Beach,TX,Texas,48007,Aransas
+Collbran,CO,Colorado,8077,Mesa
+Vaughn,WA,Washington,53053,Pierce
+Quilcene,WA,Washington,53031,Jefferson
+Inyokern,CA,California,6029,Kern
+San Ygnacio,TX,Texas,48505,Zapata
+River Road,WA,Washington,53009,Clallam
+Pecan Hill,TX,Texas,48139,Ellis
+Ridgeway,VA,Virginia,51089,Henry
+Kenefick,TX,Texas,48291,Liberty
+Linn,TX,Texas,48215,Hidalgo
+Lone Oak,TX,Texas,48231,Hunt
+Oakville,WA,Washington,53027,Grays Harbor
+Fort Jones,CA,California,6093,Siskiyou
+Mokelumne Hill,CA,California,6009,Calaveras
+Cohassett Beach,WA,Washington,53027,Grays Harbor
+Opal,VA,Virginia,51061,Fauquier
+Falls City,TX,Texas,48255,Karnes
+Bardwell,TX,Texas,48139,Ellis
+Silverton,TX,Texas,48045,Briscoe
+North Gate,CA,California,6013,Contra Costa
+Gasquet,CA,California,6015,Del Norte
+North Pearsall,TX,Texas,48163,Frio
+Westover Hills,TX,Texas,48439,Tarrant
+Tres Pinos,CA,California,6069,San Benito
+Trenton,TX,Texas,48147,Fannin
+Detroit,TX,Texas,48387,Red River
+Calpella,CA,California,6045,Mendocino
+Junction City,CA,California,6105,Trinity
+Kress,TX,Texas,48437,Swisher
+McDade,TX,Texas,48021,Bastrop
+Millville,CA,California,6089,Shasta
+Point Comfort,TX,Texas,48057,Calhoun
+Beasley,TX,Texas,48157,Fort Bend
+West Alto Bonito,TX,Texas,48427,Starr
+Pe Ell,WA,Washington,53041,Lewis
+Nocona Hills,TX,Texas,48337,Montague
+Ricardo,TX,Texas,48273,Kleberg
+Chillicothe,TX,Texas,48197,Hardeman
+Carrizo Hill,TX,Texas,48127,Dimmit
+Lytle Creek,CA,California,6071,San Bernardino
+Sunset Valley,TX,Texas,48453,Travis
+Strawn,TX,Texas,48363,Palo Pinto
+Petrolia,TX,Texas,48077,Clay
+Watkins,CO,Colorado,8005,Arapahoe
+Lakehead,CA,California,6089,Shasta
+Vader,WA,Washington,53041,Lewis
+Waterloo,CA,California,6077,San Joaquin
+Oak Grove,TX,Texas,48257,Kaufman
+Hull,TX,Texas,48291,Liberty
+Happy,TX,Texas,48437,Swisher
+Silver Cliff,CO,Colorado,8027,Custer
+La Tina Ranch,TX,Texas,48061,Cameron
+Taholah,WA,Washington,53027,Grays Harbor
+Bodega Bay,CA,California,6097,Sonoma
+Pleasant Hill,TX,Texas,48373,Polk
+Kernville,CA,California,6029,Kern
+Silverton,CO,Colorado,8111,San Juan
+Bay View,WA,Washington,53057,Skagit
+Loghill Village,CO,Colorado,8091,Ouray
+Thunderbird Bay,TX,Texas,48049,Brown
+New Cuyama,CA,California,6083,Santa Barbara
+Arroyo Colorado Estates,TX,Texas,48061,Cameron
+Amherst,TX,Texas,48279,Lamb
+San Luis,CO,Colorado,8023,Costilla
+Remington,VA,Virginia,51061,Fauquier
+San Simeon,CA,California,6079,San Luis Obispo
+Valley Acres,CA,California,6029,Kern
+Round Hill,VA,Virginia,51107,Loudoun
+Fulton,CA,California,6097,Sonoma
+Eldorado Springs,CO,Colorado,8013,Boulder
+Bluetown,TX,Texas,48061,Cameron
+El Rancho Vela,TX,Texas,48427,Starr
+Oak Level,VA,Virginia,51089,Henry
+Verlot,WA,Washington,53061,Snohomish
+Lake Roesiger,WA,Washington,53061,Snohomish
+New Hope,VA,Virginia,51015,Augusta
+New Chapel Hill,TX,Texas,48423,Smith
+Satsop,WA,Washington,53027,Grays Harbor
+North San Pedro,TX,Texas,48355,Nueces
+Sunset,TX,Texas,48337,Montague
+Dustin Acres,CA,California,6029,Kern
+Frost,TX,Texas,48349,Navarro
+Simla,CO,Colorado,8039,Elbert
+Harrah,WA,Washington,53077,Yakima
+Roxton,TX,Texas,48277,Lamar
+Stratton,CO,Colorado,8063,Kit Carson
+Saluda,VA,Virginia,51119,Middlesex
+Ducor,CA,California,6107,Tulare
+Dove Creek,CO,Colorado,8033,Dolores
+Campbell,TX,Texas,48231,Hunt
+Klamath,CA,California,6015,Del Norte
+Loleta,CA,California,6023,Humboldt
+Niland,CA,California,6025,Imperial
+Nisqually Indian Community,WA,Washington,53067,Thurston
+Cohasset,CA,California,6007,Butte
+Selma,VA,Virginia,51005,Alleghany
+Patton Village,CA,California,6035,Lassen
+Geronimo,TX,Texas,48187,Guadalupe
+Hamilton,VA,Virginia,51107,Loudoun
+Dahlgren Center,VA,Virginia,51099,King George
+New Hope,TX,Texas,48085,Collin
+Westcliffe,CO,Colorado,8027,Custer
+Santa Maria,TX,Texas,48061,Cameron
+Graford,TX,Texas,48363,Palo Pinto
+Lovelady,TX,Texas,48225,Houston
+Boyce,VA,Virginia,51043,Clarke
+Ladonia,TX,Texas,48147,Fannin
+Shenandoah Retreat,VA,Virginia,51043,Clarke
+Fairfield,WA,Washington,53063,Spokane
+Douglas City,CA,California,6105,Trinity
+Trout Lake,WA,Washington,53039,Klickitat
+New Berlin,TX,Texas,48187,Guadalupe
+Peters,CA,California,6077,San Joaquin
+Hawley,TX,Texas,48253,Jones
+Blue Berry Hill,TX,Texas,48025,Bee
+Doyle,CA,California,6035,Lassen
+St. Mary's,CO,Colorado,8019,Clear Creek
+Cushing,TX,Texas,48347,Nacogdoches
+Pattison,TX,Texas,48473,Waller
+Lolita,TX,Texas,48239,Jackson
+Roby,TX,Texas,48151,Fisher
+Scottsville,VA,Virginia,51003,Albemarle
+Riviera,TX,Texas,48273,Kleberg
+Seville,CA,California,6107,Tulare
+Sunday Lake,WA,Washington,53061,Snohomish
+La Paloma-Lost Creek,TX,Texas,48355,Nueces
+Villa Pancho,TX,Texas,48061,Cameron
+Matador,TX,Texas,48345,Motley
+Alto,CA,California,6041,Marin
+Reardan,WA,Washington,53043,Lincoln
+Curlew Lake,WA,Washington,53019,Ferry
+Garfield,WA,Washington,53075,Whitman
+Skokomish,WA,Washington,53045,Mason
+Caspar,CA,California,6045,Mendocino
+Winona,TX,Texas,48423,Smith
+Montvale,VA,Virginia,51019,Bedford
+Bell Hill,WA,Washington,53009,Clallam
+Ingleside on the Bay,TX,Texas,48409,San Patricio
+Cedarville,CA,California,6049,Modoc
+Seven Mile Ford,VA,Virginia,51173,Smyth
+North Washington,CO,Colorado,8001,Adams
+Miranda,CA,California,6023,Humboldt
+Cattle Creek,CO,Colorado,8045,Garfield
+Catheys Valley,CA,California,6043,Mariposa
+Albion,WA,Washington,53075,Whitman
+Friant,CA,California,6019,Fresno
+Villa Heights,VA,Virginia,51089,Henry
+Independence,CA,California,6027,Inyo
+Eads,CO,Colorado,8061,Kiowa
+Mi Ranchito Estate,TX,Texas,48427,Starr
+Stinson Beach,CA,California,6041,Marin
+Murchison,TX,Texas,48213,Henderson
+Niederwald,TX,Texas,48055,Caldwell
+Rule,TX,Texas,48207,Haskell
+Volente,TX,Texas,48453,Travis
+Walden,CO,Colorado,8057,Jackson
+Nome,TX,Texas,48245,Jefferson
+Balmorhea,TX,Texas,48389,Reeves
+Buena Vista,CA,California,6005,Amador
+Plantersville,TX,Texas,48185,Grimes
+Stagecoach,TX,Texas,48339,Montgomery
+Swink,CO,Colorado,8089,Otero
+Blairs,VA,Virginia,51143,Pittsylvania
+Bucoda,WA,Washington,53067,Thurston
+Stonewall,TX,Texas,48171,Gillespie
+Colmesneil,TX,Texas,48457,Tyler
+Encinal,TX,Texas,48283,La Salle
+Golinda,TX,Texas,48145,Falls
+Post Oak Bend City,TX,Texas,48257,Kaufman
+Horseshoe Bend,TX,Texas,48367,Parker
+Meadow,TX,Texas,48445,Terry
+St. Ann Highlands,CO,Colorado,8013,Boulder
+Cold Springs,CA,California,6017,El Dorado
+Leming,TX,Texas,48013,Atascosa
+Madison,CA,California,6113,Yolo
+Shelter Cove,CA,California,6023,Humboldt
+Surfside Beach,TX,Texas,48039,Brazoria
+Norwood,CO,Colorado,8113,San Miguel
+Copalis Beach,WA,Washington,53027,Grays Harbor
+La Crosse,VA,Virginia,51117,Mecklenburg
+Allensworth,CA,California,6107,Tulare
+Desert Shores,CA,California,6025,Imperial
+Newcastle,TX,Texas,48503,Young
+Annetta South,TX,Texas,48367,Parker
+Startup,WA,Washington,53061,Snohomish
+Bristol,TX,Texas,48139,Ellis
+Cathlamet,WA,Washington,53069,Wahkiakum
+Jarratt,VA,Virginia,51081,Greensville
+Salt Creek,CO,Colorado,8101,Pueblo
+Copper Mountain,CO,Colorado,8117,Summit
+Smiley,TX,Texas,48177,Gonzales
+Lafayette,VA,Virginia,51121,Montgomery
+Sherando,VA,Virginia,51015,Augusta
+Mathews,VA,Virginia,51115,Mathews
+Annetta North,TX,Texas,48367,Parker
+Alta,CA,California,6061,Placer
+River Pines,CA,California,6005,Amador
+Newell,CA,California,6049,Modoc
+Spring Gardens,TX,Texas,48355,Nueces
+Loraine,TX,Texas,48335,Mitchell
+Grey Forest,TX,Texas,48029,Bexar
+Coulee City,WA,Washington,53025,Grant
+Myrtle Springs,TX,Texas,48467,Van Zandt
+Lind,WA,Washington,53001,Adams
+Paradise,TX,Texas,48497,Wise
+Avery,CA,California,6009,Calaveras
+St. John,WA,Washington,53075,Whitman
+Cove,TX,Texas,48071,Chambers
+Wickett,TX,Texas,48475,Ward
+South Cle Elum,WA,Washington,53037,Kittitas
+Deport,TX,Texas,48277,Lamar
+Rosalia,WA,Washington,53075,Whitman
+Lincoln Park,TX,Texas,48121,Denton
+Hawk Cove,TX,Texas,48231,Hunt
+Buffalo Gap,TX,Texas,48441,Taylor
+Dante,VA,Virginia,51167,Russell
+San Perlita,TX,Texas,48489,Willacy
+Concow,CA,California,6007,Butte
+Quantico,VA,Virginia,51153,Prince William
+Carlsbad,TX,Texas,48451,Tom Green
+Liverpool,TX,Texas,48039,Brazoria
+Benns Church,VA,Virginia,51093,Isle of Wight
+Groom,TX,Texas,48065,Carson
+Miami,TX,Texas,48393,Roberts
+Paradise Park,CA,California,6087,Santa Cruz
+Edroy,TX,Texas,48409,San Patricio
+Riverside,TX,Texas,48471,Walker
+Flagler,CO,Colorado,8063,Kit Carson
+Clayton,WA,Washington,53065,Stevens
+Scotia,CA,California,6023,Humboldt
+Seco Mines,TX,Texas,48323,Maverick
+Alba,TX,Texas,48499,Wood
+Onalaska,WA,Washington,53041,Lewis
+Downieville-Lawson-Dumont,CO,Colorado,8019,Clear Creek
+San Lucas,CA,California,6053,Monterey
+San Ardo,CA,California,6053,Monterey
+Bridgeport,CA,California,6051,Mono
+Baker,CA,California,6071,San Bernardino
+Thorntonville,TX,Texas,48475,Ward
+Snook,TX,Texas,48051,Burleson
+Weston,TX,Texas,48085,Collin
+Fort Washington,CA,California,6019,Fresno
+Texline,TX,Texas,48111,Dallam
+Ballico,CA,California,6047,Merced
+Graeagle,CA,California,6063,Plumas
+Blessing,TX,Texas,48321,Matagorda
+Mountain View,CO,Colorado,8059,Jefferson
+Garden City,TX,Texas,48173,Glasscock
+Bryson,TX,Texas,48237,Jack
+K-Bar Ranch,TX,Texas,48249,Jim Wells
+Cape Royale,TX,Texas,48407,San Jacinto
+Wintergreen,VA,Virginia,51125,Nelson
+Naturita,CO,Colorado,8085,Montrose
+Lake City,TX,Texas,48409,San Patricio
+Ashford,WA,Washington,53053,Pierce
+Weir,TX,Texas,48491,Williamson
+South La Paloma,TX,Texas,48249,Jim Wells
+Gasburg,VA,Virginia,51025,Brunswick
+Wishram,WA,Washington,53039,Klickitat
+Ballard,CA,California,6083,Santa Barbara
+Los Berros,CA,California,6079,San Luis Obispo
+Tivoli,TX,Texas,48391,Refugio
+Dell City,TX,Texas,48229,Hudspeth
+Boykins,VA,Virginia,51175,Southampton
+Horntown,VA,Virginia,51001,Accomack
+Thornton,TX,Texas,48293,Limestone
+Malone,WA,Washington,53027,Grays Harbor
+Mineral,VA,Virginia,51109,Louisa
+Buckholts,TX,Texas,48331,Milam
+Devers,TX,Texas,48291,Liberty
+Lake Hughes,CA,California,6037,Los Angeles
+Winfield,TX,Texas,48449,Titus
+Rockvale,CO,Colorado,8043,Fremont
+Pine Forest,TX,Texas,48361,Orange
+Morgan,TX,Texas,48035,Bosque
+Wilkerson,CA,California,6027,Inyo
+Deweyville,TX,Texas,48351,Newton
+De Beque,CO,Colorado,8077,Mesa
+Lockwood,CA,California,6053,Monterey
+George,WA,Washington,53025,Grant
+Yettem,CA,California,6107,Tulare
+Walsh,CO,Colorado,8009,Baca
+Oakwood,TX,Texas,48289,Leon
+Easton,TX,Texas,48401,Rusk
+Placedo,TX,Texas,48469,Victoria
+Wilkeson,WA,Washington,53053,Pierce
+Sarita,TX,Texas,48261,Kenedy
+Altona,CO,Colorado,8013,Boulder
+East Cathlamet,WA,Washington,53069,Wahkiakum
+Charlotte Court House,VA,Virginia,51037,Charlotte
+Mulford,CO,Colorado,8045,Garfield
+Round Valley,CA,California,6027,Inyo
+Mesa,WA,Washington,53021,Franklin
+San Leanna,TX,Texas,48453,Travis
+Briaroaks,TX,Texas,48251,Johnson
+Grand Lake,CO,Colorado,8049,Grand
+Ranchitos East,TX,Texas,48479,Webb
+Saguache,CO,Colorado,8109,Saguache
+Metompkin,VA,Virginia,51001,Accomack
+Ryderwood,WA,Washington,53015,Cowlitz
+Granada,CO,Colorado,8099,Prowers
+Leary,TX,Texas,48037,Bowie
+Jayton,TX,Texas,48263,Kent
+Drakes Branch,VA,Virginia,51037,Charlotte
+Solis,TX,Texas,48061,Cameron
+Onley,VA,Virginia,51001,Accomack
+Rough and Ready,CA,California,6057,Nevada
+Hot Springs,VA,Virginia,51017,Bath
+Bend,CA,California,6103,Tehama
+Cowan,CA,California,6099,Stanislaus
+Smith River,CA,California,6015,Del Norte
+Potter Valley,CA,California,6045,Mendocino
+Clallam Bay,WA,Washington,53009,Clallam
+Talco,TX,Texas,48449,Titus
+La Puerta,TX,Texas,48427,Starr
+Hartley,TX,Texas,48205,Hartley
+Hamilton Branch,CA,California,6063,Plumas
+Lovingston,VA,Virginia,51125,Nelson
+Lake Colorado City,TX,Texas,48335,Mitchell
+Sandy Level,VA,Virginia,51089,Henry
+Wilson,TX,Texas,48305,Lynn
+Four Lakes,WA,Washington,53063,Spokane
+McKenney,VA,Virginia,51053,Dinwiddie
+Knollwood,TX,Texas,48181,Grayson
+Lipan,TX,Texas,48221,Hood
+Green Valley Farms,TX,Texas,48061,Cameron
+Mappsville,VA,Virginia,51001,Accomack
+Western Lake,TX,Texas,48367,Parker
+Otis,CO,Colorado,8121,Washington
+Rockford,WA,Washington,53063,Spokane
+Gordon,TX,Texas,48363,Palo Pinto
+Smith Corner,CA,California,6029,Kern
+Webberville,TX,Texas,48453,Travis
+Accomac,VA,Virginia,51001,Accomack
+New Kent,VA,Virginia,51127,New Kent
+Rose City,TX,Texas,48361,Orange
+Rancho Banquete,TX,Texas,48355,Nueces
+Lake Meredith Estates,TX,Texas,48233,Hutchinson
+Tabernash,CO,Colorado,8049,Grand
+Fort Garland,CO,Colorado,8023,Costilla
+Aguilar,CO,Colorado,8071,Las Animas
+Lefors,TX,Texas,48179,Gray
+Bear Creek,TX,Texas,48209,Hays
+Los Ebanos,TX,Texas,48427,Starr
+Pettus,TX,Texas,48025,Bee
+Fairview Beach,VA,Virginia,51099,King George
+Nassawadox,VA,Virginia,51131,Northampton
+Onyx,CA,California,6029,Kern
+Smyer,TX,Texas,48219,Hockley
+Star Harbor,TX,Texas,48213,Henderson
+Delleker,CA,California,6063,Plumas
+Morning Glory,TX,Texas,48141,El Paso
+Brazos Country,TX,Texas,48015,Austin
+Scotland,TX,Texas,48009,Archer
+Lyman,WA,Washington,53057,Skagit
+Shaver Lake,CA,California,6019,Fresno
+Winthrop,WA,Washington,53047,Okanogan
+Ione,WA,Washington,53051,Pend Oreille
+Timbercreek Canyon,TX,Texas,48381,Randall
+Bedias,TX,Texas,48185,Grimes
+Hallsburg,TX,Texas,48309,McLennan
+South Toledo Bend,TX,Texas,48351,Newton
+Gustine,TX,Texas,48093,Comanche
+Blum,TX,Texas,48217,Hill
+Kosse,TX,Texas,48293,Limestone
+Oglesby,TX,Texas,48099,Coryell
+Haysi,VA,Virginia,51051,Dickenson
+Coleville,CA,California,6051,Mono
+Lyle,WA,Washington,53039,Klickitat
+Nunn,CO,Colorado,8123,Weld
+Yampa,CO,Colorado,8107,Routt
+Dean,TX,Texas,48077,Clay
+Millsap,TX,Texas,48367,Parker
+El Refugio,TX,Texas,48427,Starr
+Sprague,WA,Washington,53043,Lincoln
+Ivanhoe,VA,Virginia,51197,Wythe
+Ivy,VA,Virginia,51003,Albemarle
+Colton,WA,Washington,53075,Whitman
+Urbanna,VA,Virginia,51119,Middlesex
+Mad River,CA,California,6105,Trinity
+Mount Crawford,VA,Virginia,51165,Rockingham
+Clarksburg,CA,California,6113,Yolo
+Kendleton,TX,Texas,48157,Fort Bend
+West Point,CA,California,6009,Calaveras
+Nelsonia,VA,Virginia,51001,Accomack
+Byers,TX,Texas,48077,Clay
+Carnelian Bay,CA,California,6061,Placer
+Skellytown,TX,Texas,48065,Carson
+Point Arena,CA,California,6045,Mendocino
+Touchet,WA,Washington,53071,Walla Walla
+Bass Lake,CA,California,6039,Madera
+Cheriton,VA,Virginia,51131,Northampton
+Diablo,CA,California,6013,Contra Costa
+Appleby,TX,Texas,48347,Nacogdoches
+Terminous,CA,California,6077,San Joaquin
+Fries,VA,Virginia,51077,Grayson
+McArthur,CA,California,6089,Shasta
+Avery,TX,Texas,48387,Red River
+Ripley,CA,California,6065,Riverside
+South Prairie,WA,Washington,53053,Pierce
+Highland Haven,TX,Texas,48053,Burnet
+Mount Sidney,VA,Virginia,51015,Augusta
+Buffalo Springs,TX,Texas,48303,Lubbock
+Dillwyn,VA,Virginia,51029,Buckingham
+Heeney,CO,Colorado,8117,Summit
+Follett,TX,Texas,48295,Lipscomb
+Bigfoot,TX,Texas,48163,Frio
+Tierra Verde,TX,Texas,48355,Nueces
+Max Meadows,VA,Virginia,51197,Wythe
+Oak Island,TX,Texas,48071,Chambers
+Oakesdale,WA,Washington,53075,Whitman
+DISH,TX,Texas,48121,Denton
+Leakey,TX,Texas,48385,Real
+McMullin,VA,Virginia,51173,Smyth
+Manuel Garcia,TX,Texas,48427,Starr
+San Pedro,TX,Texas,48061,Cameron
+North Omak,WA,Washington,53047,Okanogan
+Mount Enterprise,TX,Texas,48401,Rusk
+Rose Hill Acres,TX,Texas,48199,Hardin
+Floyd,VA,Virginia,51063,Floyd
+Garceno,TX,Texas,48427,Starr
+Hunts Point,WA,Washington,53033,King
+Gallatin,TX,Texas,48073,Cherokee
+Raft Island,WA,Washington,53053,Pierce
+Matagorda,TX,Texas,48321,Matagorda
+Tasley,VA,Virginia,51001,Accomack
+Allenspark,CO,Colorado,8013,Boulder
+Crawford,CO,Colorado,8029,Delta
+French Gulch,CA,California,6089,Shasta
+B and E,TX,Texas,48427,Starr
+California Pines,CA,California,6049,Modoc
+Keyport,WA,Washington,53035,Kitsap
+Oak Glen,CA,California,6071,San Bernardino
+Angus,TX,Texas,48349,Navarro
+Vanderbilt,TX,Texas,48239,Jackson
+Bangor,CA,California,6007,Butte
+Union,WA,Washington,53045,Mason
+Fruitvale,TX,Texas,48467,Van Zandt
+Yantis,TX,Texas,48499,Wood
+Lago,TX,Texas,48061,Cameron
+West Goshen,CA,California,6107,Tulare
+Troutville,VA,Virginia,51023,Botetourt
+Coloma,CA,California,6017,El Dorado
+Ropesville,TX,Texas,48219,Hockley
+Victor,CO,Colorado,8119,Teller
+Christine,TX,Texas,48013,Atascosa
+South Fork,CO,Colorado,8105,Rio Grande
+Iola,TX,Texas,48185,Grimes
+Savageville,VA,Virginia,51001,Accomack
+Morrison,CO,Colorado,8059,Jefferson
+Mexican Colony,CA,California,6029,Kern
+Chilcoot-Vinton,CA,California,6063,Plumas
+Avinger,TX,Texas,48067,Cass
+Naselle,WA,Washington,53049,Pacific
+Oak Valley,TX,Texas,48349,Navarro
+Milano,TX,Texas,48331,Milam
+Robbins,CA,California,6101,Sutter
+Meadow Valley,CA,California,6063,Plumas
+Harrington,WA,Washington,53043,Lincoln
+Manzanola,CO,Colorado,8089,Otero
+Rosburg,WA,Washington,53069,Wahkiakum
+El Chaparral,TX,Texas,48427,Starr
+Spreckels,CA,California,6053,Monterey
+Beckwourth,CA,California,6063,Plumas
+Raisin City,CA,California,6019,Fresno
+Forbestown,CA,California,6007,Butte
+Boys Ranch,TX,Texas,48359,Oldham
+Whiteface,TX,Texas,48079,Cochran
+Romeo,CO,Colorado,8021,Conejos
+Boydton,VA,Virginia,51117,Mecklenburg
+Evant,TX,Texas,48099,Coryell
+Kurten,TX,Texas,48041,Brazos
+Lake Almanor Country Club,CA,California,6063,Plumas
+Orchard,TX,Texas,48157,Fort Bend
+Blanca,CO,Colorado,8023,Costilla
+Boulevard,CA,California,6073,San Diego
+Sedley,VA,Virginia,51175,Southampton
+Fleming,CO,Colorado,8075,Logan
+Grandfalls,TX,Texas,48475,Ward
+Garden Farms,CA,California,6079,San Luis Obispo
+Mirando City,TX,Texas,48479,Webb
+Green Bluff,WA,Washington,53063,Spokane
+Martell,CA,California,6005,Amador
+Rosser,TX,Texas,48257,Kaufman
+Ranchitos Las Lomas,TX,Texas,48479,Webb
+Sand City,CA,California,6053,Monterey
+Lake Bridgeport,TX,Texas,48497,Wise
+Burkeville,VA,Virginia,51135,Nottoway
+San Geronimo,CA,California,6041,Marin
+Grenada,CA,California,6093,Siskiyou
+Union Valley,TX,Texas,48231,Hunt
+Keokee,VA,Virginia,51105,Lee
+Irvington,VA,Virginia,51103,Lancaster
+Cumberland,VA,Virginia,51049,Cumberland
+Reklaw,TX,Texas,48401,Rusk
+Jamestown,WA,Washington,53009,Clallam
+Lake City,CO,Colorado,8053,Hinsdale
+Loop,TX,Texas,48165,Gaines
+Bloomburg,TX,Texas,48067,Cass
+Howardwick,TX,Texas,48129,Donley
+Wiley,CO,Colorado,8099,Prowers
+Edom,TX,Texas,48467,Van Zandt
+Mildred,TX,Texas,48349,Navarro
+Nespelem,WA,Washington,53047,Okanogan
+Higgins,TX,Texas,48295,Lipscomb
+Montross,VA,Virginia,51193,Westmoreland
+June Lake,CA,California,6051,Mono
+Dodd City,TX,Texas,48147,Fannin
+Bayview,TX,Texas,48061,Cameron
+Quitaque,TX,Texas,48045,Briscoe
+Orick,CA,California,6023,Humboldt
+Camargito,TX,Texas,48427,Starr
+Tonyville,CA,California,6107,Tulare
+Melfa,VA,Virginia,51001,Accomack
+Barstow,TX,Texas,48475,Ward
+Derby Acres,CA,California,6029,Kern
+Marathon,TX,Texas,48043,Brewster
+Stanardsville,VA,Virginia,51079,Greene
+Johnson Village,CO,Colorado,8015,Chaffee
+Union Grove,TX,Texas,48459,Upshur
+Alma,TX,Texas,48139,Ellis
+Red Feather Lakes,CO,Colorado,8069,Larimer
+Retreat,TX,Texas,48349,Navarro
+Chireno,TX,Texas,48347,Nacogdoches
+Montague,TX,Texas,48337,Montague
+Callisburg,TX,Texas,48097,Cooke
+Sadler,TX,Texas,48181,Grayson
+Relampago,TX,Texas,48215,Hidalgo
+Princeton,CA,California,6011,Colusa
+Huxley,TX,Texas,48419,Shelby
+Banquete,TX,Texas,48355,Nueces
+Midland,CO,Colorado,8119,Teller
+Centerville,CA,California,6019,Fresno
+Cantua Creek,CA,California,6019,Fresno
+Windthorst,TX,Texas,48009,Archer
+Louviers,CO,Colorado,8035,Douglas
+Turkey,TX,Texas,48191,Hall
+Bruni,TX,Texas,48479,Webb
+Hermleigh,TX,Texas,48415,Scurry
+San Patricio,TX,Texas,48409,San Patricio
+Stirling City,CA,California,6007,Butte
+Laguna Seca,TX,Texas,48215,Hidalgo
+Tehama,CA,California,6103,Tehama
+Grays Prairie,TX,Texas,48257,Kaufman
+Chacra,CO,Colorado,8045,Garfield
+Bonney,TX,Texas,48039,Brazoria
+Draper,VA,Virginia,51155,Pulaski
+Meridian,CA,California,6101,Sutter
+Abbott,TX,Texas,48217,Hill
+Blanket,TX,Texas,48049,Brown
+Clover,VA,Virginia,51083,Halifax
+Davenport,CA,California,6087,Santa Cruz
+Goshen,VA,Virginia,51163,Rockbridge
+Boone,CO,Colorado,8101,Pueblo
+Bloxom,VA,Virginia,51001,Accomack
+Lake Almanor Peninsula,CA,California,6063,Plumas
+South Mountain,TX,Texas,48099,Coryell
+Plumas Eureka,CA,California,6063,Plumas
+King William,VA,Virginia,51101,King William
+Coyote Flats,TX,Texas,48251,Johnson
+New Home,TX,Texas,48305,Lynn
+Easton,WA,Washington,53037,Kittitas
+Nickelsville,VA,Virginia,51169,Scott
+Bland,VA,Virginia,51021,Bland
+Mineral,CA,California,6103,Tehama
+Iron Gate,VA,Virginia,51005,Alleghany
+Edmundson Acres,CA,California,6029,Kern
+Brazos Bend,TX,Texas,48221,Hood
+Sussex,VA,Virginia,51183,Sussex
+Cashion Community,TX,Texas,48485,Wichita
+Trinidad,CA,California,6023,Humboldt
+Scottsville,TX,Texas,48203,Harrison
+Christoval,TX,Texas,48451,Tom Green
+Palisades,TX,Texas,48381,Randall
+Gwynn,VA,Virginia,51115,Mathews
+Pocahontas,VA,Virginia,51185,Tazewell
+Sugarloaf,CO,Colorado,8013,Boulder
+Eschbach,WA,Washington,53077,Yakima
+Anchor Bay,CA,California,6045,Mendocino
+Fronton Ranchettes,TX,Texas,48427,Starr
+Coaldale,CO,Colorado,8043,Fremont
+Thompsons,TX,Texas,48157,Fort Bend
+Manton,CA,California,6103,Tehama
+Rio Oso,CA,California,6101,Sutter
+Trent,TX,Texas,48441,Taylor
+Nipinnawasee,CA,California,6039,Madera
+Mesa,CA,California,6027,Inyo
+Oak Shores,CA,California,6079,San Luis Obispo
+Powhatan,VA,Virginia,51145,Powhatan
+Bellevue,TX,Texas,48077,Clay
+Leroy,TX,Texas,48309,McLennan
+Dobbins,CA,California,6115,Yuba
+Grangeville,CA,California,6031,Kings
+Channing,TX,Texas,48205,Hartley
+Uniontown,WA,Washington,53075,Whitman
+Mansfield,WA,Washington,53017,Douglas
+Iredell,TX,Texas,48035,Bosque
+Wallula,WA,Washington,53071,Walla Walla
+Morgan's Point,TX,Texas,48201,Harris
+Darrouzett,TX,Texas,48295,Lipscomb
+Enchanted Oaks,TX,Texas,48213,Henderson
+Fincastle,VA,Virginia,51023,Botetourt
+Cazadero,CA,California,6097,Sonoma
+Olney Springs,CO,Colorado,8025,Crowley
+Cressey,CA,California,6047,Merced
+Camptonville,CA,California,6115,Yuba
+Eastville,VA,Virginia,51131,Northampton
+Mount Calm,TX,Texas,48217,Hill
+Zuehl,TX,Texas,48187,Guadalupe
+El Nido,CA,California,6047,Merced
+La Paloma Addition,TX,Texas,48409,San Patricio
+Aberdeen Gardens,WA,Washington,53027,Grays Harbor
+North La Junta,CO,Colorado,8089,Otero
+Claremont,VA,Virginia,51181,Surry
+Muir Beach,CA,California,6041,Marin
+Villa del Sol,TX,Texas,48061,Cameron
+Flint Hill,VA,Virginia,51157,Rappahannock
+Clipper Mills,CA,California,6007,Butte
+Tierra Grande,TX,Texas,48355,Nueces
+Lueders,TX,Texas,48253,Jones
+Snoqualmie Pass,WA,Washington,53037,Kittitas
+Shipman,VA,Virginia,51125,Nelson
+Dinosaur,CO,Colorado,8081,Moffat
+Quinby,VA,Virginia,51001,Accomack
+White Stone,VA,Virginia,51103,Lancaster
+Chase Crossing,VA,Virginia,51001,Accomack
+Pleasant Valley,TX,Texas,48485,Wichita
+Benton,CA,California,6051,Mono
+Morgan Farm,TX,Texas,48409,San Patricio
+Twain,CA,California,6063,Plumas
+Oso,WA,Washington,53061,Snohomish
+Arboles,CO,Colorado,8007,Archuleta
+Inchelium,WA,Washington,53019,Ferry
+Industry,TX,Texas,48015,Austin
+Havana,TX,Texas,48215,Hidalgo
+Skamokawa Valley,WA,Washington,53069,Wahkiakum
+Kennard,TX,Texas,48225,Houston
+Fiddletown,CA,California,6005,Amador
+Beaux Arts Village,WA,Washington,53033,King
+Texhoma,TX,Texas,48421,Sherman
+Goodrich,TX,Texas,48373,Polk
+Sanctuary,TX,Texas,48367,Parker
+Lawn,TX,Texas,48441,Taylor
+Bayside,TX,Texas,48391,Refugio
+Catherine,CO,Colorado,8045,Garfield
+Spangle,WA,Washington,53063,Spokane
+LaCrosse,WA,Washington,53075,Whitman
+Coupland,TX,Texas,48491,Williamson
+Yorktown,VA,Virginia,51199,York
+Cromberg,CA,California,6063,Plumas
+Makemie Park,VA,Virginia,51001,Accomack
+Ivor,VA,Virginia,51175,Southampton
+Granjeno,TX,Texas,48215,Hidalgo
+Packwood,WA,Washington,53041,Lewis
+Vineland,CO,Colorado,8101,Pueblo
+Latexo,TX,Texas,48225,Houston
+Tira,TX,Texas,48223,Hopkins
+City of Creede,CO,Colorado,8079,Mineral
+Alma,CO,Colorado,8093,Park
+Hood,CA,California,6067,Sacramento
+Cross Timber,TX,Texas,48251,Johnson
+Nord,CA,California,6007,Butte
+Artois,CA,California,6021,Glenn
+Chester,TX,Texas,48457,Tyler
+Hiwassee,VA,Virginia,51155,Pulaski
+Blackwell,TX,Texas,48353,Nolan
+Hamilton,WA,Washington,53057,Skagit
+Richland Springs,TX,Texas,48411,San Saba
+Imperial,TX,Texas,48371,Pecos
+La Feria North,TX,Texas,48061,Cameron
+Eureka,TX,Texas,48349,Navarro
+Rochester,TX,Texas,48207,Haskell
+Jacumba,CA,California,6073,San Diego
+Poynor,TX,Texas,48213,Henderson
+San Carlos II,TX,Texas,48479,Webb
+Bailey,TX,Texas,48147,Fannin
+Endicott,WA,Washington,53075,Whitman
+Warren City,TX,Texas,48183,Gregg
+Prescott,WA,Washington,53071,Walla Walla
+Grimes,CA,California,6011,Colusa
+Crows Landing,CA,California,6099,Stanislaus
+Weott,CA,California,6023,Humboldt
+Empire,CO,Colorado,8019,Clear Creek
+Nordheim,TX,Texas,48123,DeWitt
+Southampton Meadows,VA,Virginia,51175,Southampton
+San Carlos I,TX,Texas,48479,Webb
+Northport,WA,Washington,53065,Stevens
+New Falcon,TX,Texas,48505,Zapata
+Gary City,TX,Texas,48365,Panola
+Springdale,WA,Washington,53065,Stevens
+Ovid,CO,Colorado,8115,Sedgwick
+Richfield,CA,California,6103,Tehama
+Burnt Ranch,CA,California,6105,Trinity
+Amargosa,TX,Texas,48249,Jim Wells
+Damon,TX,Texas,48039,Brazoria
+North Cleveland,TX,Texas,48291,Liberty
+Dungannon,VA,Virginia,51169,Scott
+Newsoms,VA,Virginia,51175,Southampton
+Bombay Beach,CA,California,6025,Imperial
+Lower Elochoman,WA,Washington,53069,Wahkiakum
+Paint Rock,TX,Texas,48095,Concho
+Loma Linda East,TX,Texas,48249,Jim Wells
+Sandy Hollow-Escondidas,TX,Texas,48355,Nueces
+Goldsmith,TX,Texas,48135,Ector
+Clinchco,VA,Virginia,51051,Dickenson
+Coffee City,TX,Texas,48213,Henderson
+Clifton,VA,Virginia,51059,Fairfax
+Sierra Brooks,CA,California,6091,Sierra
+Bloomfield,CA,California,6097,Sonoma
+Burton,TX,Texas,48477,Washington
+Nazareth,TX,Texas,48069,Castro
+Progreso Lakes,TX,Texas,48215,Hidalgo
+Iglesia Antigua,TX,Texas,48061,Cameron
+Tilden,TX,Texas,48311,McMullen
+Hedley,TX,Texas,48129,Donley
+Keswick,CA,California,6089,Shasta
+Annona,TX,Texas,48387,Red River
+Point Reyes Station,CA,California,6041,Marin
+Lindcove,CA,California,6107,Tulare
+Jansen,CO,Colorado,8071,Las Animas
+Ross,TX,Texas,48309,McLennan
+Pajaro Dunes,CA,California,6087,Santa Cruz
+Loma Vista,TX,Texas,48427,Starr
+Monson,CA,California,6107,Tulare
+Malone,TX,Texas,48217,Hill
+Callaghan,VA,Virginia,51005,Alleghany
+Tynan,TX,Texas,48025,Bee
+Red Cliff,CO,Colorado,8037,Eagle
+Cranfills Gap,TX,Texas,48035,Bosque
+Canby,CA,California,6049,Modoc
+Eugenio Saenz,TX,Texas,48427,Starr
+Neilton,WA,Washington,53027,Grays Harbor
+Merino,CO,Colorado,8075,Logan
+Almira,WA,Washington,53043,Lincoln
+Airport Road Addition,TX,Texas,48047,Brooks
+Yankee Hill,CA,California,6007,Butte
+Covington,TX,Texas,48217,Hill
+Tehuacana,TX,Texas,48293,Limestone
+Pacific Beach,WA,Washington,53027,Grays Harbor
+Dorrington,CA,California,6009,Calaveras
+La Carla,TX,Texas,48427,Starr
+Staples,TX,Texas,48187,Guadalupe
+Chula Vista,TX,Texas,48061,Cameron
+Redvale,CO,Colorado,8085,Montrose
+Marquez,TX,Texas,48289,Leon
+Loma Grande,TX,Texas,48507,Zavala
+Fall River Mills,CA,California,6089,Shasta
+Richland,TX,Texas,48349,Navarro
+Riverside,WA,Washington,53047,Okanogan
+East Nicolaus,CA,California,6101,Sutter
+Carbon,TX,Texas,48133,Eastland
+Bowles,CA,California,6019,Fresno
+Monterey Park Tract,CA,California,6099,Stanislaus
+Toms Brook,VA,Virginia,51171,Shenandoah
+Bayside,VA,Virginia,51001,Accomack
+Rollinsville,CO,Colorado,8047,Gilpin
+Alberta,VA,Virginia,51025,Brunswick
+Hays,TX,Texas,48209,Hays
+Grays River,WA,Washington,53069,Wahkiakum
+Brodnax,VA,Virginia,51025,Brunswick
+Iliff,CO,Colorado,8075,Logan
+Fowlerton,TX,Texas,48283,La Salle
+Garden City,CO,Colorado,8123,Weld
+Oakhurst,TX,Texas,48407,San Jacinto
+Smartsville,CA,California,6115,Yuba
+Barry,TX,Texas,48349,Navarro
+Los Alvarez,TX,Texas,48427,Starr
+Brookside,CO,Colorado,8043,Fremont
+La Escondida,TX,Texas,48427,Starr
+Los Altos,TX,Texas,48479,Webb
+Salton Sea Beach,CA,California,6025,Imperial
+Free Union,VA,Virginia,51003,Albemarle
+El Moro,CO,Colorado,8071,Las Animas
+Hillrose,CO,Colorado,8087,Morgan
+Moran,TX,Texas,48417,Shackelford
+Prado Verde,TX,Texas,48141,El Paso
+Dickens,TX,Texas,48125,Dickens
+Alpine,CO,Colorado,8105,Rio Grande
+Eckley,CO,Colorado,8125,Yuma
+Temperanceville,VA,Virginia,51001,Accomack
+Fayetteville,TX,Texas,48149,Fayette
+Mingus,TX,Texas,48363,Palo Pinto
+Parrott,VA,Virginia,51155,Pulaski
+Greenhorn,CA,California,6063,Plumas
+Albion,CA,California,6045,Mendocino
+Glenwood,WA,Washington,53039,Klickitat
+Trowbridge,CA,California,6101,Sutter
+Spring Branch,TX,Texas,48091,Comal
+Alice Acres,TX,Texas,48249,Jim Wells
+Dillon Beach,CA,California,6041,Marin
+Benjamin,TX,Texas,48275,Knox
+Wixon Valley,TX,Texas,48041,Brazos
+Trinity Village,CA,California,6105,Trinity
+Sugar City,CO,Colorado,8025,Crowley
+Tuleta,TX,Texas,48025,Bee
+Carmine,TX,Texas,48149,Fayette
+Fields Landing,CA,California,6023,Humboldt
+Metaline Falls,WA,Washington,53051,Pend Oreille
+Swall Meadows,CA,California,6051,Mono
+Redfield,TX,Texas,48347,Nacogdoches
+Jamestown,CO,Colorado,8013,Boulder
+Cheraw,CO,Colorado,8089,Otero
+Three Rocks,CA,California,6019,Fresno
+Elmer City,WA,Washington,53047,Okanogan
+Cassel,CA,California,6089,Shasta
+Groveland,CA,California,6109,Tuolumne
+Dendron,VA,Virginia,51181,Surry
+Streetman,TX,Texas,48161,Freestone
+Elmira,CA,California,6095,Solano
+Westbrook,TX,Texas,48335,Mitchell
+Hiouchi,CA,California,6015,Del Norte
+Millican,TX,Texas,48041,Brazos
+Humptulips,WA,Washington,53027,Grays Harbor
+Klickitat,WA,Washington,53039,Klickitat
+Anderson,TX,Texas,48185,Grimes
+Woodson,TX,Texas,48447,Throckmorton
+Vansant,VA,Virginia,51027,Buchanan
+Hilltop,TX,Texas,48163,Frio
+Madison,VA,Virginia,51113,Madison
+Schuyler,VA,Virginia,51125,Nelson
+Thorp,WA,Washington,53037,Kittitas
+Taylor Landing,TX,Texas,48245,Jefferson
+Ranchette Estates,TX,Texas,48489,Willacy
+Ebony,VA,Virginia,51025,Brunswick
+Country Acres,TX,Texas,48409,San Patricio
+Guinda,CA,California,6113,Yolo
+North Sultan,WA,Washington,53061,Snohomish
+Del Mar Heights,TX,Texas,48061,Cameron
+Midway,TX,Texas,48313,Madison
+Sandy Point,TX,Texas,48039,Brazoria
+The Plains,VA,Virginia,51061,Fauquier
+Peoria,CO,Colorado,8005,Arapahoe
+Gorst,WA,Washington,53035,Kitsap
+Bethune,CO,Colorado,8063,Kit Carson
+Peetz,CO,Colorado,8075,Logan
+Vallecito,CA,California,6009,Calaveras
+Boones Mill,VA,Virginia,51067,Franklin
+E. Lopez,TX,Texas,48427,Starr
+Alto Bonito Heights,TX,Texas,48427,Starr
+Macdona,TX,Texas,48029,Bexar
+Ackerly,TX,Texas,48115,Dawson
+Lemon Cove,CA,California,6107,Tulare
+Kit Carson,CO,Colorado,8017,Cheyenne
+Saxis,VA,Virginia,51001,Accomack
+Rico,CO,Colorado,8033,Dolores
+Roaring Springs,TX,Texas,48345,Motley
+Vina,CA,California,6103,Tehama
+Pungoteague,VA,Virginia,51001,Accomack
+Greenview,CA,California,6093,Siskiyou
+Forsan,TX,Texas,48227,Howard
+Dos Palos Y,CA,California,6047,Merced
+Creston,WA,Washington,53043,Lincoln
+Miguel Barrera,TX,Texas,48427,Starr
+Olancha,CA,California,6027,Inyo
+Orason,TX,Texas,48061,Cameron
+Pamplin City,VA,Virginia,51011,Appomattox
+Catarina,TX,Texas,48127,Dimmit
+Mesa Vista,CA,California,6003,Alpine
+Keene,CA,California,6029,Kern
+Barrera,TX,Texas,48427,Starr
+Sperryville,VA,Virginia,51157,Rappahannock
+Phippsburg,CO,Colorado,8107,Routt
+La Presa,TX,Texas,48479,Webb
+Lanare,CA,California,6019,Fresno
+Bonanza Mountain Estates,CO,Colorado,8013,Boulder
+East Pleasant View,CO,Colorado,8059,Jefferson
+Ravenna,TX,Texas,48147,Fannin
+Fronton,TX,Texas,48427,Starr
+Painter,VA,Virginia,51001,Accomack
+Creedmoor,TX,Texas,48453,Travis
+Lake Almanor West,CA,California,6063,Plumas
+La Ward,TX,Texas,48239,Jackson
+Whitley Gardens,CA,California,6079,San Luis Obispo
+Wachapreague,VA,Virginia,51001,Accomack
+Hanover,VA,Virginia,51085,Hanover
+Mountain Meadows,CO,Colorado,8013,Boulder
+Harborton,VA,Virginia,51001,Accomack
+Skykomish,WA,Washington,53033,King
+Navarro,TX,Texas,48349,Navarro
+Caney City,TX,Texas,48213,Henderson
+Moore Station,TX,Texas,48213,Henderson
+El Portal,CA,California,6043,Mariposa
+Welch,TX,Texas,48115,Dawson
+Pescadero,CA,California,6081,San Mateo
+Surry,VA,Virginia,51181,Surry
+Loma Linda West,TX,Texas,48427,Starr
+Douglassville,TX,Texas,48067,Cass
+Manchester,CA,California,6045,Mendocino
+Cusick,WA,Washington,53051,Pend Oreille
+Perrin,TX,Texas,48237,Jack
+Desert Center,CA,California,6065,Riverside
+Victor,CA,California,6077,San Joaquin
+Wilson Creek,WA,Washington,53025,Grant
+Hebron,TX,Texas,48121,Denton
+Southern Ute,CO,Colorado,8067,La Plata
+Cherokee Strip,CA,California,6029,Kern
+Phenix,VA,Virginia,51037,Charlotte
+Seibert,CO,Colorado,8063,Kit Carson
+Villa Verde,TX,Texas,48215,Hidalgo
+Ocean City,WA,Washington,53027,Grays Harbor
+Realitos,TX,Texas,48131,Duval
+Samoa,CA,California,6023,Humboldt
+Larkspur,CO,Colorado,8035,Douglas
+Delmita,TX,Texas,48427,Starr
+Little River,CA,California,6045,Mendocino
+La Vina,CA,California,6039,Madera
+Hornbrook,CA,California,6093,Siskiyou
+Index,WA,Washington,53061,Snohomish
+Mobile City,TX,Texas,48397,Rockwall
+Clear Creek,CA,California,6035,Lassen
+Keller,WA,Washington,53019,Ferry
+Augusta Springs,VA,Virginia,51015,Augusta
+Richvale,CA,California,6007,Butte
+Daphnedale Park,CA,California,6049,Modoc
+Washtucna,WA,Washington,53001,Adams
+Rackerby,CA,California,6007,Butte
+Woodloch,TX,Texas,48339,Montgomery
+Conconully,WA,Washington,53047,Okanogan
+Arriba,CO,Colorado,8073,Lincoln
+Low Moor,VA,Virginia,51005,Alleghany
+Bynum,TX,Texas,48217,Hill
+Penelope,TX,Texas,48217,Hill
+Malden,WA,Washington,53075,Whitman
+Browndell,TX,Texas,48241,Jasper
+Gail,TX,Texas,48033,Borden
+Port Royal,VA,Virginia,51033,Caroline
+Milford,CA,California,6035,Lassen
+Mineral,WA,Washington,53041,Lewis
+Litchfield,CA,California,6035,Lassen
+Windom,TX,Texas,48147,Fannin
+Gold Hill,CO,Colorado,8013,Boulder
+Acampo,CA,California,6077,San Joaquin
+Goree,TX,Texas,48275,Knox
+Wellman,TX,Texas,48445,Terry
+Big Island,VA,Virginia,51019,Bedford
+Lunenburg,VA,Virginia,51111,Lunenburg
+Industry,CA,California,6037,Los Angeles
+Cottonwood,TX,Texas,48257,Kaufman
+Capulin,CO,Colorado,8021,Conejos
+Elbert,CO,Colorado,8039,Elbert
+Trail Side,CO,Colorado,8087,Morgan
+Nathalie,VA,Virginia,51083,Halifax
+Tokeland,WA,Washington,53049,Pacific
+La Paloma Ranchettes,TX,Texas,48427,Starr
+Hallwood,VA,Virginia,51001,Accomack
+Westcreek,CO,Colorado,8035,Douglas
+Moore,TX,Texas,48163,Frio
+Belspring,VA,Virginia,51155,Pulaski
+Thompsonville,TX,Texas,48247,Jim Hogg
+Big Creek,CA,California,6019,Fresno
+Goodlow,TX,Texas,48349,Navarro
+Ewing,VA,Virginia,51105,Lee
+Taylorsville,CA,California,6063,Plumas
+Bay Center,WA,Washington,53049,Pacific
+Broaddus,TX,Texas,48405,San Augustine
+Coffee Creek,CA,California,6105,Trinity
+Bear Valley,CA,California,6043,Mariposa
+Pecan Gap,TX,Texas,48119,Delta
+Radar Base,TX,Texas,48323,Maverick
+Ramos,TX,Texas,48427,Starr
+Opdyke West,TX,Texas,48219,Hockley
+Yolo,CA,California,6113,Yolo
+Kahlotus,WA,Washington,53021,Franklin
+Atwood,CO,Colorado,8075,Logan
+Fort Bidwell,CA,California,6049,Modoc
+Queets,WA,Washington,53027,Grays Harbor
+Winterhaven,CA,California,6025,Imperial
+Woody Creek,CO,Colorado,8097,Pitkin
+Tomales,CA,California,6041,Marin
+Garey,CA,California,6083,Santa Barbara
+Iron Horse,CA,California,6063,Plumas
+Rail Road Flat,CA,California,6009,Calaveras
+Steptoe,WA,Washington,53075,Whitman
+Amador City,CA,California,6005,Amador
+Dixie,WA,Washington,53071,Walla Walla
+Wawona,CA,California,6043,Mariposa
+Study Butte,TX,Texas,48043,Brewster
+Verdi,CA,California,6091,Sierra
+Megargel,TX,Texas,48009,Archer
+Olmito and Olmito,TX,Texas,48427,Starr
+Lopeño,TX,Texas,48505,Zapata
+Cool,TX,Texas,48367,Parker
+Latah,WA,Washington,53063,Spokane
+Deep River,WA,Washington,53069,Wahkiakum
+Franktown,CO,Colorado,8035,Douglas
+Valley Home,CA,California,6099,Stanislaus
+Ophir,CO,Colorado,8113,San Miguel
+Alger,WA,Washington,53057,Skagit
+Elk Creek,CA,California,6021,Glenn
+Metaline,WA,Washington,53051,Pend Oreille
+Calpine,CA,California,6091,Sierra
+Proberta,CA,California,6103,Tehama
+Weldona,CO,Colorado,8087,Morgan
+Greenbush,VA,Virginia,51001,Accomack
+Comanche Creek,CO,Colorado,8005,Arapahoe
+Leona,TX,Texas,48289,Leon
+Port Costa,CA,California,6013,Contra Costa
+Nespelem Community,WA,Washington,53047,Okanogan
+Gerrard,CO,Colorado,8105,Rio Grande
+Courtland,CA,California,6067,Sacramento
+Lake Cavanaugh,WA,Washington,53057,Skagit
+Bishop Hills,TX,Texas,48375,Potter
+Lasana,TX,Texas,48061,Cameron
+Dutch Flat,CA,California,6061,Placer
+Stony Creek,VA,Virginia,51183,Sussex
+North San Juan,CA,California,6057,Nevada
+Amherst,CO,Colorado,8095,Phillips
+La Rosita,TX,Texas,48427,Starr
+Silver Plume,CO,Colorado,8019,Clear Creek
+Lozano,TX,Texas,48061,Cameron
+Fairhaven,CA,California,6023,Humboldt
+Stevinson,CA,California,6047,Merced
+Mullin,TX,Texas,48333,Mills
+Los Barreras,TX,Texas,48427,Starr
+Campo Verde,TX,Texas,48427,Starr
+Driftwood,TX,Texas,48209,Hays
+Philo,CA,California,6045,Mendocino
+Pena,TX,Texas,48427,Starr
+Crowley,CO,Colorado,8025,Crowley
+Cleveland,VA,Virginia,51167,Russell
+Chinese Camp,CA,California,6109,Tuolumne
+Salineño,TX,Texas,48427,Starr
+Carrsville,VA,Virginia,51093,Isle of Wight
+Jackson Lake,CO,Colorado,8087,Morgan
+Churchville,VA,Virginia,51015,Augusta
+Whitesville,VA,Virginia,51001,Accomack
+Edna,CA,California,6079,San Luis Obispo
+Loma Mar,CA,California,6081,San Mateo
+Marcus,WA,Washington,53065,Stevens
+El Quiote,TX,Texas,48427,Starr
+Farmington,CA,California,6077,San Joaquin
+Adin,CA,California,6049,Modoc
+Gargatha,VA,Virginia,51001,Accomack
+Adrian,TX,Texas,48359,Oldham
+College City,CA,California,6011,Colusa
+Ruth,CA,California,6105,Trinity
+Round Mountain,TX,Texas,48031,Blanco
+Morgan Heights,CO,Colorado,8087,Morgan
+Sierra Village,CA,California,6109,Tuolumne
+Sisquoc,CA,California,6083,Santa Barbara
+Hillsboro,VA,Virginia,51107,Loudoun
+Keller,VA,Virginia,51001,Accomack
+Lodoga,CA,California,6011,Colusa
+Tecopa,CA,California,6027,Inyo
+El Camino Angosto,TX,Texas,48061,Cameron
+Melvin,TX,Texas,48307,McCulloch
+Sunshine,CO,Colorado,8013,Boulder
+Idledale,CO,Colorado,8059,Jefferson
+Tooleville,CA,California,6107,Tulare
+Utopia,TX,Texas,48463,Uvalde
+Falcon Mesa,TX,Texas,48505,Zapata
+Troutdale,VA,Virginia,51077,Grayson
+Florissant,CO,Colorado,8119,Teller
+Rye,CO,Colorado,8101,Pueblo
+Deming,WA,Washington,53073,Whatcom
+Jolly,TX,Texas,48077,Clay
+Bluewater,CA,California,6071,San Bernardino
+Scotland,VA,Virginia,51181,Surry
+Weinert,TX,Texas,48207,Haskell
+Baring,WA,Washington,53033,King
+Catlett,VA,Virginia,51061,Fauquier
+Ward,CO,Colorado,8013,Boulder
+Alder,WA,Washington,53053,Pierce
+Miller's Cove,TX,Texas,48449,Titus
+Willapa,WA,Washington,53049,Pacific
+Pike,CA,California,6091,Sierra
+Pine Grove,WA,Washington,53019,Ferry
+Templeton,VA,Virginia,51149,Prince George
+Downieville,CA,California,6091,Sierra
+Mettler,CA,California,6029,Kern
+Villarreal,TX,Texas,48427,Starr
+Bieber,CA,California,6035,Lassen
+Alderpoint,CA,California,6023,Humboldt
+Sanford,TX,Texas,48233,Hutchinson
+Tall Timber,CO,Colorado,8013,Boulder
+Yogaville,VA,Virginia,51029,Buckingham
+Flournoy,CA,California,6103,Tehama
+Thynedale,VA,Virginia,51117,Mecklenburg
+Hartline,WA,Washington,53025,Grant
+Lake McMurray,WA,Washington,53057,Skagit
+Chinook,WA,Washington,53049,Pacific
+Trinity Center,CA,California,6105,Trinity
+Blue Sky,CO,Colorado,8087,Morgan
+Glacier,WA,Washington,53073,Whatcom
+New Castle,VA,Virginia,51045,Craig
+Grover,CO,Colorado,8123,Weld
+Oilton,TX,Texas,48479,Webb
+Fairview,VA,Virginia,51117,Mecklenburg
+Farmington,WA,Washington,53075,Whitman
+Capron,VA,Virginia,51175,Southampton
+Waukena,CA,California,6107,Tulare
+Lewis,CO,Colorado,8083,Montezuma
+Genoa,CO,Colorado,8073,Lincoln
+Nicolaus,CA,California,6101,Sutter
+Bear Creek,CA,California,6047,Merced
+Palo Pinto,TX,Texas,48363,Palo Pinto
+Edison,WA,Washington,53057,Skagit
+Powell,TX,Texas,48349,Navarro
+Nesbitt,TX,Texas,48203,Harrison
+Maple Falls,WA,Washington,53073,Whatcom
+Pine Flat,CA,California,6107,Tulare
+Banks Lake South,WA,Washington,53025,Grant
+Emhouse,TX,Texas,48349,Navarro
+Austwell,TX,Texas,48391,Refugio
+Montgomery Creek,CA,California,6089,Shasta
+Snyder,CO,Colorado,8087,Morgan
+Casmalia,CA,California,6083,Santa Barbara
+Tupman,CA,California,6029,Kern
+Pawnee,TX,Texas,48025,Bee
+Quemado,TX,Texas,48323,Maverick
+Timber Cove,CA,California,6097,Sonoma
+Cats Bridge,VA,Virginia,51001,Accomack
+C-Road,CA,California,6063,Plumas
+Cuney,TX,Texas,48073,Cherokee
+Crestone,CO,Colorado,8109,Saguache
+Markham,WA,Washington,53027,Grays Harbor
+Hardwick,CA,California,6031,Kings
+Brick Center,CO,Colorado,8005,Arapahoe
+Sedgwick,CO,Colorado,8115,Sedgwick
+Virgilina,VA,Virginia,51083,Halifax
+Normanna,TX,Texas,48025,Bee
+Cherokee,CA,California,6007,Butte
+San Isidro,TX,Texas,48427,Starr
+Monterey,VA,Virginia,51091,Highland
+Smeltertown,CO,Colorado,8015,Chaffee
+Hoodsport,WA,Washington,53045,Mason
+Marble,CO,Colorado,8051,Gunnison
+Modest Town,VA,Virginia,51001,Accomack
+Sedalia,CO,Colorado,8035,Douglas
+Custer,WA,Washington,53073,Whatcom
+Valentine,TX,Texas,48243,Jeff Davis
+Kingsbury,TX,Texas,48187,Guadalupe
+Big Bend,CA,California,6089,Shasta
+Pyote,TX,Texas,48475,Ward
+Myers Flat,CA,California,6023,Humboldt
+Markleeville,CA,California,6003,Alpine
+Kirvin,TX,Texas,48161,Freestone
+Pritchett,CO,Colorado,8009,Baca
+Cliffdell,WA,Washington,53077,Yakima
+Ramah,CO,Colorado,8041,El Paso
+Addy,WA,Washington,53065,Stevens
+Hoehne,CO,Colorado,8071,Las Animas
+Hasty,CO,Colorado,8011,Bent
+Seven Oaks,TX,Texas,48373,Polk
+Estelline,TX,Texas,48191,Hall
+Del Sol,TX,Texas,48409,San Patricio
+Hat Creek,CA,California,6089,Shasta
+Kapowsin,WA,Washington,53053,Pierce
+Marietta,TX,Texas,48067,Cass
+Novice,TX,Texas,48083,Coleman
+Scottsburg,VA,Virginia,51083,Halifax
+Starbuck,WA,Washington,53013,Columbia
+Black Hawk,CO,Colorado,8047,Gilpin
+Volta,CA,California,6047,Merced
+Mertens,TX,Texas,48217,Hill
+Bonanza Hills,TX,Texas,48479,Webb
+East Shore,CA,California,6063,Plumas
+Rock Creek Park,CO,Colorado,8041,El Paso
+Washington,VA,Virginia,51157,Rappahannock
+Columbia,VA,Virginia,51065,Fluvanna
+Northwest Stanwood,WA,Washington,53061,Snohomish
+Sierra City,CA,California,6091,Sierra
+Topaz,CA,California,6051,Mono
+Randsburg,CA,California,6029,Kern
+Guthrie,TX,Texas,48269,King
+Bobtown,VA,Virginia,51001,Accomack
+Southside Chesconessex,VA,Virginia,51001,Accomack
+Methow,WA,Washington,53047,Okanogan
+Porter,WA,Washington,53027,Grays Harbor
+Maysville,CO,Colorado,8015,Chaffee
+Redford,TX,Texas,48377,Presidio
+Moskowite Corner,CA,California,6065,Riverside
+Seven Hills,CO,Colorado,8013,Boulder
+Cokedale,CO,Colorado,8071,Las Animas
+Petronila,TX,Texas,48355,Nueces
+Moffat,CO,Colorado,8109,Saguache
+Snelling,CA,California,6047,Merced
+Chaparrito,TX,Texas,48427,Starr
+La Junta Gardens,CO,Colorado,8089,Otero
+Orchard,CO,Colorado,8087,Morgan
+Johannesburg,CA,California,6029,Kern
+H. Cuellar Estates,TX,Texas,48427,Starr
+Benbow,CA,California,6023,Humboldt
+Owl Ranch,TX,Texas,48249,Jim Wells
+San Acacio,CO,Colorado,8023,Costilla
+Roosevelt,WA,Washington,53039,Klickitat
+Mount Laguna,CA,California,6073,San Diego
+McKittrick,CA,California,6029,Kern
+Segundo,CO,Colorado,8071,Las Animas
+Honcut,CA,California,6007,Butte
+Hyampom,CA,California,6105,Trinity
+Branchville,VA,Virginia,51175,Southampton
+Arroyo Gardens,TX,Texas,48061,Cameron
+Middlebrook,VA,Virginia,51015,Augusta
+Todd Mission,TX,Texas,48185,Grimes
+Aquilla,TX,Texas,48217,Hill
+Bradley,CA,California,6053,Monterey
+Raymer,CO,Colorado,8123,Weld
+Monmouth,CA,California,6019,Fresno
+Terlingua,TX,Texas,48043,Brewster
+St. Charles,VA,Virginia,51105,Lee
+Benjamin Perez,TX,Texas,48427,Starr
+Crisman,CO,Colorado,8013,Boulder
+Vernon,CA,California,6037,Los Angeles
+Waverly,WA,Washington,53063,Spokane
+Crook,CO,Colorado,8075,Logan
+Heathsville,VA,Virginia,51133,Northumberland
+Acme,WA,Washington,53073,Whatcom
+Toyah,TX,Texas,48389,Reeves
+Spaulding,CA,California,6035,Lassen
+South Fork Estates,TX,Texas,48247,Jim Hogg
+Furnace Creek,CA,California,6027,Inyo
+Dodson,TX,Texas,48087,Collingsworth
+Vilas,CO,Colorado,8009,Baca
+Calverton,VA,Virginia,51061,Fauquier
+Loomis,WA,Washington,53047,Okanogan
+Deerfield,VA,Virginia,51015,Augusta
+Loma Linda,TX,Texas,48409,San Patricio
+Torboy,WA,Washington,53019,Ferry
+King and Queen Court House,VA,Virginia,51097,King and Queen
+Barstow,WA,Washington,53019,Ferry
+Iago,TX,Texas,48481,Wharton
+Tradewinds,TX,Texas,48409,San Patricio
+Vona,CO,Colorado,8063,Kit Carson
+Hatton,WA,Washington,53001,Adams
+Valley,WA,Washington,53065,Stevens
+Union Level,VA,Virginia,51117,Mecklenburg
+Ronald,WA,Washington,53037,Kittitas
+Edmonson,TX,Texas,48189,Hale
+Dayton Lakes,TX,Texas,48291,Liberty
+Palmyra,VA,Virginia,51065,Fluvanna
+Centerville,WA,Washington,53039,Klickitat
+Springlake,TX,Texas,48279,Lamb
+Campo,CO,Colorado,8009,Baca
+Bickleton,WA,Washington,53039,Klickitat
+O'Brien,TX,Texas,48207,Haskell
+Paskenta,CA,California,6103,Tehama
+Long Barn,CA,California,6109,Tuolumne
+Morse,TX,Texas,48195,Hansford
+Alpine Village,CA,California,6003,Alpine
+Rodriguez Camp,CA,California,6107,Tulare
+Darwin,CA,California,6027,Inyo
+Curlew,WA,Washington,53019,Ferry
+Warfield,VA,Virginia,51025,Brunswick
+Big Lagoon,CA,California,6023,Humboldt
+Lake View,TX,Texas,48465,Val Verde
+Hooper,CO,Colorado,8003,Alamosa
+Nottoway Court House,VA,Virginia,51135,Nottoway
+Oak Hall,VA,Virginia,51001,Accomack
+Comptche,CA,California,6045,Mendocino
+Lee Vining,CA,California,6051,Mono
+Spofford,TX,Texas,48271,Kinney
+Glen Lyn,VA,Virginia,51071,Giles
+Neylandville,TX,Texas,48231,Hunt
+Sanford,VA,Virginia,51001,Accomack
+Midland,VA,Virginia,51061,Fauquier
+Valmont,CO,Colorado,8013,Boulder
+Mono City,CA,California,6051,Mono
+Mobeetie,TX,Texas,48483,Wheeler
+Westdale,TX,Texas,48249,Jim Wells
+Tuttle,CA,California,6047,Merced
+Dorchester,TX,Texas,48181,Grayson
+Quintana,TX,Texas,48039,Brazoria
+Putnam,TX,Texas,48059,Callahan
+La Minita,TX,Texas,48427,Starr
+Crescent Mills,CA,California,6063,Plumas
+Fish Camp,CA,California,6043,Mariposa
+Portland,CO,Colorado,8091,Ouray
+New Church,VA,Virginia,51001,Accomack
+Uncertain,TX,Texas,48203,Harrison
+Cantu Addition,TX,Texas,48047,Brooks
+Carrick,CA,California,6093,Siskiyou
+Amanda Park,WA,Washington,53027,Grays Harbor
+Stonyford,CA,California,6011,Colusa
+Coyanosa,TX,Texas,48371,Pecos
+Oakville,CA,California,6055,Napa
+Allisonia,VA,Virginia,51155,Pulaski
+Round Top,TX,Texas,48149,Fayette
+Ratamosa,TX,Texas,48061,Cameron
+Domino,TX,Texas,48067,Cass
+Round Mountain,CA,California,6089,Shasta
+Ocotillo,CA,California,6025,Imperial
+Chelan Falls,WA,Washington,53007,Chelan
+New Pine Creek,CA,California,6049,Modoc
+Rutherford,CA,California,6055,Napa
+Port Mansfield,TX,Texas,48489,Willacy
+Lebam,WA,Washington,53049,Pacific
+La Esperanza,TX,Texas,48427,Starr
+Sattley,CA,California,6091,Sierra
+Los Nopalitos,TX,Texas,48479,Webb
+Yznaga,TX,Texas,48061,Cameron
+Sierraville,CA,California,6091,Sierra
+Upper Elochoman,WA,Washington,53069,Wahkiakum
+Tampico,WA,Washington,53077,Yakima
+Hungerford,TX,Texas,48481,Wharton
+Sheridan Lake,CO,Colorado,8061,Kiowa
+Sun Valley,TX,Texas,48277,Lamar
+Leggett,CA,California,6045,Mendocino
+Duffield,VA,Virginia,51169,Scott
+Joes,CO,Colorado,8125,Yuma
+Parshall,CO,Colorado,8049,Grand
+Orient,WA,Washington,53019,Ferry
+Palo Blanco,TX,Texas,48427,Starr
+Edgewater Estates,TX,Texas,48409,San Patricio
+Danville,WA,Washington,53019,Ferry
+Westside,CA,California,6019,Fresno
+Kirkwood,CA,California,6003,Alpine
+Sereno del Mar,CA,California,6097,Sonoma
+Gutierrez,TX,Texas,48427,Starr
+Kirk,CO,Colorado,8125,Yuma
+Spade,TX,Texas,48279,Lamb
+Paynes Creek,CA,California,6103,Tehama
+Alleghany,CA,California,6091,Sierra
+Toco,TX,Texas,48277,Lamar
+Snowville,VA,Virginia,51155,Pulaski
+Keddie,CA,California,6063,Plumas
+Saddle Ridge,CO,Colorado,8087,Morgan
+Box Canyon,TX,Texas,48465,Val Verde
+Rocky Mound,TX,Texas,48063,Camp
+Bark Ranch,CO,Colorado,8013,Boulder
+Hartman,CO,Colorado,8099,Prowers
+Zapata Ranch,TX,Texas,48489,Willacy
+Montezuma,CO,Colorado,8117,Summit
+Lamont,WA,Washington,53075,Whitman
+Parker,WA,Washington,53077,Yakima
+Baskerville,VA,Virginia,51117,Mecklenburg
+Nile,WA,Washington,53077,Yakima
+Branson,CO,Colorado,8071,Las Animas
+Mount Hebron,CA,California,6093,Siskiyou
+La Coma,TX,Texas,48479,Webb
+Nicasio,CA,California,6041,Marin
+Kingvale,CA,California,6057,Nevada
+Freeport,CA,California,6067,Sacramento
+Kim,CO,Colorado,8071,Las Animas
+Phillipsville,CA,California,6023,Humboldt
+Pitkin,CO,Colorado,8051,Gunnison
+Lee Mont,VA,Virginia,51001,Accomack
+Padroni,CO,Colorado,8075,Logan
+El Castillo,TX,Texas,48427,Starr
+Homewood Canyon,CA,California,6027,Inyo
+Twin Lakes,WA,Washington,53019,Ferry
+Ramireno,TX,Texas,48505,Zapata
+Marblemount,WA,Washington,53057,Skagit
+Rangerville,TX,Texas,48061,Cameron
+Haswell,CO,Colorado,8061,Kiowa
+Sunny Slopes,CA,California,6051,Mono
+Longoria,TX,Texas,48427,Starr
+Divide,CO,Colorado,8119,Teller
+Buena Vista,TX,Texas,48427,Starr
+Hornitos,CA,California,6043,Mariposa
+Palo Verde,CA,California,6025,Imperial
+Mappsburg,VA,Virginia,51001,Accomack
+North Escobares,TX,Texas,48427,Starr
+Clinchport,VA,Virginia,51169,Scott
+Los Arcos,TX,Texas,48479,Webb
+Hat Island,WA,Washington,53061,Snohomish
+Redstone,CO,Colorado,8097,Pitkin
+Sekiu,WA,Washington,53009,Clallam
+Maryhill,WA,Washington,53039,Klickitat
+Falconaire,TX,Texas,48427,Starr
+Tierra Bonita,TX,Texas,48061,Cameron
+Concepcion,TX,Texas,48131,Duval
+Lynn,CO,Colorado,8071,Las Animas
+Savage Town,VA,Virginia,51001,Accomack
+Butterfield,TX,Texas,48141,El Paso
+Charles City,VA,Virginia,51036,Charles City
+Coulterville,CA,California,6043,Mariposa
+Blyn,WA,Washington,53009,Clallam
+Encino,TX,Texas,48047,Brooks
+Buckingham Courthouse,VA,Virginia,51029,Buckingham
+El Rancho,CA,California,6107,Tulare
+Clio,CA,California,6063,Plumas
+Flor del Rio,TX,Texas,48427,Starr
+Regino Ramirez,TX,Texas,48427,Starr
+Lancaster,VA,Virginia,51103,Lancaster
+Greenwater,WA,Washington,53053,Pierce
+Lake City,CA,California,6049,Modoc
+Colona,CO,Colorado,8091,Ouray
+Washington,CA,California,6057,Nevada
+Quesada,TX,Texas,48427,Starr
+Gazelle,CA,California,6093,Siskiyou
+Starkville,CO,Colorado,8071,Las Animas
+Macdoel,CA,California,6093,Siskiyou
+Fancy Gap,VA,Virginia,51035,Carroll
+Mohawk Vista,CA,California,6063,Plumas
+Moss Landing,CA,California,6053,Monterey
+Robinson Mill,CA,California,6007,Butte
+Colorado Acres,TX,Texas,48479,Webb
+Indian Falls,CA,California,6063,Plumas
+Elbe,WA,Washington,53053,Pierce
+Lake Davis,CA,California,6063,Plumas
+Paisano Park,TX,Texas,48409,San Patricio
+Eagleville,CA,California,6049,Modoc
+Krupp,WA,Washington,53025,Grant
+Fellows,CA,California,6029,Kern
+Qui-nai-elt Village,WA,Washington,53027,Grays Harbor
+Malo,WA,Washington,53019,Ferry
+Whitehawk,CA,California,6063,Plumas
+La Victoria,TX,Texas,48427,Starr
+Panorama Heights,CA,California,6107,Tulare
+Corral City,TX,Texas,48121,Denton
+Laird,CO,Colorado,8125,Yuma
+Evergreen,TX,Texas,48427,Starr
+Nina,TX,Texas,48427,Starr
+Salineño North,TX,Texas,48427,Starr
+Altoona,WA,Washington,53069,Wahkiakum
+Outlook,WA,Washington,53077,Yakima
+McClenney Tract,CA,California,6107,Tulare
+Los Veteranos I,TX,Texas,48479,Webb
+California Hot Springs,CA,California,6107,Tulare
+Moclips,WA,Washington,53027,Grays Harbor
+Soda Springs,CA,California,6057,Nevada
+Boyds,WA,Washington,53019,Ferry
+Ramirez-Perez,TX,Texas,48427,Starr
+Las Lomitas,TX,Texas,48247,Jim Hogg
+Lookout,CA,California,6049,Modoc
+Amistad,TX,Texas,48465,Val Verde
+McCoy,CO,Colorado,8037,Eagle
+Stonewall Gap,CO,Colorado,8071,Las Animas
+Guadalupe Guerra,TX,Texas,48427,Starr
+Maybell,CO,Colorado,8081,Moffat
+Butte Meadows,CA,California,6007,Butte
+Rockport,WA,Washington,53057,Skagit
+Volcano,CA,California,6005,Amador
+Deep Creek,VA,Virginia,51001,Accomack
+Two Buttes,CO,Colorado,8009,Baca
+Trona,CA,California,6027,Inyo
+Casas,TX,Texas,48427,Starr
+Sawpit,CO,Colorado,8113,San Miguel
+Pierpoint,CA,California,6107,Tulare
+La Grande,WA,Washington,53053,Pierce
+Sequoia Crest,CA,California,6107,Tulare
+Idalia,CO,Colorado,8125,Yuma
+Edgewood,CA,California,6093,Siskiyou
+Herron Island,WA,Washington,53053,Pierce
+Goldfield,CO,Colorado,8119,Teller
+La Loma de Falcon,TX,Texas,48427,Starr
+Nubieber,CA,California,6035,Lassen
+Paoli,CO,Colorado,8095,Phillips
+Valley Ford,CA,California,6097,Sonoma
+La Chuparosa,TX,Texas,48427,Starr
+Creston,CA,California,6079,San Luis Obispo
+Weston,CO,Colorado,8071,Las Animas
+Los Veteranos II,TX,Texas,48427,Starr
+Santiago,WA,Washington,53027,Grays Harbor
+Tanquecitos South Acres,TX,Texas,48479,Webb
+Old Station,CA,California,6089,Shasta
+Botines,TX,Texas,48479,Webb
+Impact,TX,Texas,48441,Taylor
+Samnorwood,TX,Texas,48087,Collingsworth
+Jenner,CA,California,6097,Sonoma
+Greenbackville,VA,Virginia,51001,Accomack
+Mentone,TX,Texas,48301,Loving
+No Name,CO,Colorado,8045,Garfield
+Prattville,CA,California,6063,Plumas
+Amada Acres,TX,Texas,48427,Starr
+El Brazil,TX,Texas,48427,Starr
+Goodyears Bar,CA,California,6091,Sierra
+Tennant,CA,California,6093,Siskiyou
+Little Valley,CA,California,6035,Lassen
+Amaya,TX,Texas,48507,Zavala
+Fernando Salinas,TX,Texas,48427,Starr
+Mabie,CA,California,6063,Plumas
+Disautel,WA,Washington,53047,Okanogan
+Victoria Vera,TX,Texas,48427,Starr
+Lipscomb,TX,Texas,48295,Lipscomb
+Redcrest,CA,California,6023,Humboldt
+Falman,TX,Texas,48409,San Patricio
+Aspen Springs,CA,California,6051,Mono
+Conejos,CO,Colorado,8021,Conejos
+Vantage,WA,Washington,53037,Kittitas
+Airport Heights,TX,Texas,48427,Starr
+Rivereno,TX,Texas,48427,Starr
+Mustang,TX,Texas,48349,Navarro
+Drytown,CA,California,6005,Amador
+El Indio,TX,Texas,48323,Maverick
+Piedra,CO,Colorado,8053,Hinsdale
+Spring Garden,CA,California,6063,Plumas
+Salmon Creek,CA,California,6097,Sonoma
+Olivia Lopez de Gutierrez,TX,Texas,48427,Starr
+Bonanza,CO,Colorado,8109,Saguache
+Los Minerales,TX,Texas,48479,Webb
+Los Ybanez,TX,Texas,48115,Dawson
+Towner,CO,Colorado,8061,Kiowa
+Ponderosa,CA,California,6107,Tulare
+Sunset Acres,TX,Texas,48479,Webb
+Kendall,WA,Washington,53073,Whatcom
+Blairsden,CA,California,6063,Plumas
+Valdez,CO,Colorado,8071,Las Animas
+Peyton,CO,Colorado,8041,El Paso
+Cuyama,CA,California,6083,Santa Barbara
+Shoshone,CA,California,6027,Inyo
+Flowella,TX,Texas,48047,Brooks
+Alfred,TX,Texas,48249,Jim Wells
+Silvana,WA,Washington,53061,Snohomish
+Eldora,CO,Colorado,8013,Boulder
+Falcon Heights,TX,Texas,48427,Starr
+Pablo Pena,TX,Texas,48427,Starr
+Los Huisaches,TX,Texas,48479,Webb
+Graniteville,CA,California,6057,Nevada
+Cathedral,CO,Colorado,8053,Hinsdale
+Girard,TX,Texas,48263,Kent
+Buck Meadows,CA,California,6043,Mariposa
+Keeler,CA,California,6027,Inyo
+Guffey,CO,Colorado,8093,Park
+Cotopaxi,CO,Colorado,8043,Fremont
+Sugarloaf Village,CA,California,6107,Tulare
+Lakeside,CO,Colorado,8059,Jefferson
+Elbert,TX,Texas,48447,Throckmorton
+Santel,TX,Texas,48427,Starr
+Quail,TX,Texas,48087,Collingsworth
+Pearsonville,CA,California,6027,Inyo
+Elias-Fela Solis,TX,Texas,48427,Starr
+Brandon,CO,Colorado,8061,Kiowa
+Cartago,CA,California,6027,Inyo
+San Fernando,TX,Texas,48427,Starr
+Poso Park,CA,California,6107,Tulare
