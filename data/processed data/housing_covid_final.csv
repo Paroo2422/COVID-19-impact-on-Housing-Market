@@ -1,0 +1,1249 @@
+State,County,Date,House_avg_price,#Covid_cases
+California,Fresno,2020-01-31,271815.0,0
+California,Fresno,2020-02-29,272509.0,0
+California,Fresno,2020-03-31,274642.0,61
+California,Fresno,2020-04-30,276982.0,511
+California,Fresno,2020-05-31,278206.0,1252
+California,Fresno,2020-06-30,277664.0,3077
+California,Fresno,2020-07-31,280295.0,10382
+California,Fresno,2020-08-31,284475.0,10211
+California,Fresno,2020-09-30,290007.0,3610
+California,Fresno,2020-10-31,292739.0,2989
+California,Fresno,2020-11-30,295730.0,8310
+California,Fresno,2020-12-31,299447.0,31153
+California,Fresno,2021-01-31,303101.0,24372
+California,Fresno,2021-02-28,306552.0,7399
+California,Fresno,2021-03-31,311093.0,4246
+California,Fresno,2021-04-30,316604.0,2307
+California,Fresno,2021-05-31,323959.0,1393
+California,Fresno,2021-06-30,331603.0,58
+California,Fresno,2021-07-31,340951.0,2562
+California,Fresno,2021-08-31,349249.0,13775
+California,Fresno,2021-09-30,356215.0,12273
+California,Fresno,2021-10-31,359221.0,10456
+California,Fresno,2021-11-30,361977.0,6654
+California,Fresno,2021-12-31,364020.0,6235
+California,Kern,2020-01-31,232508.0,0
+California,Kern,2020-02-29,233420.0,0
+California,Kern,2020-03-31,235945.0,83
+California,Kern,2020-04-30,238145.0,810
+California,Kern,2020-05-31,238972.0,1357
+California,Kern,2020-06-30,239262.0,2405
+California,Kern,2020-07-31,241432.0,14680
+California,Kern,2020-08-31,244510.0,9989
+California,Kern,2020-09-30,247789.0,2804
+California,Kern,2020-10-31,249982.0,2250
+California,Kern,2020-11-30,252874.0,7579
+California,Kern,2020-12-31,257122.0,27012
+California,Kern,2021-01-31,261402.0,25144
+California,Kern,2021-02-28,265299.0,9182
+California,Kern,2021-03-31,267504.0,2944
+California,Kern,2021-04-30,271428.0,2306
+California,Kern,2021-05-31,275835.0,1586
+California,Kern,2021-06-30,281928.0,929
+California,Kern,2021-07-31,288437.0,2156
+California,Kern,2021-08-31,295834.0,11727
+California,Kern,2021-09-30,302686.0,14078
+California,Kern,2021-10-31,308485.0,9969
+California,Kern,2021-11-30,311876.0,8672
+California,Kern,2021-12-31,313603.0,5105
+California,Los Angeles,2020-01-31,677231.0,0
+California,Los Angeles,2020-02-29,683327.0,0
+California,Los Angeles,2020-03-31,690287.0,3018
+California,Los Angeles,2020-04-30,695409.0,20201
+California,Los Angeles,2020-05-31,693500.0,31781
+California,Los Angeles,2020-06-30,690600.0,48849
+California,Los Angeles,2020-07-31,692341.0,84691
+California,Los Angeles,2020-08-31,701511.0,53227
+California,Los Angeles,2020-09-30,712123.0,28531
+California,Los Angeles,2020-10-31,722085.0,37319
+California,Los Angeles,2020-11-30,729573.0,93830
+California,Los Angeles,2020-12-31,735908.0,370071
+California,Los Angeles,2021-01-31,741042.0,345429
+California,Los Angeles,2021-02-28,748530.0,74975
+California,Los Angeles,2021-03-31,756399.0,27691
+California,Los Angeles,2021-04-30,767442.0,13477
+California,Los Angeles,2021-05-31,783105.0,10963
+California,Los Angeles,2021-06-30,802909.0,6186
+California,Los Angeles,2021-07-31,823806.0,50073
+California,Los Angeles,2021-08-31,837248.0,107004
+California,Los Angeles,2021-09-30,846358.0,51865
+California,Los Angeles,2021-10-31,851116.0,33988
+California,Los Angeles,2021-11-30,858319.0,33962
+California,Los Angeles,2021-12-31,867616.0,169450
+California,Monterey,2020-01-31,604412.0,0
+California,Monterey,2020-02-29,607448.0,0
+California,Monterey,2020-03-31,610262.0,43
+California,Monterey,2020-04-30,610961.0,171
+California,Monterey,2020-05-31,615443.0,333
+California,Monterey,2020-06-30,618731.0,1116
+California,Monterey,2020-07-31,622764.0,2844
+California,Monterey,2020-08-31,626757.0,3354
+California,Monterey,2020-09-30,634052.0,2076
+California,Monterey,2020-10-31,641740.0,1685
+California,Monterey,2020-11-30,648399.0,4515
+California,Monterey,2020-12-31,656026.0,12349
+California,Monterey,2021-01-31,664196.0,11974
+California,Monterey,2021-02-28,672150.0,2928
+California,Monterey,2021-03-31,682060.0,713
+California,Monterey,2021-04-30,691057.0,567
+California,Monterey,2021-05-31,702717.0,264
+California,Monterey,2021-06-30,719409.0,166
+California,Monterey,2021-07-31,741716.0,652
+California,Monterey,2021-08-31,762883.0,2209
+California,Monterey,2021-09-30,776192.0,1689
+California,Monterey,2021-10-31,783995.0,1004
+California,Monterey,2021-11-30,790018.0,1158
+California,Monterey,2021-12-31,797362.0,2431
+California,Napa,2020-01-31,694364.0,0
+California,Napa,2020-02-29,691320.0,0
+California,Napa,2020-03-31,691801.0,9
+California,Napa,2020-04-30,695881.0,60
+California,Napa,2020-05-31,701855.0,45
+California,Napa,2020-06-30,702690.0,228
+California,Napa,2020-07-31,705532.0,555
+California,Napa,2020-08-31,709791.0,543
+California,Napa,2020-09-30,719819.0,296
+California,Napa,2020-10-31,732330.0,313
+California,Napa,2020-11-30,743920.0,1061
+California,Napa,2020-12-31,758447.0,2717
+California,Napa,2021-01-31,772865.0,2610
+California,Napa,2021-02-28,783742.0,650
+California,Napa,2021-03-31,788441.0,348
+California,Napa,2021-04-30,793891.0,393
+California,Napa,2021-05-31,803959.0,158
+California,Napa,2021-06-30,825445.0,93
+California,Napa,2021-07-31,847916.0,377
+California,Napa,2021-08-31,864903.0,1238
+California,Napa,2021-09-30,873605.0,836
+California,Napa,2021-10-31,874807.0,488
+California,Napa,2021-11-30,873609.0,410
+California,Napa,2021-12-31,870995.0,1280
+California,Riverside,2020-01-31,385421.0,0
+California,Riverside,2020-02-29,386998.0,1
+California,Riverside,2020-03-31,388474.0,288
+California,Riverside,2020-04-30,390852.0,3546
+California,Riverside,2020-05-31,392177.0,3889
+California,Riverside,2020-06-30,393090.0,10957
+California,Riverside,2020-07-31,395384.0,18970
+California,Riverside,2020-08-31,400003.0,14921
+California,Riverside,2020-09-30,405687.0,6701
+California,Riverside,2020-10-31,411272.0,9428
+California,Riverside,2020-11-30,417158.0,21404
+California,Riverside,2020-12-31,423519.0,103311
+California,Riverside,2021-01-31,429655.0,85611
+California,Riverside,2021-02-28,436104.0,13619
+California,Riverside,2021-03-31,443281.0,4045
+California,Riverside,2021-04-30,452624.0,4221
+California,Riverside,2021-05-31,464260.0,2087
+California,Riverside,2021-06-30,477380.0,4466
+California,Riverside,2021-07-31,492449.0,7572
+California,Riverside,2021-08-31,506258.0,29007
+California,Riverside,2021-09-30,518001.0,19203
+California,Riverside,2021-10-31,525035.0,12170
+California,Riverside,2021-11-30,529532.0,12097
+California,Riverside,2021-12-31,534490.0,28301
+California,Sacramento,2020-01-31,430619.0,0
+California,Sacramento,2020-02-29,433420.0,0
+California,Sacramento,2020-03-31,436594.0,270
+California,Sacramento,2020-04-30,439305.0,800
+California,Sacramento,2020-05-31,439037.0,329
+California,Sacramento,2020-06-30,437614.0,1852
+California,Sacramento,2020-07-31,439020.0,6633
+California,Sacramento,2020-08-31,443524.0,8130
+California,Sacramento,2020-09-30,450684.0,4624
+California,Sacramento,2020-10-31,458559.0,3713
+California,Sacramento,2020-11-30,466241.0,11644
+California,Sacramento,2020-12-31,473559.0,28510
+California,Sacramento,2021-01-31,478873.0,21147
+California,Sacramento,2021-02-28,486087.0,7089
+California,Sacramento,2021-03-31,492617.0,4465
+California,Sacramento,2021-04-30,501831.0,5354
+California,Sacramento,2021-05-31,511814.0,3516
+California,Sacramento,2021-06-30,524887.0,1949
+California,Sacramento,2021-07-31,540273.0,7517
+California,Sacramento,2021-08-31,554120.0,23512
+California,Sacramento,2021-09-30,564964.0,12862
+California,Sacramento,2021-10-31,568802.0,8376
+California,Sacramento,2021-11-30,571779.0,6129
+California,Sacramento,2021-12-31,575412.0,11591
+California,San Diego,2020-01-31,606832.0,0
+California,San Diego,2020-02-29,610088.0,2
+California,San Diego,2020-03-31,615764.0,601
+California,San Diego,2020-04-30,619720.0,2961
+California,San Diego,2020-05-31,622654.0,3917
+California,San Diego,2020-06-30,622896.0,6669
+California,San Diego,2020-07-31,626493.0,14908
+California,San Diego,2020-08-31,633206.0,10045
+California,San Diego,2020-09-30,643362.0,9128
+California,San Diego,2020-10-31,654455.0,10271
+California,San Diego,2020-11-30,666597.0,27058
+California,San Diego,2020-12-31,677289.0,78014
+California,San Diego,2021-01-31,686773.0,86215
+California,San Diego,2021-02-28,695207.0,23462
+California,San Diego,2021-03-31,705512.0,10607
+California,San Diego,2021-04-30,719643.0,6793
+California,San Diego,2021-05-31,740781.0,4573
+California,San Diego,2021-06-30,765128.0,2806
+California,San Diego,2021-07-31,789136.0,14305
+California,San Diego,2021-08-31,803874.0,41712
+California,San Diego,2021-09-30,813658.0,23229
+California,San Diego,2021-10-31,818427.0,14195
+California,San Diego,2021-11-30,826012.0,15456
+California,San Diego,2021-12-31,837420.0,44092
+California,San Francisco,2020-01-31,1116237.0,0
+California,San Francisco,2020-02-29,1123904.0,0
+California,San Francisco,2020-03-31,1134712.0,404
+California,San Francisco,2020-04-30,1136020.0,1114
+California,San Francisco,2020-05-31,1126522.0,983
+California,San Francisco,2020-06-30,1116405.0,1055
+California,San Francisco,2020-07-31,1117590.0,2577
+California,San Francisco,2020-08-31,1133375.0,3174
+California,San Francisco,2020-09-30,1145830.0,1969
+California,San Francisco,2020-10-31,1156597.0,1214
+California,San Francisco,2020-11-30,1165072.0,3270
+California,San Francisco,2020-12-31,1171282.0,8222
+California,San Francisco,2021-01-31,1176055.0,8485
+California,San Francisco,2021-02-28,1185378.0,2920
+California,San Francisco,2021-03-31,1200602.0,1183
+California,San Francisco,2021-04-30,1221359.0,1169
+California,San Francisco,2021-05-31,1249813.0,595
+California,San Francisco,2021-06-30,1282721.0,67
+California,San Francisco,2021-07-31,1316235.0,3642
+California,San Francisco,2021-08-31,1336965.0,7460
+California,San Francisco,2021-09-30,1349165.0,3115
+California,San Francisco,2021-10-31,1353613.0,2111
+California,San Francisco,2021-11-30,1363362.0,1893
+California,San Francisco,2021-12-31,1374422.0,11170
+California,San Joaquin,2020-01-31,377240.0,0
+California,San Joaquin,2020-02-29,380215.0,3
+California,San Joaquin,2020-03-31,382404.0,122
+California,San Joaquin,2020-04-30,385913.0,426
+California,San Joaquin,2020-05-31,386467.0,341
+California,San Joaquin,2020-06-30,384719.0,2856
+California,San Joaquin,2020-07-31,386638.0,7825
+California,San Joaquin,2020-08-31,389651.0,6271
+California,San Joaquin,2020-09-30,397525.0,2367
+California,San Joaquin,2020-10-31,403157.0,1964
+California,San Joaquin,2020-11-30,410535.0,4151
+California,San Joaquin,2020-12-31,417627.0,21201
+California,San Joaquin,2021-01-31,426337.0,16400
+California,San Joaquin,2021-02-28,437028.0,4535
+California,San Joaquin,2021-03-31,445245.0,3437
+California,San Joaquin,2021-04-30,451664.0,2890
+California,San Joaquin,2021-05-31,461345.0,1661
+California,San Joaquin,2021-06-30,474936.0,1014
+California,San Joaquin,2021-07-31,494169.0,3103
+California,San Joaquin,2021-08-31,508800.0,11489
+California,San Joaquin,2021-09-30,519998.0,7706
+California,San Joaquin,2021-10-31,523935.0,4564
+California,San Joaquin,2021-11-30,526471.0,3319
+California,San Joaquin,2021-12-31,526795.0,5136
+California,San Luis Obispo,2020-01-31,631104.0,0
+California,San Luis Obispo,2020-02-29,636273.0,0
+California,San Luis Obispo,2020-03-31,639259.0,67
+California,San Luis Obispo,2020-04-30,642814.0,118
+California,San Luis Obispo,2020-05-31,641408.0,90
+California,San Luis Obispo,2020-06-30,641037.0,315
+California,San Luis Obispo,2020-07-31,642164.0,1167
+California,San Luis Obispo,2020-08-31,648079.0,1212
+California,San Luis Obispo,2020-09-30,656274.0,649
+California,San Luis Obispo,2020-10-31,663475.0,708
+California,San Luis Obispo,2020-11-30,669417.0,2016
+California,San Luis Obispo,2020-12-31,674352.0,4783
+California,San Luis Obispo,2021-01-31,681556.0,6978
+California,San Luis Obispo,2021-02-28,687567.0,1886
+California,San Luis Obispo,2021-03-31,696681.0,859
+California,San Luis Obispo,2021-04-30,703354.0,758
+California,San Luis Obispo,2021-05-31,715584.0,362
+California,San Luis Obispo,2021-06-30,730181.0,124
+California,San Luis Obispo,2021-07-31,747457.0,654
+California,San Luis Obispo,2021-08-31,763143.0,3770
+California,San Luis Obispo,2021-09-30,774325.0,2536
+California,San Luis Obispo,2021-10-31,783874.0,1358
+California,San Luis Obispo,2021-11-30,795396.0,1110
+California,San Luis Obispo,2021-12-31,806291.0,2404
+California,Santa Barbara,2020-01-31,650989.0,0
+California,Santa Barbara,2020-02-29,653860.0,0
+California,Santa Barbara,2020-03-31,655521.0,89
+California,Santa Barbara,2020-04-30,661559.0,403
+California,Santa Barbara,2020-05-31,665904.0,1182
+California,Santa Barbara,2020-06-30,666734.0,1458
+California,Santa Barbara,2020-07-31,664538.0,3308
+California,Santa Barbara,2020-08-31,668708.0,1753
+California,Santa Barbara,2020-09-30,676750.0,1072
+California,Santa Barbara,2020-10-31,687980.0,790
+California,Santa Barbara,2020-11-30,695718.0,1735
+California,Santa Barbara,2020-12-31,704398.0,6214
+California,Santa Barbara,2021-01-31,712285.0,11538
+California,Santa Barbara,2021-02-28,720754.0,3449
+California,Santa Barbara,2021-03-31,731318.0,1218
+California,Santa Barbara,2021-04-30,741051.0,1046
+California,Santa Barbara,2021-05-31,758972.0,313
+California,Santa Barbara,2021-06-30,780019.0,166
+California,Santa Barbara,2021-07-31,807213.0,1090
+California,Santa Barbara,2021-08-31,828931.0,3708
+California,Santa Barbara,2021-09-30,844930.0,3455
+California,Santa Barbara,2021-10-31,857845.0,1743
+California,Santa Barbara,2021-11-30,869547.0,1590
+California,Santa Barbara,2021-12-31,882501.0,4164
+California,Santa Clara,2020-01-31,1231393.0,0
+California,Santa Clara,2020-02-29,1246884.0,0
+California,Santa Clara,2020-03-31,1267368.0,774
+California,Santa Clara,2020-04-30,1272661.0,1401
+California,Santa Clara,2020-05-31,1255132.0,618
+California,Santa Clara,2020-06-30,1238652.0,1565
+California,Santa Clara,2020-07-31,1233996.0,5530
+California,Santa Clara,2020-08-31,1259500.0,7355
+California,Santa Clara,2020-09-30,1279678.0,4116
+California,Santa Clara,2020-10-31,1297520.0,3643
+California,Santa Clara,2020-11-30,1310799.0,10122
+California,Santa Clara,2020-12-31,1322272.0,35216
+California,Santa Clara,2021-01-31,1331110.0,32120
+California,Santa Clara,2021-02-28,1333139.0,8682
+California,Santa Clara,2021-03-31,1336543.0,4013
+California,Santa Clara,2021-04-30,1352614.0,3762
+California,Santa Clara,2021-05-31,1391661.0,1371
+California,Santa Clara,2021-06-30,1439698.0,-568
+California,Santa Clara,2021-07-31,1477560.0,3765
+California,Santa Clara,2021-08-31,1498828.0,12181
+California,Santa Clara,2021-09-30,1505111.0,6725
+California,Santa Clara,2021-10-31,1514055.0,4779
+California,Santa Clara,2021-11-30,1528797.0,5190
+California,Santa Clara,2021-12-31,1549756.0,14948
+California,Santa Cruz,2020-01-31,858163.0,0
+California,Santa Cruz,2020-02-29,865539.0,0
+California,Santa Cruz,2020-03-31,873946.0,40
+California,Santa Cruz,2020-04-30,878889.0,86
+California,Santa Cruz,2020-05-31,876685.0,84
+California,Santa Cruz,2020-06-30,872566.0,169
+California,Santa Cruz,2020-07-31,875802.0,747
+California,Santa Cruz,2020-08-31,890809.0,633
+California,Santa Cruz,2020-09-30,907363.0,679
+California,Santa Cruz,2020-10-31,922745.0,492
+California,Santa Cruz,2020-11-30,935286.0,1698
+California,Santa Cruz,2020-12-31,947532.0,4665
+California,Santa Cruz,2021-01-31,958576.0,4880
+California,Santa Cruz,2021-02-28,964148.0,1185
+California,Santa Cruz,2021-03-31,976340.0,745
+California,Santa Cruz,2021-04-30,997180.0,687
+California,Santa Cruz,2021-05-31,1030582.0,166
+California,Santa Cruz,2021-06-30,1066456.0,115
+California,Santa Cruz,2021-07-31,1095399.0,343
+California,Santa Cruz,2021-08-31,1116135.0,1957
+California,Santa Cruz,2021-09-30,1125526.0,1075
+California,Santa Cruz,2021-10-31,1132590.0,786
+California,Santa Cruz,2021-11-30,1143750.0,980
+California,Santa Cruz,2021-12-31,1154894.0,1997
+California,Shasta,2020-01-31,283054.0,0
+California,Shasta,2020-02-29,282868.0,0
+California,Shasta,2020-03-31,281919.0,5
+California,Shasta,2020-04-30,283866.0,26
+California,Shasta,2020-05-31,285560.0,7
+California,Shasta,2020-06-30,286116.0,63
+California,Shasta,2020-07-31,287112.0,207
+California,Shasta,2020-08-31,289662.0,223
+California,Shasta,2020-09-30,294535.0,458
+California,Shasta,2020-10-31,299961.0,1155
+California,Shasta,2020-11-30,304431.0,3046
+California,Shasta,2020-12-31,309117.0,3566
+California,Shasta,2021-01-31,311895.0,2653
+California,Shasta,2021-02-28,315155.0,818
+California,Shasta,2021-03-31,319723.0,462
+California,Shasta,2021-04-30,326816.0,637
+California,Shasta,2021-05-31,334491.0,677
+California,Shasta,2021-06-30,341828.0,224
+California,Shasta,2021-07-31,350524.0,479
+California,Shasta,2021-08-31,358181.0,3059
+California,Shasta,2021-09-30,364724.0,4392
+California,Shasta,2021-10-31,365526.0,2546
+California,Shasta,2021-11-30,366313.0,1394
+California,Shasta,2021-12-31,367975.0,939
+California,Solano,2020-01-31,453778.0,0
+California,Solano,2020-02-29,454273.0,0
+California,Solano,2020-03-31,457909.0,33
+California,Solano,2020-04-30,459904.0,206
+California,Solano,2020-05-31,462868.0,251
+California,Solano,2020-06-30,463596.0,751
+California,Solano,2020-07-31,462495.0,2270
+California,Solano,2020-08-31,462528.0,1807
+California,Solano,2020-09-30,466888.0,1015
+California,Solano,2020-10-31,474785.0,1230
+California,Solano,2020-11-30,481599.0,2888
+California,Solano,2020-12-31,486865.0,8682
+California,Solano,2021-01-31,492551.0,8849
+California,Solano,2021-02-28,499240.0,2116
+California,Solano,2021-03-31,508041.0,1119
+California,Solano,2021-04-30,515919.0,1317
+California,Solano,2021-05-31,526710.0,976
+California,Solano,2021-06-30,537330.0,501
+California,Solano,2021-07-31,551743.0,2066
+California,Solano,2021-08-31,565152.0,6013
+California,Solano,2021-09-30,574915.0,2851
+California,Solano,2021-10-31,580250.0,1586
+California,Solano,2021-11-30,584508.0,1201
+California,Solano,2021-12-31,592241.0,2898
+California,Sonoma,2020-01-31,646357.0,0
+California,Sonoma,2020-02-29,655736.0,0
+California,Sonoma,2020-03-31,659598.0,58
+California,Sonoma,2020-04-30,656678.0,175
+California,Sonoma,2020-05-31,651517.0,323
+California,Sonoma,2020-06-30,646635.0,570
+California,Sonoma,2020-07-31,646527.0,1625
+California,Sonoma,2020-08-31,650727.0,2918
+California,Sonoma,2020-09-30,662691.0,1846
+California,Sonoma,2020-10-31,673336.0,2165
+California,Sonoma,2020-11-30,684161.0,2628
+California,Sonoma,2020-12-31,692398.0,6932
+California,Sonoma,2021-01-31,697860.0,6824
+California,Sonoma,2021-02-28,700620.0,2345
+California,Sonoma,2021-03-31,706419.0,1079
+California,Sonoma,2021-04-30,716490.0,644
+California,Sonoma,2021-05-31,727979.0,519
+California,Sonoma,2021-06-30,738828.0,662
+California,Sonoma,2021-07-31,752009.0,1682
+California,Sonoma,2021-08-31,765861.0,4841
+California,Sonoma,2021-09-30,774709.0,2153
+California,Sonoma,2021-10-31,775016.0,1712
+California,Sonoma,2021-11-30,773179.0,1523
+California,Sonoma,2021-12-31,768213.0,3598
+California,Stanislaus,2020-01-31,331263.0,0
+California,Stanislaus,2020-02-29,333618.0,2
+California,Stanislaus,2020-03-31,335061.0,29
+California,Stanislaus,2020-04-30,336520.0,351
+California,Stanislaus,2020-05-31,340207.0,361
+California,Stanislaus,2020-06-30,342173.0,1841
+California,Stanislaus,2020-07-31,344852.0,6526
+California,Stanislaus,2020-08-31,347151.0,5943
+California,Stanislaus,2020-09-30,351610.0,2033
+California,Stanislaus,2020-10-31,355605.0,1670
+California,Stanislaus,2020-11-30,359046.0,4946
+California,Stanislaus,2020-12-31,364086.0,14134
+California,Stanislaus,2021-01-31,369614.0,13029
+California,Stanislaus,2021-02-28,374468.0,4749
+California,Stanislaus,2021-03-31,378862.0,2804
+California,Stanislaus,2021-04-30,384135.0,2364
+California,Stanislaus,2021-05-31,392622.0,1530
+California,Stanislaus,2021-06-30,402025.0,755
+California,Stanislaus,2021-07-31,413893.0,1920
+California,Stanislaus,2021-08-31,423044.0,9645
+California,Stanislaus,2021-09-30,429897.0,7596
+California,Stanislaus,2021-10-31,434902.0,5037
+California,Stanislaus,2021-11-30,437275.0,3237
+California,Stanislaus,2021-12-31,440733.0,3678
+California,Tulare,2020-01-31,228006.0,0
+California,Tulare,2020-02-29,230559.0,0
+California,Tulare,2020-03-31,232133.0,44
+California,Tulare,2020-04-30,234719.0,599
+California,Tulare,2020-05-31,236571.0,1251
+California,Tulare,2020-06-30,239091.0,2326
+California,Tulare,2020-07-31,241888.0,5180
+California,Tulare,2020-08-31,245059.0,4646
+California,Tulare,2020-09-30,248089.0,2228
+California,Tulare,2020-10-31,250541.0,1964
+California,Tulare,2020-11-30,253787.0,4312
+California,Tulare,2020-12-31,256882.0,14947
+California,Tulare,2021-01-31,259907.0,13868
+California,Tulare,2021-02-28,262017.0,4033
+California,Tulare,2021-03-31,265191.0,1540
+California,Tulare,2021-04-30,268647.0,781
+California,Tulare,2021-05-31,272729.0,825
+California,Tulare,2021-06-30,278646.0,470
+California,Tulare,2021-07-31,286258.0,1203
+California,Tulare,2021-08-31,293727.0,7005
+California,Tulare,2021-09-30,299310.0,8458
+California,Tulare,2021-10-31,303762.0,6706
+California,Tulare,2021-11-30,307681.0,3741
+California,Tulare,2021-12-31,312151.0,3551
+Colorado,Boulder,2020-01-31,577161.0,0
+Colorado,Boulder,2020-02-29,578301.0,0
+Colorado,Boulder,2020-03-31,579217.0,107
+Colorado,Boulder,2020-04-30,579644.0,473
+Colorado,Boulder,2020-05-31,580143.0,400
+Colorado,Boulder,2020-06-30,580041.0,404
+Colorado,Boulder,2020-07-31,580794.0,488
+Colorado,Boulder,2020-08-31,583473.0,428
+Colorado,Boulder,2020-09-30,587477.0,2135
+Colorado,Boulder,2020-10-31,593741.0,1435
+Colorado,Boulder,2020-11-30,599886.0,5241
+Colorado,Boulder,2020-12-31,605536.0,3513
+Colorado,Boulder,2021-01-31,611299.0,2600
+Colorado,Boulder,2021-02-28,620622.0,1575
+Colorado,Boulder,2021-03-31,631028.0,1794
+Colorado,Boulder,2021-04-30,643878.0,2262
+Colorado,Boulder,2021-05-31,659054.0,820
+Colorado,Boulder,2021-06-30,678167.0,318
+Colorado,Boulder,2021-07-31,693915.0,738
+Colorado,Boulder,2021-08-31,704553.0,1632
+Colorado,Boulder,2021-09-30,712390.0,2195
+Colorado,Boulder,2021-10-31,719723.0,2508
+Colorado,Boulder,2021-11-30,729511.0,3526
+Colorado,Boulder,2021-12-31,741113.0,5171
+Colorado,Denver,2020-01-31,446258.0,0
+Colorado,Denver,2020-02-29,448425.0,0
+Colorado,Denver,2020-03-31,450274.0,539
+Colorado,Denver,2020-04-30,451769.0,2462
+Colorado,Denver,2020-05-31,453194.0,2774
+Colorado,Denver,2020-06-30,454213.0,1316
+Colorado,Denver,2020-07-31,455631.0,2532
+Colorado,Denver,2020-08-31,458794.0,1642
+Colorado,Denver,2020-09-30,463155.0,2094
+Colorado,Denver,2020-10-31,468442.0,6082
+Colorado,Denver,2020-11-30,474151.0,17263
+Colorado,Denver,2020-12-31,480150.0,10941
+Colorado,Denver,2021-01-31,486464.0,8089
+Colorado,Denver,2021-02-28,493254.0,3850
+Colorado,Denver,2021-03-31,500865.0,4794
+Colorado,Denver,2021-04-30,509492.0,6066
+Colorado,Denver,2021-05-31,521090.0,2674
+Colorado,Denver,2021-06-30,534376.0,1249
+Colorado,Denver,2021-07-31,548111.0,1743
+Colorado,Denver,2021-08-31,558073.0,4650
+Colorado,Denver,2021-09-30,565270.0,5076
+Colorado,Denver,2021-10-31,571458.0,6374
+Colorado,Denver,2021-11-30,579038.0,9760
+Colorado,Denver,2021-12-31,588258.0,15609
+Colorado,Eagle,2020-01-31,736971.0,0
+Colorado,Eagle,2020-02-29,738097.0,0
+Colorado,Eagle,2020-03-31,743731.0,227
+Colorado,Eagle,2020-04-30,753292.0,323
+Colorado,Eagle,2020-05-31,759667.0,37
+Colorado,Eagle,2020-06-30,759705.0,105
+Colorado,Eagle,2020-07-31,751566.0,334
+Colorado,Eagle,2020-08-31,742590.0,156
+Colorado,Eagle,2020-09-30,740047.0,80
+Colorado,Eagle,2020-10-31,743981.0,248
+Colorado,Eagle,2020-11-30,749365.0,880
+Colorado,Eagle,2020-12-31,747821.0,984
+Colorado,Eagle,2021-01-31,755631.0,1016
+Colorado,Eagle,2021-02-28,757545.0,675
+Colorado,Eagle,2021-03-31,775027.0,673
+Colorado,Eagle,2021-04-30,791490.0,477
+Colorado,Eagle,2021-05-31,821860.0,108
+Colorado,Eagle,2021-06-30,851701.0,36
+Colorado,Eagle,2021-07-31,883917.0,168
+Colorado,Eagle,2021-08-31,918516.0,693
+Colorado,Eagle,2021-09-30,949261.0,679
+Colorado,Eagle,2021-10-31,975296.0,534
+Colorado,Eagle,2021-11-30,997291.0,829
+Colorado,Eagle,2021-12-31,1018243.0,2384
+Colorado,El Paso,2020-01-31,322665.0,0
+Colorado,El Paso,2020-02-29,325426.0,0
+Colorado,El Paso,2020-03-31,328672.0,286
+Colorado,El Paso,2020-04-30,331711.0,646
+Colorado,El Paso,2020-05-31,334070.0,800
+Colorado,El Paso,2020-06-30,335929.0,642
+Colorado,El Paso,2020-07-31,338066.0,2099
+Colorado,El Paso,2020-08-31,341231.0,1545
+Colorado,El Paso,2020-09-30,345133.0,944
+Colorado,El Paso,2020-10-31,349834.0,3942
+Colorado,El Paso,2020-11-30,356328.0,16293
+Colorado,El Paso,2020-12-31,362171.0,14025
+Colorado,El Paso,2021-01-31,368527.0,6555
+Colorado,El Paso,2021-02-28,372876.0,4198
+Colorado,El Paso,2021-03-31,382929.0,4632
+Colorado,El Paso,2021-04-30,392582.0,7279
+Colorado,El Paso,2021-05-31,404731.0,6514
+Colorado,El Paso,2021-06-30,414159.0,2968
+Colorado,El Paso,2021-07-31,424092.0,2863
+Colorado,El Paso,2021-08-31,432780.0,6290
+Colorado,El Paso,2021-09-30,440318.0,9303
+Colorado,El Paso,2021-10-31,446513.0,10684
+Colorado,El Paso,2021-11-30,451496.0,11956
+Colorado,El Paso,2021-12-31,456810.0,11180
+Colorado,Garfield,2020-01-31,548911.0,0
+Colorado,Garfield,2020-02-29,550657.0,0
+Colorado,Garfield,2020-03-31,551591.0,33
+Colorado,Garfield,2020-04-30,551690.0,60
+Colorado,Garfield,2020-05-31,552715.0,46
+Colorado,Garfield,2020-06-30,553257.0,159
+Colorado,Garfield,2020-07-31,557075.0,393
+Colorado,Garfield,2020-08-31,560085.0,153
+Colorado,Garfield,2020-09-30,564841.0,112
+Colorado,Garfield,2020-10-31,570022.0,274
+Colorado,Garfield,2020-11-30,576457.0,1016
+Colorado,Garfield,2020-12-31,583999.0,1629
+Colorado,Garfield,2021-01-31,592579.0,940
+Colorado,Garfield,2021-02-28,601518.0,281
+Colorado,Garfield,2021-03-31,611756.0,318
+Colorado,Garfield,2021-04-30,622567.0,346
+Colorado,Garfield,2021-05-31,636539.0,193
+Colorado,Garfield,2021-06-30,650686.0,229
+Colorado,Garfield,2021-07-31,665336.0,290
+Colorado,Garfield,2021-08-31,677761.0,273
+Colorado,Garfield,2021-09-30,689868.0,500
+Colorado,Garfield,2021-10-31,701390.0,747
+Colorado,Garfield,2021-11-30,710153.0,747
+Colorado,Garfield,2021-12-31,722727.0,1126
+Colorado,Larimer,2020-01-31,416497.0,0
+Colorado,Larimer,2020-02-29,417558.0,0
+Colorado,Larimer,2020-03-31,418868.0,99
+Colorado,Larimer,2020-04-30,421331.0,264
+Colorado,Larimer,2020-05-31,423366.0,220
+Colorado,Larimer,2020-06-30,424492.0,153
+Colorado,Larimer,2020-07-31,424769.0,623
+Colorado,Larimer,2020-08-31,425731.0,594
+Colorado,Larimer,2020-09-30,427527.0,683
+Colorado,Larimer,2020-10-31,431013.0,1804
+Colorado,Larimer,2020-11-30,434578.0,5813
+Colorado,Larimer,2020-12-31,438706.0,4846
+Colorado,Larimer,2021-01-31,443027.0,2966
+Colorado,Larimer,2021-02-28,448306.0,2007
+Colorado,Larimer,2021-03-31,453330.0,2214
+Colorado,Larimer,2021-04-30,458489.0,3148
+Colorado,Larimer,2021-05-31,466252.0,1544
+Colorado,Larimer,2021-06-30,477509.0,728
+Colorado,Larimer,2021-07-31,488745.0,1076
+Colorado,Larimer,2021-08-31,499586.0,2838
+Colorado,Larimer,2021-09-30,507840.0,3650
+Colorado,Larimer,2021-10-31,515399.0,4537
+Colorado,Larimer,2021-11-30,522413.0,5211
+Colorado,Larimer,2021-12-31,530951.0,5170
+Colorado,Mesa,2020-01-31,272507.0,0
+Colorado,Mesa,2020-02-29,276527.0,0
+Colorado,Mesa,2020-03-31,279343.0,14
+Colorado,Mesa,2020-04-30,279944.0,32
+Colorado,Mesa,2020-05-31,279049.0,8
+Colorado,Mesa,2020-06-30,279611.0,42
+Colorado,Mesa,2020-07-31,281449.0,159
+Colorado,Mesa,2020-08-31,283344.0,153
+Colorado,Mesa,2020-09-30,285189.0,235
+Colorado,Mesa,2020-10-31,287748.0,996
+Colorado,Mesa,2020-11-30,290472.0,4284
+Colorado,Mesa,2020-12-31,294150.0,3132
+Colorado,Mesa,2021-01-31,298065.0,3056
+Colorado,Mesa,2021-02-28,302403.0,1188
+Colorado,Mesa,2021-03-31,306558.0,413
+Colorado,Mesa,2021-04-30,311398.0,623
+Colorado,Mesa,2021-05-31,318001.0,1490
+Colorado,Mesa,2021-06-30,326050.0,1343
+Colorado,Mesa,2021-07-31,334632.0,1092
+Colorado,Mesa,2021-08-31,342699.0,1122
+Colorado,Mesa,2021-09-30,349580.0,2182
+Colorado,Mesa,2021-10-31,355589.0,2705
+Colorado,Mesa,2021-11-30,361437.0,3583
+Colorado,Mesa,2021-12-31,364403.0,2622
+Colorado,Montrose,2020-01-31,286834.0,0
+Colorado,Montrose,2020-02-29,287581.0,0
+Colorado,Montrose,2020-03-31,288479.0,13
+Colorado,Montrose,2020-04-30,289656.0,83
+Colorado,Montrose,2020-05-31,290239.0,76
+Colorado,Montrose,2020-06-30,290972.0,35
+Colorado,Montrose,2020-07-31,291802.0,67
+Colorado,Montrose,2020-08-31,292948.0,69
+Colorado,Montrose,2020-09-30,294158.0,42
+Colorado,Montrose,2020-10-31,296142.0,107
+Colorado,Montrose,2020-11-30,298177.0,623
+Colorado,Montrose,2020-12-31,301407.0,999
+Colorado,Montrose,2021-01-31,305113.0,910
+Colorado,Montrose,2021-02-28,308534.0,220
+Colorado,Montrose,2021-03-31,310582.0,84
+Colorado,Montrose,2021-04-30,313262.0,94
+Colorado,Montrose,2021-05-31,317659.0,172
+Colorado,Montrose,2021-06-30,326907.0,144
+Colorado,Montrose,2021-07-31,335312.0,286
+Colorado,Montrose,2021-08-31,344028.0,249
+Colorado,Montrose,2021-09-30,351000.0,412
+Colorado,Montrose,2021-10-31,357873.0,930
+Colorado,Montrose,2021-11-30,364899.0,1032
+Colorado,Montrose,2021-12-31,371164.0,383
+Colorado,Pueblo,2020-01-31,198908.0,0
+Colorado,Pueblo,2020-02-29,200932.0,0
+Colorado,Pueblo,2020-03-31,202718.0,21
+Colorado,Pueblo,2020-04-30,204466.0,118
+Colorado,Pueblo,2020-05-31,205981.0,156
+Colorado,Pueblo,2020-06-30,208153.0,95
+Colorado,Pueblo,2020-07-31,210323.0,207
+Colorado,Pueblo,2020-08-31,212703.0,271
+Colorado,Pueblo,2020-09-30,215006.0,261
+Colorado,Pueblo,2020-10-31,217647.0,1202
+Colorado,Pueblo,2020-11-30,220470.0,6263
+Colorado,Pueblo,2020-12-31,223325.0,4624
+Colorado,Pueblo,2021-01-31,226021.0,1121
+Colorado,Pueblo,2021-02-28,229317.0,668
+Colorado,Pueblo,2021-03-31,233473.0,823
+Colorado,Pueblo,2021-04-30,237899.0,1969
+Colorado,Pueblo,2021-05-31,242313.0,1295
+Colorado,Pueblo,2021-06-30,248290.0,494
+Colorado,Pueblo,2021-07-31,254622.0,347
+Colorado,Pueblo,2021-08-31,261979.0,911
+Colorado,Pueblo,2021-09-30,267858.0,1741
+Colorado,Pueblo,2021-10-31,274623.0,3104
+Colorado,Pueblo,2021-11-30,279718.0,3750
+Colorado,Pueblo,2021-12-31,284989.0,2225
+Colorado,Routt,2020-01-31,579741.0,0
+Colorado,Routt,2020-02-29,581005.0,0
+Colorado,Routt,2020-03-31,570063.0,17
+Colorado,Routt,2020-04-30,571958.0,39
+Colorado,Routt,2020-05-31,568937.0,6
+Colorado,Routt,2020-06-30,581202.0,11
+Colorado,Routt,2020-07-31,581590.0,26
+Colorado,Routt,2020-08-31,588770.0,35
+Colorado,Routt,2020-09-30,595803.0,25
+Colorado,Routt,2020-10-31,608360.0,71
+Colorado,Routt,2020-11-30,621469.0,432
+Colorado,Routt,2020-12-31,636062.0,380
+Colorado,Routt,2021-01-31,647446.0,580
+Colorado,Routt,2021-02-28,658632.0,265
+Colorado,Routt,2021-03-31,669260.0,182
+Colorado,Routt,2021-04-30,678535.0,111
+Colorado,Routt,2021-05-31,694440.0,73
+Colorado,Routt,2021-06-30,718786.0,35
+Colorado,Routt,2021-07-31,745882.0,141
+Colorado,Routt,2021-08-31,776306.0,243
+Colorado,Routt,2021-09-30,803020.0,415
+Colorado,Routt,2021-10-31,828846.0,331
+Colorado,Routt,2021-11-30,849040.0,414
+Colorado,Routt,2021-12-31,869414.0,526
+Colorado,Weld,2020-01-31,382223.0,0
+Colorado,Weld,2020-02-29,383936.0,0
+Colorado,Weld,2020-03-31,386418.0,255
+Colorado,Weld,2020-04-30,388561.0,1521
+Colorado,Weld,2020-05-31,389290.0,712
+Colorado,Weld,2020-06-30,389531.0,314
+Colorado,Weld,2020-07-31,390652.0,701
+Colorado,Weld,2020-08-31,392197.0,557
+Colorado,Weld,2020-09-30,394810.0,724
+Colorado,Weld,2020-10-31,398145.0,1799
+Colorado,Weld,2020-11-30,401459.0,7443
+Colorado,Weld,2020-12-31,404423.0,5899
+Colorado,Weld,2021-01-31,406691.0,3661
+Colorado,Weld,2021-02-28,410639.0,1879
+Colorado,Weld,2021-03-31,415559.0,2011
+Colorado,Weld,2021-04-30,423127.0,3045
+Colorado,Weld,2021-05-31,431181.0,2057
+Colorado,Weld,2021-06-30,440460.0,884
+Colorado,Weld,2021-07-31,451029.0,986
+Colorado,Weld,2021-08-31,461135.0,3091
+Colorado,Weld,2021-09-30,470641.0,4391
+Colorado,Weld,2021-10-31,477706.0,5173
+Colorado,Weld,2021-11-30,484227.0,5675
+Colorado,Weld,2021-12-31,489360.0,5061
+Texas,Bexar,2020-01-31,235624.0,0
+Texas,Bexar,2020-02-29,235671.0,0
+Texas,Bexar,2020-03-31,236455.0,168
+Texas,Bexar,2020-04-30,236573.0,1409
+Texas,Bexar,2020-05-31,236864.0,1264
+Texas,Bexar,2020-06-30,237089.0,9517
+Texas,Bexar,2020-07-31,238184.0,28043
+Texas,Bexar,2020-08-31,239752.0,15016
+Texas,Bexar,2020-09-30,242067.0,5898
+Texas,Bexar,2020-10-31,244686.0,5200
+Texas,Bexar,2020-11-30,247101.0,14757
+Texas,Bexar,2020-12-31,249203.0,38992
+Texas,Bexar,2021-01-31,251334.0,54003
+Texas,Bexar,2021-02-28,254161.0,26031
+Texas,Bexar,2021-03-31,257100.0,9687
+Texas,Bexar,2021-04-30,261007.0,11813
+Texas,Bexar,2021-05-31,265808.0,5679
+Texas,Bexar,2021-06-30,272303.0,3506
+Texas,Bexar,2021-07-31,278476.0,12646
+Texas,Bexar,2021-08-31,284864.0,43863
+Texas,Bexar,2021-09-30,289462.0,26985
+Texas,Bexar,2021-10-31,294145.0,11115
+Texas,Bexar,2021-11-30,298519.0,6381
+Texas,Bexar,2021-12-31,303881.0,13379
+Texas,Dallas,2020-01-31,256983.0,0
+Texas,Dallas,2020-02-29,257927.0,0
+Texas,Dallas,2020-03-31,259183.0,631
+Texas,Dallas,2020-04-30,259796.0,1532
+Texas,Dallas,2020-05-31,260209.0,4232
+Texas,Dallas,2020-06-30,260816.0,13919
+Texas,Dallas,2020-07-31,261868.0,28704
+Texas,Dallas,2020-08-31,264221.0,27285
+Texas,Dallas,2020-09-30,266816.0,8498
+Texas,Dallas,2020-10-31,269914.0,8370
+Texas,Dallas,2020-11-30,272295.0,23545
+Texas,Dallas,2020-12-31,274892.0,51157
+Texas,Dallas,2021-01-31,277213.0,65356
+Texas,Dallas,2021-02-28,280588.0,23504
+Texas,Dallas,2021-03-31,284606.0,10494
+Texas,Dallas,2021-04-30,290127.0,7532
+Texas,Dallas,2021-05-31,296537.0,4780
+Texas,Dallas,2021-06-30,303856.0,3207
+Texas,Dallas,2021-07-31,311657.0,10420
+Texas,Dallas,2021-08-31,319551.0,32031
+Texas,Dallas,2021-09-30,326735.0,38602
+Texas,Dallas,2021-10-31,332809.0,17167
+Texas,Dallas,2021-11-30,338271.0,8534
+Texas,Dallas,2021-12-31,344143.0,24575
+Texas,El Paso,2020-01-31,137288.0,0
+Texas,El Paso,2020-02-29,138248.0,0
+Texas,El Paso,2020-03-31,138706.0,53
+Texas,El Paso,2020-04-30,138927.0,339
+Texas,El Paso,2020-05-31,139037.0,538
+Texas,El Paso,2020-06-30,139465.0,1913
+Texas,El Paso,2020-07-31,140312.0,4108
+Texas,El Paso,2020-08-31,141276.0,5908
+Texas,El Paso,2020-09-30,143046.0,3683
+Texas,El Paso,2020-10-31,145153.0,16405
+Texas,El Paso,2020-11-30,147199.0,24811
+Texas,El Paso,2020-12-31,148952.0,20501
+Texas,El Paso,2021-01-31,150763.0,15097
+Texas,El Paso,2021-02-28,152580.0,10053
+Texas,El Paso,2021-03-31,154635.0,5805
+Texas,El Paso,2021-04-30,156521.0,4597
+Texas,El Paso,2021-05-31,159385.0,2014
+Texas,El Paso,2021-06-30,162345.0,516
+Texas,El Paso,2021-07-31,165509.0,1531
+Texas,El Paso,2021-08-31,168339.0,3796
+Texas,El Paso,2021-09-30,171226.0,3048
+Texas,El Paso,2021-10-31,173568.0,4523
+Texas,El Paso,2021-11-30,175617.0,10784
+Texas,El Paso,2021-12-31,177326.0,7250
+Texas,Gregg,2020-01-31,164232.0,0
+Texas,Gregg,2020-02-29,162211.0,0
+Texas,Gregg,2020-03-31,159748.0,5
+Texas,Gregg,2020-04-30,156733.0,52
+Texas,Gregg,2020-05-31,155015.0,77
+Texas,Gregg,2020-06-30,153705.0,90
+Texas,Gregg,2020-07-31,153437.0,380
+Texas,Gregg,2020-08-31,151280.0,685
+Texas,Gregg,2020-09-30,148347.0,301
+Texas,Gregg,2020-10-31,145443.0,150
+Texas,Gregg,2020-11-30,144354.0,1003
+Texas,Gregg,2020-12-31,144602.0,2182
+Texas,Gregg,2021-01-31,146646.0,2912
+Texas,Gregg,2021-02-28,151161.0,945
+Texas,Gregg,2021-03-31,156024.0,222
+Texas,Gregg,2021-04-30,159085.0,207
+Texas,Gregg,2021-05-31,160968.0,223
+Texas,Gregg,2021-06-30,163111.0,143
+Texas,Gregg,2021-07-31,165395.0,632
+Texas,Gregg,2021-08-31,168399.0,2758
+Texas,Gregg,2021-09-30,171454.0,3631
+Texas,Gregg,2021-10-31,174240.0,781
+Texas,Gregg,2021-11-30,176361.0,183
+Texas,Gregg,2021-12-31,179550.0,268
+Texas,Harris,2020-01-31,220603.0,0
+Texas,Harris,2020-02-29,220830.0,0
+Texas,Harris,2020-03-31,221426.0,680
+Texas,Harris,2020-04-30,222449.0,7237
+Texas,Harris,2020-05-31,223038.0,12299
+Texas,Harris,2020-06-30,223447.0,30569
+Texas,Harris,2020-07-31,223900.0,52958
+Texas,Harris,2020-08-31,224929.0,41435
+Texas,Harris,2020-09-30,226837.0,37109
+Texas,Harris,2020-10-31,228978.0,21389
+Texas,Harris,2020-11-30,231363.0,36424
+Texas,Harris,2020-12-31,233595.0,65468
+Texas,Harris,2021-01-31,235893.0,78024
+Texas,Harris,2021-02-28,238503.0,34151
+Texas,Harris,2021-03-31,240392.0,27306
+Texas,Harris,2021-04-30,242832.0,15670
+Texas,Harris,2021-05-31,245980.0,8540
+Texas,Harris,2021-06-30,251208.0,2563
+Texas,Harris,2021-07-31,256978.0,20355
+Texas,Harris,2021-08-31,262942.0,72560
+Texas,Harris,2021-09-30,267783.0,58494
+Texas,Harris,2021-10-31,272047.0,21610
+Texas,Harris,2021-11-30,275190.0,9534
+Texas,Harris,2021-12-31,278584.0,66554
+Texas,Lubbock,2020-01-31,148590.0,0
+Texas,Lubbock,2020-02-29,149308.0,0
+Texas,Lubbock,2020-03-31,150457.0,77
+Texas,Lubbock,2020-04-30,151550.0,76
+Texas,Lubbock,2020-05-31,152501.0,1
+Texas,Lubbock,2020-06-30,153078.0,45
+Texas,Lubbock,2020-07-31,153810.0,1502
+Texas,Lubbock,2020-08-31,154866.0,1362
+Texas,Lubbock,2020-09-30,156434.0,5077
+Texas,Lubbock,2020-10-31,158423.0,5175
+Texas,Lubbock,2020-11-30,159832.0,12584
+Texas,Lubbock,2020-12-31,160883.0,9081
+Texas,Lubbock,2021-01-31,161715.0,4984
+Texas,Lubbock,2021-02-28,162951.0,1285
+Texas,Lubbock,2021-03-31,164417.0,430
+Texas,Lubbock,2021-04-30,166436.0,313
+Texas,Lubbock,2021-05-31,168788.0,429
+Texas,Lubbock,2021-06-30,171428.0,184
+Texas,Lubbock,2021-07-31,173581.0,1403
+Texas,Lubbock,2021-08-31,176040.0,5692
+Texas,Lubbock,2021-09-30,178615.0,7042
+Texas,Lubbock,2021-10-31,181648.0,2116
+Texas,Lubbock,2021-11-30,184201.0,2120
+Texas,Lubbock,2021-12-31,186669.0,4018
+Texas,Travis,2020-01-31,337772.0,0
+Texas,Travis,2020-02-29,339534.0,0
+Texas,Travis,2020-03-31,341859.0,244
+Texas,Travis,2020-04-30,344481.0,-202
+Texas,Travis,2020-05-31,347107.0,38
+Texas,Travis,2020-06-30,348689.0,8095
+Texas,Travis,2020-07-31,350707.0,9362
+Texas,Travis,2020-08-31,354065.0,8770
+Texas,Travis,2020-09-30,359414.0,3863
+Texas,Travis,2020-10-31,365078.0,3118
+Texas,Travis,2020-11-30,371740.0,6961
+Texas,Travis,2020-12-31,377613.0,16296
+Texas,Travis,2021-01-31,383265.0,18096
+Texas,Travis,2021-02-28,393785.0,7327
+Texas,Travis,2021-03-31,409399.0,3468
+Texas,Travis,2021-04-30,431228.0,3172
+Texas,Travis,2021-05-31,453042.0,1465
+Texas,Travis,2021-06-30,476635.0,984
+Texas,Travis,2021-07-31,496521.0,4727
+Texas,Travis,2021-08-31,512070.0,13736
+Texas,Travis,2021-09-30,520051.0,11939
+Texas,Travis,2021-10-31,526965.0,4654
+Texas,Travis,2021-11-30,534255.0,2515
+Texas,Travis,2021-12-31,545881.0,11842
+Virginia,Charlottesville,2020-01-31,314014.0,0
+Virginia,Charlottesville,2020-02-29,314491.0,0
+Virginia,Charlottesville,2020-03-31,314527.0,14
+Virginia,Charlottesville,2020-04-30,314586.0,42
+Virginia,Charlottesville,2020-05-31,315116.0,60
+Virginia,Charlottesville,2020-06-30,316371.0,96
+Virginia,Charlottesville,2020-07-31,317285.0,254
+Virginia,Charlottesville,2020-08-31,318087.0,215
+Virginia,Charlottesville,2020-09-30,318985.0,565
+Virginia,Charlottesville,2020-10-31,320604.0,373
+Virginia,Charlottesville,2020-11-30,322844.0,235
+Virginia,Charlottesville,2020-12-31,325291.0,349
+Virginia,Charlottesville,2021-01-31,328618.0,537
+Virginia,Charlottesville,2021-02-28,332248.0,884
+Virginia,Charlottesville,2021-03-31,337315.0,210
+Virginia,Charlottesville,2021-04-30,342662.0,173
+Virginia,Charlottesville,2021-05-31,348063.0,7
+Virginia,Charlottesville,2021-06-30,353038.0,23
+Virginia,Charlottesville,2021-07-31,357264.0,65
+Virginia,Charlottesville,2021-08-31,361006.0,306
+Virginia,Charlottesville,2021-09-30,363150.0,675
+Virginia,Charlottesville,2021-10-31,365493.0,254
+Virginia,Charlottesville,2021-11-30,368144.0,185
+Virginia,Charlottesville,2021-12-31,373551.0,703
+Virginia,Danville,2020-01-31,126103.0,0
+Virginia,Danville,2020-02-29,126253.0,0
+Virginia,Danville,2020-03-31,126392.0,4
+Virginia,Danville,2020-04-30,126618.0,31
+Virginia,Danville,2020-05-31,126975.0,20
+Virginia,Danville,2020-06-30,127307.0,31
+Virginia,Danville,2020-07-31,127575.0,214
+Virginia,Danville,2020-08-31,127726.0,306
+Virginia,Danville,2020-09-30,127914.0,297
+Virginia,Danville,2020-10-31,128229.0,343
+Virginia,Danville,2020-11-30,129083.0,386
+Virginia,Danville,2020-12-31,129968.0,690
+Virginia,Danville,2021-01-31,131851.0,1333
+Virginia,Danville,2021-02-28,133633.0,662
+Virginia,Danville,2021-03-31,135670.0,-138
+Virginia,Danville,2021-04-30,136960.0,169
+Virginia,Danville,2021-05-31,138233.0,121
+Virginia,Danville,2021-06-30,139496.0,29
+Virginia,Danville,2021-07-31,140658.0,58
+Virginia,Danville,2021-08-31,141953.0,522
+Virginia,Danville,2021-09-30,142972.0,770
+Virginia,Danville,2021-10-31,143883.0,368
+Virginia,Danville,2021-11-30,144645.0,266
+Virginia,Danville,2021-12-31,146974.0,547
+Virginia,Lynchburg,2020-01-31,182823.0,0
+Virginia,Lynchburg,2020-02-29,183415.0,0
+Virginia,Lynchburg,2020-03-31,183805.0,5
+Virginia,Lynchburg,2020-04-30,184400.0,48
+Virginia,Lynchburg,2020-05-31,185491.0,27
+Virginia,Lynchburg,2020-06-30,186965.0,67
+Virginia,Lynchburg,2020-07-31,188528.0,282
+Virginia,Lynchburg,2020-08-31,190214.0,557
+Virginia,Lynchburg,2020-09-30,192010.0,455
+Virginia,Lynchburg,2020-10-31,194057.0,637
+Virginia,Lynchburg,2020-11-30,195799.0,680
+Virginia,Lynchburg,2020-12-31,197428.0,1497
+Virginia,Lynchburg,2021-01-31,199025.0,1918
+Virginia,Lynchburg,2021-02-28,200833.0,724
+Virginia,Lynchburg,2021-03-31,203033.0,299
+Virginia,Lynchburg,2021-04-30,205315.0,410
+Virginia,Lynchburg,2021-05-31,207509.0,230
+Virginia,Lynchburg,2021-06-30,209638.0,-353
+Virginia,Lynchburg,2021-07-31,211915.0,160
+Virginia,Lynchburg,2021-08-31,214666.0,752
+Virginia,Lynchburg,2021-09-30,217333.0,2704
+Virginia,Lynchburg,2021-10-31,220481.0,700
+Virginia,Lynchburg,2021-11-30,223323.0,218
+Virginia,Lynchburg,2021-12-31,225628.0,1188
+Virginia,Martinsville,2020-01-31,82526.0,0
+Virginia,Martinsville,2020-02-29,82758.0,0
+Virginia,Martinsville,2020-03-31,83039.0,0
+Virginia,Martinsville,2020-04-30,83314.0,2
+Virginia,Martinsville,2020-05-31,83547.0,29
+Virginia,Martinsville,2020-06-30,83547.0,47
+Virginia,Martinsville,2020-07-31,83583.0,81
+Virginia,Martinsville,2020-08-31,83412.0,168
+Virginia,Martinsville,2020-09-30,83563.0,58
+Virginia,Martinsville,2020-10-31,83538.0,112
+Virginia,Martinsville,2020-11-30,83912.0,212
+Virginia,Martinsville,2020-12-31,84261.0,293
+Virginia,Martinsville,2021-01-31,85616.0,372
+Virginia,Martinsville,2021-02-28,86938.0,133
+Virginia,Martinsville,2021-03-31,88395.0,46
+Virginia,Martinsville,2021-04-30,89275.0,30
+Virginia,Martinsville,2021-05-31,90138.0,35
+Virginia,Martinsville,2021-06-30,91025.0,11
+Virginia,Martinsville,2021-07-31,91730.0,9
+Virginia,Martinsville,2021-08-31,92515.0,129
+Virginia,Martinsville,2021-09-30,93210.0,154
+Virginia,Martinsville,2021-10-31,93919.0,138
+Virginia,Martinsville,2021-11-30,94520.0,159
+Virginia,Martinsville,2021-12-31,96145.0,173
+Virginia,Montgomery,2020-01-31,196433.0,0
+Virginia,Montgomery,2020-02-29,196695.0,0
+Virginia,Montgomery,2020-03-31,197031.0,1
+Virginia,Montgomery,2020-04-30,197457.0,55
+Virginia,Montgomery,2020-05-31,198167.0,21
+Virginia,Montgomery,2020-06-30,199009.0,68
+Virginia,Montgomery,2020-07-31,199987.0,128
+Virginia,Montgomery,2020-08-31,200747.0,220
+Virginia,Montgomery,2020-09-30,201607.0,1504
+Virginia,Montgomery,2020-10-31,202859.0,940
+Virginia,Montgomery,2020-11-30,205019.0,980
+Virginia,Montgomery,2020-12-31,207119.0,1265
+Virginia,Montgomery,2021-01-31,210411.0,1141
+Virginia,Montgomery,2021-02-28,213272.0,1362
+Virginia,Montgomery,2021-03-31,216087.0,1095
+Virginia,Montgomery,2021-04-30,217870.0,490
+Virginia,Montgomery,2021-05-31,219594.0,142
+Virginia,Montgomery,2021-06-30,221698.0,16
+Virginia,Montgomery,2021-07-31,223530.0,-24
+Virginia,Montgomery,2021-08-31,225612.0,666
+Virginia,Montgomery,2021-09-30,227338.0,1201
+Virginia,Montgomery,2021-10-31,228970.0,510
+Virginia,Montgomery,2021-11-30,230327.0,372
+Virginia,Montgomery,2021-12-31,233937.0,944
+Virginia,Richmond,2020-01-31,249520.0,0
+Virginia,Richmond,2020-02-29,250832.0,0
+Virginia,Richmond,2020-03-31,251855.0,0
+Virginia,Richmond,2020-04-30,252872.0,144
+Virginia,Richmond,2020-05-31,253871.0,132
+Virginia,Richmond,2020-06-30,254969.0,22
+Virginia,Richmond,2020-07-31,256352.0,18
+Virginia,Richmond,2020-08-31,257672.0,17
+Virginia,Richmond,2020-09-30,259277.0,21
+Virginia,Richmond,2020-10-31,261174.0,18
+Virginia,Richmond,2020-11-30,263687.0,57
+Virginia,Richmond,2020-12-31,266961.0,382
+Virginia,Richmond,2021-01-31,270544.0,409
+Virginia,Richmond,2021-02-28,273989.0,156
+Virginia,Richmond,2021-03-31,277293.0,30
+Virginia,Richmond,2021-04-30,280584.0,84
+Virginia,Richmond,2021-05-31,284041.0,40
+Virginia,Richmond,2021-06-30,287679.0,-27
+Virginia,Richmond,2021-07-31,291130.0,-161
+Virginia,Richmond,2021-08-31,294125.0,71
+Virginia,Richmond,2021-09-30,296623.0,213
+Virginia,Richmond,2021-10-31,299052.0,97
+Virginia,Richmond,2021-11-30,301862.0,-16
+Virginia,Richmond,2021-12-31,305456.0,126
+Virginia,Virginia Beach,2020-01-31,244883.0,0
+Virginia,Virginia Beach,2020-02-29,245887.0,0
+Virginia,Virginia Beach,2020-03-31,247172.0,65
+Virginia,Virginia Beach,2020-04-30,248250.0,320
+Virginia,Virginia Beach,2020-05-31,249499.0,323
+Virginia,Virginia Beach,2020-06-30,250658.0,468
+Virginia,Virginia Beach,2020-07-31,251698.0,2879
+Virginia,Virginia Beach,2020-08-31,253143.0,1973
+Virginia,Virginia Beach,2020-09-30,254950.0,909
+Virginia,Virginia Beach,2020-10-31,257496.0,1182
+Virginia,Virginia Beach,2020-11-30,260058.0,2735
+Virginia,Virginia Beach,2020-12-31,262693.0,5775
+Virginia,Virginia Beach,2021-01-31,265106.0,9582
+Virginia,Virginia Beach,2021-02-28,267897.0,4384
+Virginia,Virginia Beach,2021-03-31,271024.0,2571
+Virginia,Virginia Beach,2021-04-30,274685.0,2194
+Virginia,Virginia Beach,2021-05-31,278138.0,821
+Virginia,Virginia Beach,2021-06-30,281719.0,250
+Virginia,Virginia Beach,2021-07-31,285177.0,952
+Virginia,Virginia Beach,2021-08-31,288882.0,5087
+Virginia,Virginia Beach,2021-09-30,292112.0,4927
+Virginia,Virginia Beach,2021-10-31,295028.0,2339
+Virginia,Virginia Beach,2021-11-30,297984.0,1733
+Virginia,Virginia Beach,2021-12-31,301406.0,7142
+Virginia,Winchester,2020-01-31,247862.0,0
+Virginia,Winchester,2020-02-29,248476.0,0
+Virginia,Winchester,2020-03-31,250064.0,3
+Virginia,Winchester,2020-04-30,251636.0,34
+Virginia,Winchester,2020-05-31,252775.0,152
+Virginia,Winchester,2020-06-30,253255.0,128
+Virginia,Winchester,2020-07-31,254195.0,74
+Virginia,Winchester,2020-08-31,255823.0,48
+Virginia,Winchester,2020-09-30,258038.0,69
+Virginia,Winchester,2020-10-31,260381.0,123
+Virginia,Winchester,2020-11-30,263034.0,435
+Virginia,Winchester,2020-12-31,265559.0,583
+Virginia,Winchester,2021-01-31,268881.0,638
+Virginia,Winchester,2021-02-28,272420.0,173
+Virginia,Winchester,2021-03-31,277018.0,197
+Virginia,Winchester,2021-04-30,281078.0,161
+Virginia,Winchester,2021-05-31,285118.0,103
+Virginia,Winchester,2021-06-30,289187.0,23
+Virginia,Winchester,2021-07-31,293682.0,26
+Virginia,Winchester,2021-08-31,298658.0,223
+Virginia,Winchester,2021-09-30,302970.0,369
+Virginia,Winchester,2021-10-31,306790.0,140
+Virginia,Winchester,2021-11-30,310537.0,98
+Virginia,Winchester,2021-12-31,315036.0,606
+Washington,Benton,2020-01-31,311817.0,0
+Washington,Benton,2020-02-29,313481.0,0
+Washington,Benton,2020-03-31,314383.0,89
+Washington,Benton,2020-04-30,313963.0,341
+Washington,Benton,2020-05-31,313916.0,364
+Washington,Benton,2020-06-30,313892.0,997
+Washington,Benton,2020-07-31,314781.0,1687
+Washington,Benton,2020-08-31,315888.0,698
+Washington,Benton,2020-09-30,317498.0,446
+Washington,Benton,2020-10-31,319302.0,822
+Washington,Benton,2020-11-30,321462.0,2947
+Washington,Benton,2020-12-31,323894.0,3301
+Washington,Benton,2021-01-31,327411.0,2623
+Washington,Benton,2021-02-28,331242.0,694
+Washington,Benton,2021-03-31,336043.0,668
+Washington,Benton,2021-04-30,340971.0,956
+Washington,Benton,2021-05-31,347238.0,610
+Washington,Benton,2021-06-30,354658.0,626
+Washington,Benton,2021-07-31,362505.0,1689
+Washington,Benton,2021-08-31,369937.0,5070
+Washington,Benton,2021-09-30,377131.0,4564
+Washington,Benton,2021-10-31,383957.0,2084
+Washington,Benton,2021-11-30,391402.0,1017
+Washington,Benton,2021-12-31,398537.0,1032
+Washington,King,2020-01-31,527575.0,0
+Washington,King,2020-02-29,533503.0,5
+Washington,King,2020-03-31,539511.0,2324
+Washington,King,2020-04-30,543842.0,3877
+Washington,King,2020-05-31,543855.0,1885
+Washington,King,2020-06-30,543326.0,2246
+Washington,King,2020-07-31,545008.0,5074
+Washington,King,2020-08-31,552935.0,4417
+Washington,King,2020-09-30,562164.0,2893
+Washington,King,2020-10-31,572778.0,5544
+Washington,King,2020-11-30,581983.0,17307
+Washington,King,2020-12-31,588871.0,17007
+Washington,King,2021-01-31,595902.0,15430
+Washington,King,2021-02-28,603292.0,6004
+Washington,King,2021-03-31,612388.0,6678
+Washington,King,2021-04-30,622703.0,11191
+Washington,King,2021-05-31,634759.0,7646
+Washington,King,2021-06-30,652385.0,3000
+Washington,King,2021-07-31,668077.0,4267
+Washington,King,2021-08-31,681454.0,18745
+Washington,King,2021-09-30,689764.0,15926
+Washington,King,2021-10-31,697361.0,12559
+Washington,King,2021-11-30,708330.0,9102
+Washington,King,2021-12-31,719871.0,26779
+Washington,Kitsap,2020-01-31,394812.0,0
+Washington,Kitsap,2020-02-29,397373.0,0
+Washington,Kitsap,2020-03-31,401399.0,74
+Washington,Kitsap,2020-04-30,405825.0,75
+Washington,Kitsap,2020-05-31,407902.0,12
+Washington,Kitsap,2020-06-30,410502.0,65
+Washington,Kitsap,2020-07-31,413169.0,404
+Washington,Kitsap,2020-08-31,419388.0,368
+Washington,Kitsap,2020-09-30,425993.0,230
+Washington,Kitsap,2020-10-31,434416.0,348
+Washington,Kitsap,2020-11-30,441373.0,952
+Washington,Kitsap,2020-12-31,448571.0,1359
+Washington,Kitsap,2021-01-31,455695.0,1257
+Washington,Kitsap,2021-02-28,463004.0,637
+Washington,Kitsap,2021-03-31,470089.0,620
+Washington,Kitsap,2021-04-30,478240.0,1175
+Washington,Kitsap,2021-05-31,486174.0,869
+Washington,Kitsap,2021-06-30,496609.0,400
+Washington,Kitsap,2021-07-31,504385.0,454
+Washington,Kitsap,2021-08-31,516545.0,2606
+Washington,Kitsap,2021-09-30,525224.0,3093
+Washington,Kitsap,2021-10-31,535446.0,1922
+Washington,Kitsap,2021-11-30,540910.0,1253
+Washington,Kitsap,2021-12-31,547857.0,1878
+Washington,Skagit,2020-01-31,388840.0,0
+Washington,Skagit,2020-02-29,390800.0,0
+Washington,Skagit,2020-03-31,391826.0,121
+Washington,Skagit,2020-04-30,393489.0,208
+Washington,Skagit,2020-05-31,394342.0,105
+Washington,Skagit,2020-06-30,397439.0,91
+Washington,Skagit,2020-07-31,400519.0,298
+Washington,Skagit,2020-08-31,405763.0,227
+Washington,Skagit,2020-09-30,410211.0,97
+Washington,Skagit,2020-10-31,416510.0,187
+Washington,Skagit,2020-11-30,423600.0,838
+Washington,Skagit,2020-12-31,430261.0,1127
+Washington,Skagit,2021-01-31,436382.0,789
+Washington,Skagit,2021-02-28,445924.0,342
+Washington,Skagit,2021-03-31,455602.0,292
+Washington,Skagit,2021-04-30,465996.0,659
+Washington,Skagit,2021-05-31,471105.0,491
+Washington,Skagit,2021-06-30,479143.0,175
+Washington,Skagit,2021-07-31,488567.0,242
+Washington,Skagit,2021-08-31,502585.0,1455
+Washington,Skagit,2021-09-30,513771.0,1753
+Washington,Skagit,2021-10-31,525942.0,1762
+Washington,Skagit,2021-11-30,537567.0,1573
+Washington,Skagit,2021-12-31,550774.0,1159
+Washington,Spokane,2020-01-31,275739.0,0
+Washington,Spokane,2020-02-29,280978.0,0
+Washington,Spokane,2020-03-31,286717.0,136
+Washington,Spokane,2020-04-30,289940.0,221
+Washington,Spokane,2020-05-31,291632.0,239
+Washington,Spokane,2020-06-30,290834.0,799
+Washington,Spokane,2020-07-31,290555.0,2413
+Washington,Spokane,2020-08-31,292960.0,1537
+Washington,Spokane,2020-09-30,297705.0,1777
+Washington,Spokane,2020-10-31,303252.0,2847
+Washington,Spokane,2020-11-30,309818.0,7164
+Washington,Spokane,2020-12-31,316499.0,8448
+Washington,Spokane,2021-01-31,324198.0,7778
+Washington,Spokane,2021-02-28,330056.0,3060
+Washington,Spokane,2021-03-31,335918.0,2001
+Washington,Spokane,2021-04-30,342936.0,2929
+Washington,Spokane,2021-05-31,351869.0,3637
+Washington,Spokane,2021-06-30,363172.0,1877
+Washington,Spokane,2021-07-31,372987.0,1788
+Washington,Spokane,2021-08-31,381067.0,7758
+Washington,Spokane,2021-09-30,387123.0,9146
+Washington,Spokane,2021-10-31,392690.0,6923
+Washington,Spokane,2021-11-30,398983.0,4805
+Washington,Spokane,2021-12-31,405144.0,3191
+Washington,Thurston,2020-01-31,345262.0,0
+Washington,Thurston,2020-02-29,348432.0,0
+Washington,Thurston,2020-03-31,352650.0,48
+Washington,Thurston,2020-04-30,356893.0,57
+Washington,Thurston,2020-05-31,359853.0,42
+Washington,Thurston,2020-06-30,362138.0,118
+Washington,Thurston,2020-07-31,365645.0,370
+Washington,Thurston,2020-08-31,370809.0,319
+Washington,Thurston,2020-09-30,377576.0,244
+Washington,Thurston,2020-10-31,384148.0,612
+Washington,Thurston,2020-11-30,389907.0,1434
+Washington,Thurston,2020-12-31,397016.0,1522
+Washington,Thurston,2021-01-31,403333.0,1614
+Washington,Thurston,2021-02-28,409912.0,824
+Washington,Thurston,2021-03-31,416018.0,628
+Washington,Thurston,2021-04-30,424004.0,1085
+Washington,Thurston,2021-05-31,434249.0,1436
+Washington,Thurston,2021-06-30,445511.0,699
+Washington,Thurston,2021-07-31,457080.0,820
+Washington,Thurston,2021-08-31,466063.0,3122
+Washington,Thurston,2021-09-30,472703.0,3127
+Washington,Thurston,2021-10-31,479077.0,2621
+Washington,Thurston,2021-11-30,486745.0,2086
+Washington,Thurston,2021-12-31,495157.0,3551
+Washington,Walla Walla,2020-01-31,277937.0,0
+Washington,Walla Walla,2020-02-29,278583.0,0
+Washington,Walla Walla,2020-03-31,279172.0,6
+Washington,Walla Walla,2020-04-30,278819.0,61
+Washington,Walla Walla,2020-05-31,279082.0,41
+Washington,Walla Walla,2020-06-30,279247.0,63
+Washington,Walla Walla,2020-07-31,280541.0,244
+Washington,Walla Walla,2020-08-31,281992.0,350
+Washington,Walla Walla,2020-09-30,283773.0,157
+Washington,Walla Walla,2020-10-31,285662.0,329
+Washington,Walla Walla,2020-11-30,288487.0,1046
+Washington,Walla Walla,2020-12-31,293640.0,1221
+Washington,Walla Walla,2021-01-31,299661.0,868
+Washington,Walla Walla,2021-02-28,302097.0,310
+Washington,Walla Walla,2021-03-31,303000.0,130
+Washington,Walla Walla,2021-04-30,304365.0,165
+Washington,Walla Walla,2021-05-31,310137.0,157
+Washington,Walla Walla,2021-06-30,316751.0,323
+Washington,Walla Walla,2021-07-31,323998.0,539
+Washington,Walla Walla,2021-08-31,335481.0,1013
+Washington,Walla Walla,2021-09-30,346160.0,1159
+Washington,Walla Walla,2021-10-31,358825.0,654
+Washington,Walla Walla,2021-11-30,367548.0,420
+Washington,Walla Walla,2021-12-31,374913.0,356
