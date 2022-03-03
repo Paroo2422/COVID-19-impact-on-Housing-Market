@@ -1,53 +1,53 @@
 state_name,county_name,Date,Price
-California,Los Angeles,2022-01-31,878396.0
-Texas,Dallas,2022-01-31,351550.0
-Texas,Harris,2022-01-31,282014.0
-California,San Francisco,2022-01-31,1391474.0
-California,Riverside,2022-01-31,544220.0
-Washington,King,2022-01-31,733604.0
-California,San Diego,2022-01-31,857991.0
-Colorado,Denver,2022-01-31,598233.0
-California,Sacramento,2022-01-31,583329.0
-Texas,Bexar,2022-01-31,309475.0
-California,Santa Clara,2022-01-31,1578375.0
-Texas,Travis,2022-01-31,558699.0
-Virginia,Virginia Beach,2022-01-31,305036.0
-Virginia,Richmond,2022-01-31,309300.0
 California,Fresno,2022-01-31,369498.0
 California,Kern,2022-01-31,315415.0
-Texas,El Paso,2022-01-31,179334.0
-California,San Joaquin,2022-01-31,530466.0
-Colorado,El Paso,2022-01-31,462802.0
-Washington,Spokane,2022-01-31,411352.0
-California,Stanislaus,2022-01-31,443554.0
-California,Sonoma,2022-01-31,768734.0
-California,Tulare,2022-01-31,316528.0
-California,Santa Barbara,2022-01-31,894088.0
+California,Los Angeles,2022-01-31,878396.0
 California,Monterey,2022-01-31,802927.0
-California,Solano,2022-01-31,600976.0
-Colorado,Larimer,2022-01-31,540045.0
-Colorado,Boulder,2022-01-31,755371.0
-Texas,Lubbock,2022-01-31,189108.0
-California,San Luis Obispo,2022-01-31,818950.0
-California,Santa Cruz,2022-01-31,1174602.0
-Washington,Benton,2022-01-31,406397.0
-Colorado,Weld,2022-01-31,494241.0
-Washington,Thurston,2022-01-31,502325.0
-Washington,Kitsap,2022-01-31,552864.0
-Virginia,Lynchburg,2022-01-31,227335.0
-Virginia,Charlottesville,2022-01-31,378883.0
-Texas,Gregg,2022-01-31,182604.0
-Virginia,Montgomery,2022-01-31,237348.0
-California,Shasta,2022-01-31,370634.0
-Colorado,Pueblo,2022-01-31,289427.0
-Colorado,Mesa,2022-01-31,367903.0
 California,Napa,2022-01-31,872027.0
-Virginia,Winchester,2022-01-31,319082.0
-Washington,Skagit,2022-01-31,562064.0
-Virginia,Danville,2022-01-31,149144.0
-Colorado,Garfield,2022-01-31,731736.0
-Virginia,Martinsville,2022-01-31,97731.0
-Washington,Walla Walla,2022-01-31,381225.0
+California,Riverside,2022-01-31,544220.0
+California,Sacramento,2022-01-31,583329.0
+California,San Diego,2022-01-31,857991.0
+California,San Francisco,2022-01-31,1391474.0
+California,San Joaquin,2022-01-31,530466.0
+California,San Luis Obispo,2022-01-31,818950.0
+California,Santa Barbara,2022-01-31,894088.0
+California,Santa Clara,2022-01-31,1578375.0
+California,Santa Cruz,2022-01-31,1174602.0
+California,Shasta,2022-01-31,370634.0
+California,Solano,2022-01-31,600976.0
+California,Sonoma,2022-01-31,768734.0
+California,Stanislaus,2022-01-31,443554.0
+California,Tulare,2022-01-31,316528.0
+Colorado,Boulder,2022-01-31,755371.0
+Colorado,Denver,2022-01-31,598233.0
 Colorado,Eagle,2022-01-31,1042126.0
+Colorado,El Paso,2022-01-31,462802.0
+Colorado,Garfield,2022-01-31,731736.0
+Colorado,Larimer,2022-01-31,540045.0
+Colorado,Mesa,2022-01-31,367903.0
 Colorado,Montrose,2022-01-31,379470.0
+Colorado,Pueblo,2022-01-31,289427.0
 Colorado,Routt,2022-01-31,890467.0
+Colorado,Weld,2022-01-31,494241.0
+Texas,Bexar,2022-01-31,309475.0
+Texas,Dallas,2022-01-31,351550.0
+Texas,El Paso,2022-01-31,179334.0
+Texas,Gregg,2022-01-31,182604.0
+Texas,Harris,2022-01-31,282014.0
+Texas,Lubbock,2022-01-31,189108.0
+Texas,Travis,2022-01-31,558699.0
+Virginia,Charlottesville,2022-01-31,378883.0
+Virginia,Danville,2022-01-31,149144.0
+Virginia,Lynchburg,2022-01-31,227335.0
+Virginia,Martinsville,2022-01-31,97731.0
+Virginia,Montgomery,2022-01-31,237348.0
+Virginia,Richmond,2022-01-31,309300.0
+Virginia,Virginia Beach,2022-01-31,305036.0
+Virginia,Winchester,2022-01-31,319082.0
+Washington,Benton,2022-01-31,406397.0
+Washington,King,2022-01-31,733604.0
+Washington,Kitsap,2022-01-31,552864.0
+Washington,Skagit,2022-01-31,562064.0
+Washington,Spokane,2022-01-31,411352.0
+Washington,Thurston,2022-01-31,502325.0
+Washington,Walla Walla,2022-01-31,381225.0
