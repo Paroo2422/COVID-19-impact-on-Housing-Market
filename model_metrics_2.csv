@@ -1,0 +1,21 @@
+﻿"county, state",multiple LR,scaled,R2,R2_pred,MAE,MSE,RMSE
+"Los Angeles, California",Yes,No,0.96,-33.09,10027.79,241756906.7,15548.53
+"Denver, Colorado",Yes,No,0.97,-15.13,8251.81,112505449.4,10606.86
+"Dallas, Texas",Yes,No,0.99,-10.09,2896.51,20162314.39,4490.25
+"Virginia Beach, Virginia",Yes,No,0.87,-27.84,4179.71,32690749.57,5717.58
+"King, Washington",Yes,No,0.96,-17.65,12755.23,275919923.7,16610.84
+"Los Angeles, California",Yes,Yes,0.96,-33.09,10027.79,241756906.7,15548.53
+"Denver, Colorado",Yes,Yes,0.97,-15.13,8251.81,112505449.4,10606.86
+"Dallas, Texas",Yes,Yes,0.99,-10.09,2896.51,20162314.39,4490.25
+"Virginia Beach, Virginia",Yes,Yes,0.87,-27.84,4179.71,32690749.57,5717.58
+"King, Washington",Yes,Yes,0.96,-17.65,12755.23,275919923.7,16610.84
+"Los Angeles, California",No,No,0.96,-30.08,9929.13,226597526.6,15053.16
+"Denver, Colorado",No,No,0.97,-13.43,8680.02,108224797.1,10403.11
+"Dallas, Texas",No,No,0.98,-9.13,3458.25,21221382.78,4606.67
+"Virginia Beach, Virginia",No,No,0.83,-32.66,4986.37,43692919.06,6610.06
+"King, Washington",No,No,0.96,-16.12,13533.84,278507955.3,16688.56
+"Los Angeles, California",No,Yes,0.96,-30.08,9929.13,226597526.6,15053.16
+"Denver, Colorado",No,Yes,0.97,-13.43,8680.02,108224797.1,10403.11
+"Dallas, Texas",No,Yes,0.98,-9.13,3458.25,21221382.78,4606.67
+"Virginia Beach, Virginia",No,Yes,0.83,-32.66,4986.37,43692919.06,6610.06
+"King, Washington",No,Yes,0.96,-16.12,13533.84,278507955.3,16688.56
