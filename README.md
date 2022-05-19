@@ -1,4 +1,6 @@
 # COVID-19-impact-on-Housing-Market
+![image](https://user-images.githubusercontent.com/80713174/169184684-ac215ec6-f736-4a46-81b7-0878be4cabc2.png)
+Credit: Getty Images/iStockphoto
 
 When the Covid –19 pandemic hit the USA, it took a toll not only on people’s life, but also on the economy. The International Monetary Fund estimated the median global GDP dropped by 3.9% from 2019 to 2020, making it the next bad economic downturn after the great depression. Tens of millions of people lost their job. Employment began to rebound within a few months, but unemployment remained high throughout 2020.  The great depression between 2007 – 2009 observed plummeting of the U.S housing bubble. The reason for this study is to see if there was any impact of COVID- 19 cases on the housing market. Did the housing prices go up or down during COVID? Does/ did the number of covid cases affect the prices? Also predicting housing prices helps people to plan to buy a house so they can know the price range in the future and plan their finances well. Housing price prediction also allows the investors to learn about the trend of the prices in a certain location.
 
